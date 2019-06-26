@@ -1,7 +1,7 @@
-# Studies-about-Github-API
+# github-user-informations-grabber
 
-Para executar os códigos nesse repositório é necessário ter o PyGithub instalado.
-A versão 3.6.5 do Python foi utilizada na execução dos códigos.
+You need PyGitHub and Python 3.6.5 to run some scripts in this repository.
+
 
 PyGithub:
 
