@@ -1,4 +1,4 @@
-# github-user-informations-grabber
+# github-user-informations-collector
 
 You need PyGitHub and Python 3.6.5 to run some scripts in this repository.
 
