@@ -1,0 +1,38 @@
+css:
+  - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+  - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css
+
+js:
+  - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
+
+classes:
+  'table':
+    - table
+    - table-condensed
+    - table-striped
+
+  'body':
+    - container
+
+  'form > div':
+    - form-group
+
+  'label':
+    - form-label
+
+  'input':
+    - form-control
+
+  'textarea':
+    - form-control
+
+  'button':
+    - btn
+    - btn-default
+
+  '.button':
+    - btn
+    - btn-default
+
+  'dl':
+    - dl-horizontal

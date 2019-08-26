@@ -1,0 +1,25 @@
+css:
+  - https://fonts.googleapis.com/icon?family=Material+Icons
+  - https://code.getmdl.io/1.1.3/material.indigo-pink.min.css
+
+js:
+  - https://code.getmdl.io/1.1.3/material.min.js
+
+
+classes:
+  'button':
+    - mdl-button
+    - mdl-js-button
+    - mdl-button--raised
+
+  'table':
+    - mdl-data-table
+    - mdl-js-data-table
+    - mdl-data-table--selectable
+    - mdl-shadow--2dp
+
+  'input':
+    - mdl-textfield__input
+
+  'textarea':
+    - mdl-textfield__input

@@ -1,20 +1,99 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Leonardo Furtado"
+__contact__ = "leonardofurtado@ieee.org"
+
 import csv
+import requests
 import math
+import time
 from github import Github
 
-g = Github("88f206d8d9b6090916476014b7596bf8d44cf758")
-output_file = open(r'laravel.csv', 'a', encoding='utf8')
+# meu 53b800d95851420a05584f980bbe7d652461963a
+# bot f5a0f7085200659632626e8ef5f0c5c769ba2032
+g = Github("f5a0f7085200659632626e8ef5f0c5c769ba2032")
+output_file = open(r"../data/bases/self_merge/atom_self.csv", "a", encoding="utf8")
 writer = csv.writer(output_file)
-repository = g.get_repo("laravel/laravel")
+writer.writerow(
+    [
+        "login",
+        "name",
+        "email",
+        "bio",
+        "company",
+        "blog",
+        "location",
+        "merged",
+        "merged_by",
+        "orgs",
+    ]
+)
 
-result = repository.get_pulls(state="closed")
 
-def get_pull_requests_data():
-    page = math.ceil(result.totalCount//30)
-    for i in range(85, page):
-        print(i)
-        for k in result.get_page(i):
-            writer.writerow([k.user.name, k.user.login, k.user.blog, k.merged, k.user.location])
+def get_user_orgs(user):
+    orgs = []
+    for org in g.get_user(user).get_orgs():
+        orgs.append(org.login)
+
+    return orgs
 
 
-get_pull_requests_data()
+def get_merged_by(user):
+    if user:
+        return user.login
+
+    return None
+
+
+def check_rate_limiting():
+    g = Github("f5a0f7085200659632626e8ef5f0c5c769ba2032")
+    print(g.rate_limiting[0])
+    while g.rate_limiting[0] < 10:
+        print("sleeping, rate limit:", g.rate_limiting[0])
+        time.sleep(600)
+        g = Github("f5a0f7085200659632626e8ef5f0c5c769ba2032")
+
+
+def get_pull_requests_data(repository):
+    repository = g.get_repo(repository)
+    pulls = repository.get_pulls(state="closed")
+    total_pages = math.ceil(pulls.totalCount // 30)
+    for i in range(0, total_pages + 1):
+        print(f"total: {total_pages}, page: {i}")
+        for pull in pulls.get_page(i):
+            try:
+                check_rate_limiting()
+                if (pull.user.location) != None and (
+                    pull.user.login == get_merged_by(pull.merged_by)
+                ):
+                    writer.writerow(
+                        [
+                            pull.id,
+                            pull.user.login,
+                            pull.user.name,
+                            pull.user.email,
+                            pull.user.bio,
+                            pull.user.company,
+                            pull.user.blog,
+                            pull.user.location,
+                            pull.merged,
+                            get_merged_by(pull.merged_by),
+                            get_user_orgs(pull.user.login),
+                        ]
+                    )
+            except requests.exceptions.HTTPError as error:
+                print("requests.exceptions.HTTPError")
+            except requests.exceptions.ConnectionError as error:
+                print("requests.exceptions.ConnectionError")
+            except requests.exceptions.Timeout as error:
+                print("requests.exceptions.Timeout")
+            except requests.exceptions.RequestException as error:
+                print("requests.exceptions.RequestException")
+            except github.GithubException.GithubException as error:
+                print("github.GithubException.GithubException")
+            except requests.exceptions.ReadTimeout as error:
+                print("requests.exceptions.ReadTimeout")
+
+
+get_pull_requests_data("atom/atom")
