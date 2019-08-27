@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import csv
 import pandas as pd
+import re
 
 projects = [
     "atom",
@@ -19,7 +22,7 @@ projects = [
     "vue",
 ]
 
-file = "countries/countries.csv"
+fil = "countries/countries.csv"
 
 
 def get_country(city, file):
@@ -30,20 +33,35 @@ def get_country(city, file):
         for row in spamreader:
             if city == row[0] or city == row[1] or city == row[2] or city == row[3]:
                 return row[2]
-    return "undefined"
+    return None
+
+
+# def get_country(city, file):
+#     city = city.lower()
+#     df = pd.read_csv(file)
+#     for index, row in df.iterrows():
+#         if city == row["a"] or city == row["b"] or city == row["c"] or city == row["d"]:
+#             return row["c"]
+#     return None
+
+
+def clear_location(location):
+    locations = re.split(r"[^A-Za-z ]", location)
+    for i in range(len(locations)):
+        locations[i] = locations[i].strip()
+
+    return locations
 
 
 for project in projects:
     df = pd.read_csv("../../data/bases/" + project + ".csv")
+    new_countries = []
     for index, row in df.iterrows():
-        print(row["location"])
+        loc = "undefined"
+        for location in clear_location(row["location"]):
+            if get_country(location, fil):
+                loc = get_country(location, fil)
+        new_countries.append(loc)
 
-#         with open("laravel_rate.csv", "a", newline="") as novo:
-#             writer = csv.writer(novo)
-#             if row[4].replace('"', ""):
-#                 # row.append(get_country(row[4].replace('"',''), file))+"\n"
-#                 # novo.write(row)
-#                 if get_country(row[4].replace('"', ""), file) == "Undefined":
-#                     writer.writerow(["Undefined"])
-#                 else:
-#                     writer.writerow([get_country(row[4].replace('"', ""), file)])
+    df["country"] = new_countries
+    df.to_csv(project + ".csv", index=False)
