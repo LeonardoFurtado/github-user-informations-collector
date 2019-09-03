@@ -11,9 +11,9 @@ import time
 from github import Github
 
 # meu 53b800d95851420a05584f980bbe7d652461963a
-# bot f5a0f7085200659632626e8ef5f0c5c769ba2032
-g = Github("53b800d95851420a05584f980bbe7d652461963a")
-output_file = open(r"../data/bases/react-native.csv", "a", encoding="utf8")
+# bot 9b01cdb925df2b183604d238c6e85cda5b39166b
+g = Github("9b01cdb925df2b183604d238c6e85cda5b39166b")
+output_file = open(r"../data/bases/angular.csv", "a", encoding="utf8")
 writer = csv.writer(output_file)
 writer.writerow(
     [
@@ -47,12 +47,12 @@ def get_merged_by(user):
 
 
 def check_rate_limiting():
-    g = Github("53b800d95851420a05584f980bbe7d652461963a")
+    g = Github("9b01cdb925df2b183604d238c6e85cda5b39166b")
     print(g.rate_limiting[0])
     while g.rate_limiting[0] < 10:
         print("sleeping, rate limit:", g.rate_limiting[0])
         time.sleep(600)
-        g = Github("53b800d95851420a05584f980bbe7d652461963a")
+        g = Github("9b01cdb925df2b183604d238c6e85cda5b39166b")
 
 
 def get_pull_requests_data(repository):
@@ -94,4 +94,4 @@ def get_pull_requests_data(repository):
                 print("requests.exceptions.ReadTimeout")
 
 
-get_pull_requests_data("facebook/react-native")
+get_pull_requests_data("angular/angular")

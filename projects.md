@@ -13,3 +13,9 @@
 //ionic-team/ionic                  - framework mobile
 //vuejs/vue                         - framework web
 //apple/swift                       - programming lang
+
+tensorflow/tensorflow
+angular/angular-cli
+spyder-ide/spyder ???????????
+react nativ
+angular

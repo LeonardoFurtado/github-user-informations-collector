@@ -1,10 +1,24 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("../../data/bases/fullybase.csv")
+# df = pd.read_csv("../../data/bases/fullybase.csv")
+df = pd.read_csv("chamanodale.csv")
+# df_accepted = df.loc[df["merged"] != False]
+# df_rejected = df.loc[df["merged"] == False]
 
-# df.groupby("country").size().to_csv("dale.csv")
 # print(df.groupby("country").groups["undefined"])
 
-family = np.where((df["merged"] != "False", "accepted", "recused"))
-df.groupby(family)["dale"].mean()
+# Total pull requests
+# df.groupby("country").size().to_csv("total.csv")
+
+# Pull requests accepted by country
+# df_accepted.groupby("country").size().to_csv("accepted.csv")
+
+# Pull requests rejected by country
+# df_rejected.groupby("country").size().to_csv("rejected.csv")
+
+df.sort_values("name", inplace=True)
+df = df.drop_duplicates(subset="name", inplace=False)
+print(df["name"].count())
+
+print(df["name"].nunique())
