@@ -2,6 +2,8 @@ import pandas as pd
 
 projects = [
     "atom",
+    "angular",
+    "angular-cli",
     "cpython",
     "d3",
     "django",
@@ -11,8 +13,11 @@ projects = [
     "mongo",
     "php",
     "react",
+    "react-native",
     "laravel",
+    "tensorflow",
     "scikit-learn",
+    "spyder",
     "swift",
     "vscode",
     "vue",

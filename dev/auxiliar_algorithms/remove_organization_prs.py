@@ -14,7 +14,7 @@ projects = {
         "facebook",
         "capitalone",
         "google",
-        "aws",
+        "google inc." "aws",
         "fastly",
         "bloomberg",
         "redhat",
@@ -51,7 +51,7 @@ projects = {
         "ibm",
         "aws",
         "google",
-        "googlecloudplatform",
+        "google inc." "googlecloudplatform",
         "microsoft",
         "azure",
         "infosys",
@@ -59,7 +59,7 @@ projects = {
         "pivotal",
     ],
     "php": ["php", "digitalocean", "jetbrains", "pantheon", "pantheon-systems"],
-    "react": ["react", "reactjs", "github"],
+    "react": ["react", "reactjs", "facebook"],
     "laravel": [
         "laravel",
         "vehikil",
@@ -73,7 +73,7 @@ projects = {
     ],
     "scikit-learn": [
         "google",
-        "inria",
+        "google inc." "inria",
         "nyu",
         "telecom-parisTech",
         "columbia",
@@ -93,6 +93,26 @@ projects = {
         "laravel",
         "vue mastery",
     ],
+    "angular": ["angular", "google", "google inc."],
+    "angular-cli": ["angular", "google", "google inc."],
+    "spyder": [
+        "quansight",
+        "numfocus",
+        "spyder",
+        "spyder-ide",
+        "triplebyte",
+        "levitronix",
+        "rollbar",
+        "opencollective",
+        "university-of-oslo",
+        "hrank",
+        "levitronix",
+        "hostpresto",
+        "appstam",
+        "audit-data-analytics",
+    ],
+    "tensorflow": ["tensorflow"],
+    "react-native": ["react", "reactjs", "facebook", "react-native"],
 }
 
 
@@ -110,4 +130,4 @@ for project in projects:
         elif str(row["company"]).replace("@", "").lower() in projects[project]:
             df = df.drop(index)
 
-    df.to_csv("../../data/bases/orgs_remove/" + project + ".csv", index=False)
+    df.to_csv("output/" + project + ".csv", index=False)

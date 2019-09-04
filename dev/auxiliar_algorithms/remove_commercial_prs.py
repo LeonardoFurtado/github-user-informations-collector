@@ -11,6 +11,8 @@ from common.email_utils import is_commercial
 
 projects = [
     "atom",
+    "angular",
+    "angular-cli",
     "cpython",
     "d3",
     "django",
@@ -20,8 +22,11 @@ projects = [
     "mongo",
     "php",
     "react",
+    "react-native",
     "laravel",
+    "tensorflow",
     "scikit-learn",
+    "spyder",
     "swift",
     "vscode",
     "vue",
@@ -32,4 +37,4 @@ for project in projects:
     for index, row in df.iterrows():
         if is_commercial(row["email"]):
             df = df.drop(index)
-    df.to_csv("../../data/bases/comercial_remove/" + project + ".csv", index=False)
+    df.to_csv("output/" + project + ".csv", index=False)

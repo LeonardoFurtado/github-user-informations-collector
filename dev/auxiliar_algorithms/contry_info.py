@@ -1,26 +1,33 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("../../data/bases/complete_dataset.csv")
+df = pd.read_csv("../../data/bases/fullybase.csv")
 df_accepted = df.loc[df["merged"] != False]
 df_rejected = df.loc[df["merged"] == False]
 
-# print(df.groupby("country").groups["undefined"])
-print(len(df.groupby("country").groups["undefined"]))
-
-# Total pull requests by country
+# # Total de contribuidores
+# print("Total de pull contribuidores: ", df["login"].nunique())
+#
+# # Total de pull requests
+# print("Total de pull requests: ", df["login"].count())
+#
+# # Contribuicoes por pais
 # df.groupby("country").size().to_csv("total.csv")
-
-# Pull requests accepted by country
+#
+# # Contribuicoes aceitas
 # df_accepted.groupby("country").size().to_csv("accepted.csv")
-
-# Pull requests rejected by country
+#
+# # Pull requests rejected by country
 # df_rejected.groupby("country").size().to_csv("rejected.csv")
 
-# df.sort_values("name", inplace=True)
-# df = df.drop_duplicates(subset="name", inplace=False)
-# print(df["name"].count())
-#
-# print(df["name"].nunique())
+
+# print(df.groupby("country").groups["undefined"])
+# print(df.groupby("country").groups())
+
+
+df.sort_values("login", inplace=True)
+df_2 = df.drop_duplicates(subset="login", inplace=False)
+df_2.groupby("country").size().to_csv("contripercountry.csv")
+
 
 # Contributos by country

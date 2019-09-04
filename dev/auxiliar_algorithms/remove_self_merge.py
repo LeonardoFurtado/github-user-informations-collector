@@ -9,6 +9,8 @@ import csv
 
 projects = [
     "atom",
+    "angular",
+    "angular-cli",
     "cpython",
     "d3",
     "django",
@@ -18,8 +20,11 @@ projects = [
     "mongo",
     "php",
     "react",
+    "react-native",
     "laravel",
+    "tensorflow",
     "scikit-learn",
+    "spyder",
     "swift",
     "vscode",
     "vue",
@@ -30,4 +35,4 @@ for project in projects:
     for index, row in df.iterrows():
         if row["login"] == row["merged_by"]:
             df = df.drop(index)
-    df.to_csv(project + ".csv", index=False)
+    df.to_csv("output/" + project + ".csv", index=False)

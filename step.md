@@ -1,3 +1,0 @@
-- Selecionar projetos
-- Selecionar e baixar os dados desejados
-- Executar a ferramenta de detecção de países
