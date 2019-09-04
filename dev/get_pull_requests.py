@@ -13,7 +13,7 @@ from github import Github
 # meu 53b800d95851420a05584f980bbe7d652461963a
 # bot f5a0f7085200659632626e8ef5f0c5c769ba2032
 g = Github("53b800d95851420a05584f980bbe7d652461963a")
-output_file = open(r"../data/bases/react-native.csv", "a", encoding="utf8")
+output_file = open(r"../data/bases/angular-cli.csv", "a", encoding="utf8")
 writer = csv.writer(output_file)
 writer.writerow(
     [
@@ -94,4 +94,4 @@ def get_pull_requests_data(repository):
                 print("requests.exceptions.ReadTimeout")
 
 
-get_pull_requests_data("facebook/react-native")
+get_pull_requests_data("angular/angular-cli")
