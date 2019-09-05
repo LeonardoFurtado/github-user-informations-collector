@@ -1,3 +1,1 @@
-- solve florianopolis case
-- solve montreal
-- zurich
+
