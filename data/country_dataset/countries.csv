@@ -8045,6 +8045,7 @@ pago pago,pago pago,american samoa,
 hagåtña,hagta,guam,
 maina,maina,guam,
 capitol hill,capitol hill,northern mariana islands,
+washington dc,washington dc,united states,washington dc
 renton,renton,united states,washington
 bay area,bay area,united states, california
 chehalis,chehalis,united states,washington
@@ -9741,9 +9742,6 @@ watervliet,watervliet,united states,new york
 hempstead,hempstead,united states,new york
 ravena,ravena,united states,new york
 new york,new york,united states,new york
-new york city,new york city,united states,new york city
-nyc,nyc,united states,nyc
-ny,ny,united states,ny
 scarsdale,scarsdale,united states,new york
 bronx,bronx,united states,new york
 fulton,fulton,united states,new york
@@ -12898,3 +12896,13 @@ tea,tea,united states,south dakota
 brandon,brandon,united states,south dakota
 madison,madison,united states,south dakota
 belle fourche,belle fourche,united states,south dakota
+new york city,new york city,united states,new york city
+nyc,nyc,united states,nyc
+ny,ny,united states,ny
+usa,usa,united states,usa
+delft,delft,netherlands,delft
+bengaluru,bengaluru,india,bengaluru
+brasil,brasil,brazil,brasil
+copenhagen,copenhagen,denmark,copenhagen
+england,england,united kingdom,england
+kyiv,kyiv,ukraine,kyiv

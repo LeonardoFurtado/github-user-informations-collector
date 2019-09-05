@@ -24,7 +24,7 @@ projects = [
     "vue",
 ]
 
-file = "../../data/country_dataset/countries.csv"
+fil = "../../data/country_dataset/countries.csv"
 
 
 def get_country(city, file):
@@ -39,7 +39,7 @@ def get_country(city, file):
 
 
 def clear_location(location):
-    locations = re.split(r"[^A-Za-z ]", location)
+    locations = re.split(r"[^\wÀ-ú ]", location)
     for i in range(len(locations)):
         locations[i] = locations[i].strip()
 

@@ -6,7 +6,7 @@ login | name | email | bio | company | blog | location | merged | merged_by | or
 ------|------|-------|-----|---------|------|----------|--------|-----------|-----
 
 ## Data Download Period
-starts August, 9st 2019, ends August, 20st 2019
+starts August, 9 2019, ends september, 4 2019
 
 ## modifications
 - self merged pull requests was removed
