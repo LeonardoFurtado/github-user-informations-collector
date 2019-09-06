@@ -6,7 +6,6 @@ remove los angeles
 remove portland
 insert initials nyc,ny
 insert city new york city
-insert USA
 insert the netherlands
 insert washington DC
-insert https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
+insert country regional codes from https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes

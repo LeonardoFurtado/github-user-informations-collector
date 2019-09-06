@@ -22,6 +22,11 @@ projects = [
     "swift",
     "vscode",
     "vue",
+    "angular",
+    "angular-cli",
+    "tensorflow",
+    "react-native",
+    "spyder",
 ]
 
 fil = "../../data/country_dataset/countries.csv"
@@ -46,7 +51,7 @@ def clear_location(location):
     return locations
 
 
-df = pd.read_csv("../../data/bases/fullybase.csv")
+df = pd.read_csv("../../data/bases/all_projects.csv")
 new_countries = []
 for index, row in df.iterrows():
     loc = "undefined"
@@ -56,4 +61,4 @@ for index, row in df.iterrows():
     new_countries.append(loc)
 
 df["country"] = new_countries
-df.to_csv("fullybase.csv", index=False)
+df.to_csv("all_projects.csv", index=False)

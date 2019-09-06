@@ -1,0 +1,859 @@
+login,name,email,bio,company,blog,location,merged,merged_by,orgs
+brettz9,Brett Zamir,,,,http://brett-zamir.me,"Shenzhen, China",False,,['passport-next']
+brettz9,Brett Zamir,,,,http://brett-zamir.me,"Shenzhen, China",False,,['passport-next']
+jomaxx,Josef Maxx Blake,,,Spotify,http://jomaxx.com,"New York, NY",False,,[]
+j2kenton,Jonathan Kenton,,,Rapaport,,Israel,False,,[]
+stevemao,Steve Mao,,https://www.cthroo.com,@Cthroo & @fp-works,https://twitter.com/MaoStevemao,Sydney,False,,"['webcomponents', 'browserify', 'EpicGames', 'FingerActions', 'nodejs', 'conventional-changelog', 'so-fancy', 'left-pad', 'styled-components', 'so-classic', 'you-dont-need', 'all-about-cats', 'dog-pad', 'maintainers', 'conventional-commits', 'cthroo', 'fp-works']"
+willsmythe,Will Smythe,will.smythe@gmail.com,,Microsoft,,"Raleigh, North Carolina",False,,[]
+josephlin55555,Joseph Lin,josephlin55555@gmail.com,,,https://www.linkedin.com/in/josephlin5,"New York, NY",False,,[]
+zzyou,Zhenzhen You,,"Software Engineer@Pantheon/ Graduate@Techtonica/ JavaScript, Node, React, MySQL, MongoDB, Express, D3, Sass, Bootstrap, Materialize, jQuery, OAuth",,https://www.linkedin.com/in/zhenzhenyou/,San Francisco Bay Area,False,,['pantheon-systems']
+oscarmorrison,Oscar Morrison,github@oscarmorrison.com,"Software Engineer 🐟 JS, iOS, Raspberry Pi, Arduino, OSS, Chess, WWDC Scholar ♖ 🌏 ✈️ 🏍 🇦🇺",@Tettra ,https://oscarmorrison.com,"Melbourne, Aus",False,,[]
+josephlin55555,Joseph Lin,josephlin55555@gmail.com,,,https://www.linkedin.com/in/josephlin5,"New York, NY",False,,[]
+zanarmstrong,zan,,,,,san francisco,True,mbostock,[]
+abranhe,Abraham Hernandez,abraham@abranhe.com,bio.js:719                 throw err;                   ^,The All ▲lgorithms Project,https://abranhe.com,"Earth, Mars sometimes",False,,"['collective', 'phimpme', 'opensourcedesign', 'fossasia', 'EpicGames', 'OpnTec', 'ffii', 'loklak', 'PHPMap', 'DevvitIO', 'tryhtml', 'AllAlgorithms', 'TheHurricanes', 'Horuga', 'gitdotio', 'MDCblue', 'abranhe-forks']"
+m1guelpf,Miguel Piedrafita,github@miguelpiedrafita.com,17-year-old maker. I code while learning and learn while coding. My ❤️ for OSS projects is expressed as a helping desire towards every repo at GitHub.,@TryBlogcast || @Snaptier || @UnMarkDocs || @DependenCI || @OrgManager || Miguel Piedrafita,https://miguelpiedrafita.com,"Oviedo, Spain",False,,"['opensourcedesign', 'fossasia', 'github-beta', 'ffii', 'SocialiteProviders', 'loklak', 'gatsbyjs', 'Moya', 'danger', 'PHPMap', 'Bottr-js', 'orgmanager', 'dependenci', 'laravel-frontend-presets', 'UnMarkDocs', 'auth0-ambassadors', 'laravel-whisper', 'laraccess', 'coderyouth', 'code-discord', 'firstcontributions', 'devRant-Community', 'Malware-Haters', 'makerarmy', 'tryblogcast', 'vutonHQ', 'snaptier']"
+agarbuno,Alfredo Garbuno Iñigo,,"Bayesian stats, Machine learning, Gaussian processes, MCMC, Bayesian nonparametrics, Kernel Methods",Caltech,agarbuno.github.io,"Pasadena, CA",False,,[]
+nnmmyes,Job Ejimiwhokwo Vote,,,@jinul.com,www.jinul.com,@github.com,False,,[]
+dipendra-n,Dipendra Namdeo,,"UX Designer at @Microsoft. Previous: @Amzn, IIT Guwahati",@Microsoft ,,Milky Way,False,,[]
+curran,Curran Kelleher,curran@datavis.tech,Fascinated by visual presentation of data as a means to understand the world better and communicate that understanding to others.,@datavis-tech,https://datavis.tech,Remote,True,mbostock,"['UMLComputerGraphics', 'datavis-tech']"
+ghost,Deleted user,,"Hi, I'm @ghost! I take the place of user accounts that have been deleted.
+:ghost:
+",,,"Nothing to see here, move along.",False,,[]
+firepunch,MiRim Yu,firepunch119@gmail.com,🦅 🦅,,,"Seoul, South Korea",False,,[]
+eglassman,Elena Glassman,elena.glassman@gmail.com,Assistant Professor of Computer Science at Harvard University @HSEAS and @RadInstitute (1/1/19). MIT EECS PhD'16.,Harvard University,http://eglassman.github.io/,United States,True,mbostock,[]
+micahstubbs,Micah Stubbs,micah.stubbs@gmail.com,visual intuition for machine learning | all things #d3js #WebXR graph data | explorer of uncharted design spaces,,twitter.com/micahstubbs,Silicon Valley,False,,"['visjs', 'intentive', 'houstondatavis', 'visjs-community']"
+oller,David Ollerhead,,Building internets in London,,http://davidollerhead.com,London,True,mbostock,['audiencetradingplatform']
+nunoarruda,Nuno Arruda,nuno@nunoarruda.com,"Front-end Angular developer with a passion to bring ideas to life. I ♥ technology, music, and traveling.",,https://nunoarruda.com,Remote,False,,['ProximityLab']
+askmike,Mike van Rossum,,,,http://mikevanrossum.nl/,userland,True,mbostock,[]
+ffosilva,Fábio Silva,fabio.fernando.osilva@gmail.com,Software Developer & Master's Student @ Distributed Systems Lab. (UFCG),Federal University of Campina Grande,http://ffosilva.github.io,"Campina Grande, PB",True,mbostock,['ufcg-lsd']
+Kyeongan,Karl Kwon,newmkka@gmail.com,,,kyeongan.github.io,New York City,False,,[]
+jefkoslowski,Jeferson Koslowski,jef.koslowski@gmail.com,,DOT digital group,http://jefk.io/,Florianópolis,True,mbostock,[]
+piq9117,Ken Aguilar,piq9117@gmail.com,"Lover of typed FP
+",,piq9117.me,Texas,False,,"['CodeRGV', 'codergvbrownsville']"
+curran,Curran Kelleher,curran@datavis.tech,Fascinated by visual presentation of data as a means to understand the world better and communicate that understanding to others.,@datavis-tech,https://datavis.tech,Remote,True,mbostock,"['UMLComputerGraphics', 'datavis-tech']"
+Wombatpm,Wombatpm,,,,,"Unremarkable planet around a yellow sun, Mostly Harmless",False,,[]
+Wombatpm,Wombatpm,,,,,"Unremarkable planet around a yellow sun, Mostly Harmless",False,,[]
+caravinden,Aravind Cheekkallur,caravinden@gmail.com,A visual story teller. ,PointCross.com Pvt Ltd,http://in.linkedin.com/pub/aravind-cheekkallur/66/841/a1a/,Banglore,False,,['jSpike']
+curran,Curran Kelleher,curran@datavis.tech,Fascinated by visual presentation of data as a means to understand the world better and communicate that understanding to others.,@datavis-tech,https://datavis.tech,Remote,True,mbostock,"['UMLComputerGraphics', 'datavis-tech']"
+curran,Curran Kelleher,curran@datavis.tech,Fascinated by visual presentation of data as a means to understand the world better and communicate that understanding to others.,@datavis-tech,https://datavis.tech,Remote,True,mbostock,"['UMLComputerGraphics', 'datavis-tech']"
+Hental,tao.liu,liutao_dev@outlook.com,Talk & Think,,,Shanghai / China,False,,[]
+mkontogiannis,michael kontogiannis,mkontogiannis@protonmail.com,"{front-end hacker, audio coder, music geek, blockchain enthusiast, KØL Token creator (https://kooltoken.rocks), x - r* games developer }",,m.kontogiannis.org,"{cph, bln}",False,,[]
+gunins,Guntars Simanskis,guntars@diamondgraphics.ie,,,http://ie.linkedin.com/in/guntarssimanskis/,Ireland,False,,[]
+isaacl,Isaac Levy,isaac.r.levy@gmail.com,,,http://about.me/isaaclevy,"Vermont, USA",False,,['lichess-org']
+zdenekhynek,Zdenek Hynek,zdenek.hynek@gmail.com,,,zdenek.xyz,"London, UK",False,,[]
+lukasappelhans,Lukas Appelhans,,,,,The interwebs,True,mbostock,"['Paperdreamer', 'newsappsio']"
+sunrize531,Ivan Filimonov,,,ZeroLight,,"Newcastle, UK",False,,[]
+thejonan,Ivan Georgiev,,,,,"Sofia, Bulgaria",False,,[]
+ghost,Deleted user,,"Hi, I'm @ghost! I take the place of user accounts that have been deleted.
+:ghost:
+",,,"Nothing to see here, move along.",False,,[]
+timruffles,Tim Ruffles,,,,https://timr.co,UK,False,,"['chaijs', 'funjsldn']"
+sztanko,Demeter Sztanko,sztanko@gmail.com,,,http://about.me/sztanko,London,False,,[]
+jshen212,Jeff Shen,jeffshen86@gmail.com,,,https://www.linkedin.com/in/jeffshen86,"Los Angeles, CA",False,,"['MKS32spiderman', 'TownHalls']"
+ferlores,Fernando Lores,ferlores@gmail.com,,,,"San Francisco, California",True,mbostock,"['nko3', 'Nodejs-ar']"
+IeuanG,Ieuan Griffiths,,,,,United Kingdom,False,,[]
+aqnouch,AQNOUCH Mohammed,aqnouch.mohammed@gmail.com,"Guess what, I'm a programmer.",Groupe Omnidata - Dial Technologies ,https://aqnouch.com,Casablanca,False,,[]
+lokesh005,LOKESH TODWAL,lokeshtodwal005@gmail.com,Data Scientist | Data Engineer,,https://www.linkedin.com/in/lokeshtodwal/,"Bengaluru, Karnataka, India",False,,[]
+jharveymerkle,John Harvey,,"I am a Full Stack Web Developer with over 20 years of experience. Currently, I work in the Marketing and Advertising Industry for Merkle in Charlottesville, VA.","Merkle, Inc.",https://www.merkleinc.com,"Charlottesville, VA",False,,[]
+cssherry,Sherry Zhou,,,,http://cssherry.com/,San Francisco,True,mbostock,[]
+jfrickson,John C. Frickson,john@frickson.us,,,,"Minneapolis, MN",False,,[]
+fishbar,fisher,,,Alibaba,,HangZhou  China,False,,"['TBEDP', 'cnodejs', 'estools2']"
+Wombatpm,Wombatpm,,,,,"Unremarkable planet around a yellow sun, Mostly Harmless",False,,[]
+cscheid,Carlos Scheidegger,,"humans, data, computers, vis",University of Arizona,http://cscheid.net,"Tucson, AZ",False,,['hdc-arizona']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+nicksrandall,Nick Randall,,❤️  JavaScript ❤️  Golang ❤️  OSS,Bloomberg LP,www.nickrandall.com,"New York, NY",False,,"['kotojs', 'graph-gophers']"
+ppeterka,ppeterka,,,,http://ppeterka.hu,Hungary,True,mbostock,[]
+n1n9-jp,Yuichi Yazaki,,"Code For Tokyo / Data Visualization Japan
+https://www.facebook.com/yuichi.yazaki
+https://twitter.com/yuichiyazaki",Notation LLC,http://notation.co.jp/,Tokyo Japan,True,mbostock,"['codeforjapan', 'RaceForResilience', 'ISAC2014-TEAM4', 'visualizing', 'codefortokyo', 'DataVisualizationJapan']"
+jakerichan,Jake Richan,jake.richan@gmail.com,,Kuali,,Utah,False,,[]
+rubenv,Ruben Vermeersch,ruben@rocketeer.be,,,https://rocketeer.be,Belgium,False,,['mono']
+linhphi9x94,LinhPhi,linhphi9x94@gmail.com,XDAVN ,,http://forum.xdavn.com,Vietnam,False,,"['ColorOSVN', 'GreenOS', 'MarshRom', 'BlurOS']"
+andreasplesch,Andreas Plesch,,,Earthstruct,,"Waltham, MA",False,,[]
+xile611,xile611,dingling112@gmail.com,,,,Hang Zhou,False,,['recharts']
+greut,Yoan Blanc,@greut,"Previously @exoscale, @HE-Arc, @CPLN, EPFL Alumnus",,http://yoan.dosimple.ch/,Switzerland,False,,"['HE-Arc', 'inveniosoftware', 'sweng-epfl-2013', 'CERNDocumentServer', 'CPLN', 'coursweb']"
+flowercat07,Flower Cat,flowercat07@gmail.com,,,,Seoul,False,,[]
+hughes,Matt Hughes,,"Canadian expat, York University grad. Software at SpaceX & formerly @TopHatMonocle. Endlessly curious.",,http://www.matthughes.info,"Los Angeles, CA",False,,[]
+kkirsche,Kevin Kirsche,,"Security Architect, Penetration Tester, and Exploit Developer #OSCP, #OSWP, #OSCE",Verizon,https://deceiveyour.team,::1,False,,"['lostisland', 'rubyloco']"
+pgilad,Gilad Peleg,gilad@giladpeleg.com,"""Give me six hours to chop down a tree and I will spend the first four sharpening the axe.""  (Abraham Lincoln)",@Blazemeter ,https://www.giladpeleg.com,"Tel Aviv, Israel",True,mbostock,"['Blazemeter', 'AmpersandJS', 'gatsbyjs']"
+cvrebert,Chris Rebert,,"@twbs Bootstrap Core Team member.
+Web browser hater.
+PLT enthusiast.
+Believer in infrastructure.",@GoogleCloudPlatform,http://chrisrebert.com,"SF Bay Area, California, USA",True,mbostock,"['w3c', 'google', 'whatwg', 'twbs', 'browser-bugs']"
+pietersv,Pieter Sheth-Voss,,,protobi,http://www.protobi.com,"Cambridge, MA",False,,[]
+sghall,Steve Hall,,@DelimitedTech,,,"San Francisco, CA",False,,"['bluedotlab', 'delimited-technologies', 'react-tools']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+boJackEden,Eden,mazzolaeden@gmail.com,,,http://www.bojackeden.com,San Francisco ,False,,[]
+rcchen,Roger Chen,,,Palantir Technologies,http://rogr.me/,"Palo Alto, CA",False,,[]
+e-,Jaemin Jo,jmjo@hcil.snu.ac.kr,,"HCI Laboratory, Seoul National University",https://www.jaeminjo.com,"Seoul, Korea",True,mbostock,"['snucse', 'SNU-HCIL']"
+jasonly,Jason Ly,jason.ly@gmail.com,What just happened?,,,"San Jose, CA",False,,[]
+robinhouston,Robin Houston,robin.houston@gmail.com,,Kiln,http://bosker.wordpress.com/,London,False,,[]
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+tarioch,Patrick Ruckstuhl,,,,,Switzerland,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+tobgu,Tobias Gustafsson,tobias.l.gustafsson@gmail.com,Constantly amazed by how much a computer can achieve when programmed well and how little it achieves when programmed badly...,,,"Stockholm, Sweden",False,,['TriOptima']
+hyunkim9123,Hyun IL (Paul) Kim,hyunkim9123@gmail.com,,LG electronics,,"Seoul, Korea",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+skywinder,Petr Korolev,sky4winder+github@gmail.com,Write the code. Change the world.,@matter-labs ,https://www.linkedin.com/in/korolevpetr,"San Francisco, California",False,,"['coderwall-python', 'CocoaHeadsMsk', 'Moya', 'maintainers', 'github-changelog-generator', 'matter-labs', 'zdai-io', 'copperbits']"
+Caster,Thom Castermans,,,,http://www.denvelop.nl/,Netherlands,False,,[]
+mrblueblue,Jonathan Huang,grokut@gmail.com,,@Netflix,http://levity.io,San Francisco,True,mbostock,['hackreactor']
+wcwung,William Wung,,,,,"San Francisco, CA",True,mbostock,['hackreactor-lastmile']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+wilg,Wil Gieseler,,Best possible human!,@looker ,http://wilgieseler.com,San Francisco,False,,"['looker', 'videovillage']"
+ericandrewlewis,Eric Lewis,eric.andrew.lewis@gmail.com,,Software Engineer @google,http://www.ericandrewlewis.com,"New York, NY",False,,[]
+RudolfHattenkofer,Rudolf Hattenkofer,rudolf@geardev.de,,,,"Munich, Germany",False,,[]
+vladh,Vlad-Ștefan Harbuz,,"#1 cat + bird fan. MSc CBB ETH Zürich, BSc CS at the University of Manchester. Like writing music, art, languages, and cats.",@Phyramid @submodule ,https://vladh.net,Basel,False,,"['Phyramid', 'optimamodel', 'DataScienceForGood', 'atomicateam', 'sciris', 'submodule', 'Kleinhafen']"
+shawnbot,Shawn Allen,shawn.allen@github.com,"Design systems at GitHub, JS, (S)CSS, bicycles, modular synthesizers, data visualization, and maps. Previously: @18F, @stamen",GitHub,http://secularproducts.com/work/,San Francisco,False,,"['github', 'primer']"
+wassx,Stefan Wasserbauer,,,,,Austria,False,,[]
+arjenvanoostrum,Arjen van Oostrum,,,Arpra,arpra.nl,"Utrecht, Netherlands",True,mbostock,[]
+JoshSGman,Joshua Goldberg,,,Meru Labs,http://www.joshsgman.com,New York,False,,[]
+brett-miller,Brett Miller,,,Expedia,,Seattle,False,,[]
+vsn4ik,Vasilii Artemchuk,vsn4ik@yandex.ru,Frontend Developer,Avito,https://vsn4ik.github.io,"Moscow, Russia",False,,['uxsolutions']
+tpreusse,Thomas Preusse,,,,t.preus.se,Switzerland,False,,['orbiting']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+christophe-g,christophe geiser,,create stuff - love life,preignition.org,,"Lyon, France",False,,['e-smile']
+rbu,‮zlohhcuB treboR,,"Software and Systems Engineer, DevOps Agent and Consultant",,https://rbu.sh/,"‮ynamreG ,nilreB",False,,"['zopefoundation', 'mediadrop', 'dracut-crypt-ssh', 'zms-publishing']"
+eric-poitras,Eric Poitras,,,Mnubo,mnubo.com,Montreal,False,,[]
+turbolent,Bastian Müller,,,,https://turbolent.com,"Vancouver, Canada, Earth",False,,[]
+cvrebert,Chris Rebert,,"@twbs Bootstrap Core Team member.
+Web browser hater.
+PLT enthusiast.
+Believer in infrastructure.",@GoogleCloudPlatform,http://chrisrebert.com,"SF Bay Area, California, USA",True,mbostock,"['w3c', 'google', 'whatwg', 'twbs', 'browser-bugs']"
+benlesh,Ben Lesh,ben@benlesh.com,,Google,http://twitter.com/benlesh,"San Jose, CA",False,,['ReactiveX']
+nitram509,Martin W. Kirst,,,@OliverWyman,https://twitter.com/nitram509,GERMANY,False,,"['CTHN', 'macaroons-io', 'natural-feedback-machine', 'webuml', 'tn5250j']"
+dandv,Dan Dascalescu,ddascalescu+github@gmail.com,"Building @cryptoclimate. Ex-@google, Yahoo!, @blueseed. Founded the Quantified Self Forum and 3 web startups.","Ex-Google, Blueseed, Yahoo!",https://dandascalescu.com/,Digital nomad,True,mbostock,"['component', 'oortcloud', 'mojomojo', 'meteorhacks', 'ephemerisle', 'Wylio', 'MeteorCommunity', 'typhonjs-node-tjsdoc']"
+dandv,Dan Dascalescu,ddascalescu+github@gmail.com,"Building @cryptoclimate. Ex-@google, Yahoo!, @blueseed. Founded the Quantified Self Forum and 3 web startups.","Ex-Google, Blueseed, Yahoo!",https://dandascalescu.com/,Digital nomad,False,,"['component', 'oortcloud', 'mojomojo', 'meteorhacks', 'ephemerisle', 'Wylio', 'MeteorCommunity', 'typhonjs-node-tjsdoc']"
+mgold,Max Goldstein,maxgoldstein1@gmail.com,,,http://maxgoldste.in/,"San Jose, CA",False,,"['WMFO', 'elm-guides', 'elm-community']"
+visvirial,Vis Virial (a.k.a. びりある),,"I am a researcher/inventor around Cryptocurrency area.
+ * CEO at Janom LLC
+ * C / PHP / Node.js / etc.
+ * GPGPU (OpenCL) / AVR MCU
+ * Japanese / English","CEO at Janom LLC @janom-inc / CEO at Fressets, Inc.",https://blog.visvirial.com/,Tokyo / Japan,False,,"['crypto-users-jp', 'fressets']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+floledermann,Florian Ledermann,florian.ledermann@tuwien.ac.at,Researcher @ TU Wien. https://twitter.com/floledermann,Vienna University of Technology,https://twitter.com/floledermann,"Vienna, Austria",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jonsadka,Jon Sadka,,,@uber ,http://jonsadka.com/,"San Francisco, CA",False,,['uber']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+rbu,‮zlohhcuB treboR,,"Software and Systems Engineer, DevOps Agent and Consultant",,https://rbu.sh/,"‮ynamreG ,nilreB",True,mbostock,"['zopefoundation', 'mediadrop', 'dracut-crypt-ssh', 'zms-publishing']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mgold,Max Goldstein,maxgoldstein1@gmail.com,,,http://maxgoldste.in/,"San Jose, CA",False,,"['WMFO', 'elm-guides', 'elm-community']"
+pelson,Phil Elson,pelson.pub@gmail.com,Scientific software engineer and problem solver.,,https://pelson.github.io,Geneva,False,,"['matplotlib', 'ipython', 'SciTools', 'conda-forge']"
+martoranod,The Martorano,,Arepas de JavaScript.,La Calle,,"Caracas, Venezuela",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",True,jasondavies,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+dorotka,Dorota ,dorota_oleszczuk@yahoo.com,,,,United States,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jfirebaugh,John Firebaugh,,,@figma ,,"San Francisco, CA",False,,"['openstreetmap', 'rubinius', 'ruby-debug', 'chaijs', 'Leaflet', 'osmlab', 'maptime', 'Turfjs', 'Project-OSRM', 'documentationjs', 'DADACONF']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+dribnet,Tom White,tom@sixdozen.com,Lecturer at University of Wellington School of Design teaching creative coding and researching neural design.,,https://twitter.com/dribnet,"Wellington, NZ",False,,"['vusd', 'vusd-mddn342-2016']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",True,jasondavies,"['protovis', 'd3', 'topojson', 'observablehq']"
+mariusnita,Marius Nita,m@mariusnita.com,,,http://mariusnita.com,"San Francisco, CA",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jshanley,John Shanley,john.michael.shanley@gmail.com,,@DensityCo ,http://jshanley.github.io/,"Syracuse, NY",False,,"['Rounded', 'DensityCo']"
+Y--,Y.,,,Stoic,https://about.me/y.lemaout,New York City - Palo Alto - Paris,False,,['sutoiku']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jchlapinski,Jakub Chłapiński,jakub.chlapinski@kodegenix.pl,,Kodegenix,www.kodegenix.pl,Poland,False,,['kodegenix']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mtraynham,Matt Traynham,,,,,"Raleigh, NC",False,,[]
+gka,Gregor Aisch,,CTO @Datawrapper & proud @nytgraphics alumni. most of my repos live at @vis4 now,@datawrapper ,https://driven-by-data.net,Berlin,False,,"['datawrapper', 'schn4ck']"
+serhalp,Philippe Serhal,philippe.serhal@gmail.com,Software Engineer @goodeggs working on fulfillment operations,@goodeggs ,,"San Francisco, CA",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+mdunaev,Miša Dunaev,,Frontend developer from Tallinn,,mdunaev.github.io,Estonia,False,,[]
+chabb,Chabbey François,,,,http://bl.ocks.org/chabb,San Francisco,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+serhalp,Philippe Serhal,philippe.serhal@gmail.com,Software Engineer @goodeggs working on fulfillment operations,@goodeggs ,,"San Francisco, CA",False,,[]
+rkophs,Ryan Kophs,rkophs@gmail.com,,,,United States,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+osharim,Omar Sharim ,omar@bentel.mx,"Computer scientist.
+Here we serve python",,,México,False,,"['Reistechnologies', 'Bentelmx']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jonsadka,Jon Sadka,,,@uber ,http://jonsadka.com/,"San Francisco, CA",False,,['uber']
+davelandry,Dave Landry,,,Datawheel,https://datawheel.us,"Cambridge, MA",False,,"['Datawheel', 'd3plus', 'DataUSA']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+gmaclennan,Gregor MacLennan,gmaclennan@digital-democracy.org,"Technology Director at Digital Democracy.
+Open source and peer-to-peer advocate.",@digidem ,http://ddem.us/,"San Francisco, CA",False,,['digidem']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+programmist,Tony Childs,,,,,Texas,False,,[]
+lewis500,Lewis,,"assistant professor of civil engineering, U. Illinois Urbana-Champaign",University of Illinois Urbana Champaign,http://lewislehe.com,"Champaign, IL",False,,[]
+otarazan,olcay tarazan,olcaytarazan@gmail.com,,,www.socialermap.com,istanbul/turkey,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+tbranyen,Tim Branyen,tim@tabdeveloper.com,Browser Playback @Netflix ,Netflix,http://tbranyen.com/,"San Francisco, CA",True,mbostock,"['documentcloud', 'haystack', 'nodegit', 'h5bp', 'ot-crew', 'backbone-boilerplate', 'gruntjs', 'nodejs', 'OpenSourceSystemPodcast']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+Rich-Harris,Rich Harris,richard.a.harris@gmail.com,,,https://twitter.com/rich_harris,NYC,False,,"['ractivejs', 'sveltejs']"
+foolip,Philip Jägenstedt,,,Google,https://foolip.org/,Stockholm,True,mbostock,"['w3c', 'google', 'whatwg']"
+MichaelHilton,Michael Hilton,mhilton@cmu.edu,,,,Pittsburgh PA,False,,"['hazelgrove', 'CMU-17-356']"
+afc163,偏右,afc163@gmail.com,Life is a box of chaos,Alipay,https://twitter.com/afc163,"Hangzhou, China",True,mbostock,"['seajs', 'aralejs', 'spmjs', 'aliceui', 'react-component', 'ant-design', 'yuque']"
+duggiefresh,Doug Yun,doug.yun@dockyard.com,"Engineering Manager
+
+ᕕ( ཀ ʖ̯ ཀ)ᕗ
+",@DockYard,http://dockyard.com,"Seattle, WA",False,,"['DockYard', 'OpenHack', 'DavyJonesLocker']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+ljani,Jani,,,,,Finland,False,,[]
+mserinjane,Erin Jane,mserinjane@gmail.com,,,,London,True,mbostock,[]
+kgonzales87,Kayleigh,kgonzales87@gmail.com,,Jett Window Cleaning,,Austin ,True,mbostock,['Deleriumdoll']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+ChALkeR,Сковорода Никита Андреевич,chalkerx@gmail.com,"Node.js TSC Member.
+Occasionally breaking things. :smiley_cat:",,https://twitter.com/skovorodan,Moscow,False,,"['nodejs', 'GitHubBounty', 'qmlweb', 'KochergaClub', 'nodejs-private', 'sqi-msu']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+esjewett,Ethan Jewett,ethan.jewett@coredatra.com,,Coredatra LLC,http://www.esjewett.com,"Madison, WI",False,,"['apache', 'humanitiesplusdesign', 'crossfilter']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jimkang,Jim Kang,,,,http://jimkang.com/,Boston,True,mbostock,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+fabriciotav,Fabrício Tavares,fabricio@fabriciotav.org,"Code, data & design • Founder of https://www.celula.in",célula.in,http://fabriciotav.org,Belo Horizonte - Brazil,True,mbostock,"['celula', 'visualization-meetup']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jakevdp,Jake Vanderplas,,"Python, Astronomy, Data Science",Google,http://www.vanderplas.com,Seattle WA,False,,"['scipy', 'scikit-learn', 'astroML', 'uwescience', 'UWSEDS', 'altair-viz']"
+Alex--wu,Alexander WU,shengyuan.w@gmail.com,,MISYS,NetPy.net,Paris,True,mbostock,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+regiskuckaertz,Regis Kuckaertz,,,The Guardian,http://readtheblackswan.lu,London,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+salomvary,Márton Salomváry,marton@salomvary.com,"Freelance full stack software engineer and consultant. Specialized in small to large scale web and mobile applications. Scala, Ruby, Java, JavaScript & co.",Freelance,https://salomvary.com,"Berlin, Germany",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+telic,Maxwell Terpstra,,,,,"Victoria, BC, Canada",False,,['internetshakespeare']
+musically-ut,Utkarsh Upadhyay,,Nacreous Survivor: ransomed back from the Fathomking at great expense after winning.,@Networks-Learning ,https://musicallyut.in,"Kaiserslautern, Germany",False,,"['Networks-Learning', 'UT-ET']"
+tcp,Thiago Costa Porto,,,Gapminder.org,,"Uppsala, Sweden",False,,[]
+muddydixon,muddydixon,muddydixon@gmail.com,,,http://about.me/muddydixon,Japan,False,,['CROSS2014']
+vijithassar,Vijith Assar,,,,http://www.vijithassar.com,New York,False,,['rollup']
+phillipalexander,Phillip Alexander,git@phillipalexander.io,Vice President of Engineering at Galvanize,@hackreactor,http://phillipalexander.io,San Francisco,False,,['satellite-game']
+PatrickJS,PatrickJS,github@gdi2290.com,"
+PatrickJS__ on Twitter.
+Open Source (@angular, @webpack, @vuejs, @nuxt)",,http://patrickjs.com,"San Francisco, CA",True,mbostock,"['angular', 'monsoonco', 'keychain', 'webpack', 'hackreactor', 'angularjs-in-action', 'fullstackio', 'ng-newsletter', 'FACTORYX', 'RedditInsight', 'TypeStrong', 'vue-software', 'NodeProgram', 'AngularAir', 'ReactWeek', 'AngularClass', 'typings', 'types', 'storybookjs', 'ng-cruise', 'maintainers', 'nguniversal', 'onespeed-io']"
+tcp,Thiago Costa Porto,,,Gapminder.org,,"Uppsala, Sweden",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+PatrickJS,PatrickJS,github@gdi2290.com,"
+PatrickJS__ on Twitter.
+Open Source (@angular, @webpack, @vuejs, @nuxt)",,http://patrickjs.com,"San Francisco, CA",False,,"['angular', 'monsoonco', 'keychain', 'webpack', 'hackreactor', 'angularjs-in-action', 'fullstackio', 'ng-newsletter', 'FACTORYX', 'RedditInsight', 'TypeStrong', 'vue-software', 'NodeProgram', 'AngularAir', 'ReactWeek', 'AngularClass', 'typings', 'types', 'storybookjs', 'ng-cruise', 'maintainers', 'nguniversal', 'onespeed-io']"
+zerolinux5, Jesus Magana,maganazero5@gmail.com,,Amazon,http://zerolinux5.com,Seattle,True,mbostock,[]
+kmindi,Kai Mindermann M.Sc.,,,University of Stuttgart,http://kmindi.de,Germany,True,mbostock,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+rassie,Nikolai Prokoschenko,,,,http://rassie.org,"Nürnberg, Germany",False,,['kurzdigital']
+mourner,Vladimir Agafonkin,agafonkin@gmail.com,"Engineer at @mapbox, building mapping tools of the future. Creator of @Leaflet. Algorithms geek, rock musician, fitness enthusiast, father of twin girls.",Mapbox,https://agafonkin.com,"Kyiv, Ukraine",False,,"['mapbox', 'Leaflet']"
+jfirebaugh,John Firebaugh,,,@figma ,,"San Francisco, CA",False,,"['openstreetmap', 'rubinius', 'ruby-debug', 'chaijs', 'Leaflet', 'osmlab', 'maptime', 'Turfjs', 'Project-OSRM', 'documentationjs', 'DADACONF']"
+gka,Gregor Aisch,,CTO @Datawrapper & proud @nytgraphics alumni. most of my repos live at @vis4 now,@datawrapper ,https://driven-by-data.net,Berlin,False,,"['datawrapper', 'schn4ck']"
+stuglaser,Stuart Glaser,stuglaser@gmail.com,,,,"San Francisco, CA",True,mbostock,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+danielsu,Daniel Süß / Suess,,,,,"Berlin, Germany",False,,[]
+guybedford,Guy Bedford,guybedford@gmail.com,,,twitter.com/guybedford,Cape Town / Toronto,True,mbostock,"['jspm', 'ModuleLoader', 'systemjs']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+guybedford,Guy Bedford,guybedford@gmail.com,,,twitter.com/guybedford,Cape Town / Toronto,True,mbostock,"['jspm', 'ModuleLoader', 'systemjs']"
+PartTimeLegend,Antony Bailey,,I make machines cry evertim,@freshaus @Qiredev,https://www.antonybailey.net,"Liverpool, UK",False,,"['BitcoinforBusiness', 'WowMuchPool', 'GoogolplexCoin', 'P2PoolOnPi']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+shawnbot,Shawn Allen,shawn.allen@github.com,"Design systems at GitHub, JS, (S)CSS, bicycles, modular synthesizers, data visualization, and maps. Previously: @18F, @stamen",GitHub,http://secularproducts.com/work/,San Francisco,False,,"['github', 'primer']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",True,mbostock,['calftrail']
+jrideout,Jacob Rideout,,,Agari Data Inc.,,"Raleigh, NC USA",False,,['agaridata']
+sulmanen,Samuli Ulmanen,,,,,HEL,False,,[]
+ameyms,Amey S,,#Javascript @facebook,@facebook,http://ameyms.com,Bay Area,False,,"['datainsight', 'github-beta', 'zeusjs', 'fluorinejs']"
+jrideout,Jacob Rideout,,,Agari Data Inc.,,"Raleigh, NC USA",False,,['agaridata']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+bradens,Braden Simpson,,,Leanpub,,Edmonton,False,,"['SuperAmerica', 'agilefant-team-awesome', 'SEGaL-Group']"
+mathiasbynens,Mathias Bynens,,"Web standards fanatic. JavaScript, HTML, CSS, HTTP, performance, security, Bash, Unicode, macOS.",@Google,https://mathiasbynens.be/,Germany,False,,"['chromium', 'v8', 'iRail', 'oftn-oswg', 'bestiejs', 'h5bp', 'google', 'tc39', 'GoogleChrome', 'whatwg', 'lodash', 'GoogleCloudPlatform', 'fronteersbe', 'tibiamaps', 'GoogleChromeLabs']"
+jaspervdg,Jasper van de Gronde,,,,,The Netherlands,False,,['scijs']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+Yahasana,Mofasa,,I'm cool,,,"Shenzhen, CN",False,,[]
+IvanRave,Ivan,,Web developer,,http://reyvart.com,Russian Federation,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+carlsverre,Carl Sverre,id@c83.me,,@memsql ,http://www.carlsverre.com,"San Francisco, CA, USA",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+Bamboofantasy,Xiao,,,University of Kansas,,"Lawrence, Kansas",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+sebastianseilund,Sebastian Seilund,sebsei@gmail.com,,,http://www.sebastianseilund.com,"San Francisco, CA",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+ghost,Deleted user,,"Hi, I'm @ghost! I take the place of user accounts that have been deleted.
+:ghost:
+",,,"Nothing to see here, move along.",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+Ta4i,Maks Kramarenko,,,Wix,,Kiev,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+erictheise,Eric Theise,erictheise@gmail.com,Full-stack web developer with expertise in geospatial problem solving.,,https://erictheise.com/,"San Francisco, CA",True,mbostock,[]
+leodutra,Leonardo Dutra,leodutra.br@gmail.com,"JavaScript Chief Architect.
+
+14 yrs+ developing systems, interfaces and automation.",Aurea / Crossover / ESW Capital,http://linkedin.com/in/leobr,"Rio de Janeiro, Brazil",True,mbostock,['Legalcloud']
+leodutra,Leonardo Dutra,leodutra.br@gmail.com,"JavaScript Chief Architect.
+
+14 yrs+ developing systems, interfaces and automation.",Aurea / Crossover / ESW Capital,http://linkedin.com/in/leobr,"Rio de Janeiro, Brazil",True,mbostock,['Legalcloud']
+adnan-wahab,adnan wahab,mail@adnanwahab.com,,american-express,https://medium.com/@adnan.wahab,nyc,False,,[]
+leodutra,Leonardo Dutra,leodutra.br@gmail.com,"JavaScript Chief Architect.
+
+14 yrs+ developing systems, interfaces and automation.",Aurea / Crossover / ESW Capital,http://linkedin.com/in/leobr,"Rio de Janeiro, Brazil",True,mbostock,['Legalcloud']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+ghost,Deleted user,,"Hi, I'm @ghost! I take the place of user accounts that have been deleted.
+:ghost:
+",,,"Nothing to see here, move along.",True,mbostock,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+timmywil,Timmy Willison,,"jQuery Core Team Lead, Front-End Fanatic at Pylon","@jquery, @pylon ",https://timmywil.com,"Chattanooga, TN",False,,"['jquery', 'quickcue', 'ot-crew']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jaredly,Jared Forsyth,jared@jaredforsyth.com,,Khan Academy,http://jaredforsyth.com,"Provo, UT",True,mbostock,"['BYU-NLP-Lab', 'Strider-CD', 'notablemind', 'familyfound', 'component-skel', 'bookofmormon', 'jazzui']"
+pjanik,Piotr Janik,janikpiotrek@gmail.com,,,,"Kraków, Poland",False,,['concord-consortium']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+trinary,Erik Cunningham,djtrinary@gmail.com,,Gnip/Twitter,blog.erikwcunningham.com,"Boulder, CO",True,mbostock,['Boulder-Denver-d3-vis']
+zhuangya,zhuangya,,nuh.,,https://zhuangya.me,"Beijing, China",False,,"['vimx', 'palomajs', 'reality-glitch', 'yuyoude']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+adnan-wahab,adnan wahab,mail@adnanwahab.com,,american-express,https://medium.com/@adnan.wahab,nyc,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+bigsley,Christopher Bisignani,bigsley@gmail.com,,Addepar,chrisbisignani.com,"Mountain View, CA",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+notlion,Ryan Alexander,ryan@onecm.com,,,http://onecm.com,San Francisco,False,,[]
+kosiakk,Alexander Kosenkov,github@kosenkov.com,,,alexander.kosenkov.com,"Zurich, Switzerland",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+trinary,Erik Cunningham,djtrinary@gmail.com,,Gnip/Twitter,blog.erikwcunningham.com,"Boulder, CO",False,,['Boulder-Denver-d3-vis']
+mrcarlosrendon,Carlos Rendon,crendon@gmail.com,,,carlosrendon.me,Southern California,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+christophe-g,christophe geiser,,create stuff - love life,preignition.org,,"Lyon, France",False,,['e-smile']
+moshbitten,Mark Paine,,,@WalmartLabs,,"San Francisco, CA",False,,[]
+sammyt,Samuel Williams,,,,www.ziazoo.co.uk,London,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+fabriciotav,Fabrício Tavares,fabricio@fabriciotav.org,"Code, data & design • Founder of https://www.celula.in",célula.in,http://fabriciotav.org,Belo Horizonte - Brazil,False,,"['celula', 'visualization-meetup']"
+Sigfried,Sigfried Gold,sigfried@sigfried.org,,,http://sigfried.org,"Takoma Park, MD, USA",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+aprilrd,Young Kim,aprilrd8943@gmail.com,,,https://youngk.im,"Los Gatos, CA",False,,['KMLA']
+sarvaje,Jesus David García Gomez,,,Plain Concepts Corporation,,Seattle,False,,"['PlainConcepts', 'webhintio']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mcandre,Andrew,,,,google.com,the mill,False,,['markdown']
+mcandre,Andrew,,,,google.com,the mill,False,,['markdown']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+scottcheng,Scott Cheng,me@scottcheng.com,,@Asana ,http://scottcheng.com,NYC,False,,"['StanfordHCI', 'Asana']"
+Swatinem,Arpad Borsos,arpad.borsos@googlemail.com,,,https://swatinem.de,"Vienna, Austria",False,,"['eversport', 'rollup', 'sveltejs']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+clkao,Chia-liang Kao,,,,www.clkao.org,"Taipei, Taiwan",True,mbostock,"['clkao-cookbooks', 'perltaiwan', 'g0v', 'hackfoldr', 'plv8']"
+danmilon,Dan Milon,i@danmilon.me,,,http://danmilon.me,Greece,True,mbostock,['zizania']
+jfirebaugh,John Firebaugh,,,@figma ,,"San Francisco, CA",True,mbostock,"['openstreetmap', 'rubinius', 'ruby-debug', 'chaijs', 'Leaflet', 'osmlab', 'maptime', 'Turfjs', 'Project-OSRM', 'documentationjs', 'DADACONF']"
+tillberg,Dan Tillberg,dan@tillberg.us,,,http://tillberg.us/,"Longmont, CO. USA",True,mbostock,[]
+gbradley,Graham Bradley,,,Blipfoto,http://gbradley.com,"Edinburgh, Scotland",False,,[]
+jisaacks,JD Isaacks,,,Roadie Inc,https://www.manning.com/books/get-programming-with-javascript-next,"Atlanta, GA",False,,"['kranichs', 'bower', 'showcaseidx', 'roadie-app', 'gitgutter', 'suncoast-devs', 'class-ideas', 'maintainers']"
+AndruByrne,Andrew Byrne,,"master class mobile dev; I <3 reactive functions, Dart and good architecture",,,San Francisco,False,,[]
+theoreticaLee,Lee Leathers,,,,about.me/leeleathers,"Santa Monica, California",True,mbostock,['citizennet']
+iterion,Adam Sunderland,iterion@gmail.com,Senior SRE at Zapier,@zapier ,,"Grand Rapids, MI",False,,['kubernetes-incubator']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+ilyabo,Ilya Boyandin,ilyabo@gmail.com,,Teralytics,http://ilya.boyandin.me,"Zurich, Switzerland",False,,['freie-schule-bergmeilen']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+deanmalmgren,Dean Malmgren,,,Datascope Analytics,http://twitter.com/deanmalmgren,"Chicago, IL",False,,"['pygrace', 'datascopeanalytics', 'dssg']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+bm-w,Bastiaan Marinus van de Weerd,,,"Freelance, prerefably iOS",http://bm-w.eu/,"Santiago, Chile",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+deanmalmgren,Dean Malmgren,,,Datascope Analytics,http://twitter.com/deanmalmgren,"Chicago, IL",True,mbostock,"['pygrace', 'datascopeanalytics', 'dssg']"
+cscheid,Carlos Scheidegger,,"humans, data, computers, vis",University of Arizona,http://cscheid.net,"Tucson, AZ",False,,['hdc-arizona']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+aeosynth,James Campos,james.r.campos@gmail.com,,,aeosynth.github.io,California,True,mbostock,['redditdota2league']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+leonardseymore,Leonard Seymore,,,,,Cape Town,False,,[]
+muddydixon,muddydixon,muddydixon@gmail.com,,,http://about.me/muddydixon,Japan,False,,['CROSS2014']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+purohit,Ashwin Purohit,,,,https://puroh.it,Berlin,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+calvinmetcalf,Calvin Metcalf,,"I live with several cats, plus a dog, and my wife.",@AppGeo ,http://calvinmetcalf.com/,Boston,True,mbostock,"['AppGeo', 'codeforboston', 'pouchdb', 'leaflet-extras', 'proj4js', 'arecalvinandrachelmarried', 'crypto-browserify', 'Turfjs', 'nodejs', 'georust', 'moose-team']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+fanktom,Thomas Fankhauser,tommy@system8.io,,system8 GmbH,http://www.system8.io,Stuttgart,False,,[]
+karmi,Karel Minarik,karel.minarik@gmail.com,,@elastic,http://www.karmi.cz,"Prague, Czech Republic",False,,"['sinatra', 'csrug', 'elastic']"
+jfirebaugh,John Firebaugh,,,@figma ,,"San Francisco, CA",False,,"['openstreetmap', 'rubinius', 'ruby-debug', 'chaijs', 'Leaflet', 'osmlab', 'maptime', 'Turfjs', 'Project-OSRM', 'documentationjs', 'DADACONF']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+kevincarrogan,Kevin Carrogan,,,,kevin.carrogan.com,"London, UK",False,,[]
+jomido,Jonathan Dobson,jon.m.dobson@gmail.com,,@replicant-ai ,hashbeat.blogspot.com,"Kitchener, Ontario, Canada",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+tmcw,Tom MacWright,,hi!,@observablehq ,https://macwright.org/,san francisco,False,,"['documentationjs', 'simple-statistics', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+kriscarle,Kristofor Carle,,"Software Engineer & Co-founder @maphubs
+https://keybase.io/kriscarle",@maphubs,,Washington DC,False,,"['syncadd', 'openfloorplan', 'crowdcover']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+rushton,Nick Rushton,nick.rushton@hotmail.com,,,,"Seattle, WA",False,,[]
+gghh,Giovanni Gherdovich,,Programming computers since 1991.,@SUSE ,http://gghh.name/dibtp,Prague,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+paulgb,Paul Butler,github@paulbutler.org,,Two Sigma,http://paulbutler.org/,"New York, NY",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+christophermanning,Christopher Manning,,,,https://www.christophermanning.org/,"Chicago, IL",False,,['ofa-alumni']
+ajtulloch,Andrew Tulloch,andrew@tullo.ch,,Facebook AI Research,http://tullo.ch,San Francisco,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+isaacs,isaacs,i@izs.me,"npm inventor, former CEO, now Chief Product.
+Former Node BDFL.
+Author of JavaScripts.
+All opinions are my own. Literally all of them. I own them all. He/him.","npm, Inc.",http://blog.izs.me,Oakland CA,True,mbostock,"['npm', 'tapjs', 'maintainers']"
+danse,Francesco Occhipinti,focchi.pinti@gmail.com,never hide,,,Internet,False,,"['Data-Visualization-Berlin', 'italia', 'open-europe', 'MeetMangrove']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",True,mbostock,['calftrail']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+gedejong,Edwin de Jong,edejong@fastmail.com,Software Engineer at BigData Republic (https://bigdatarepublic.nl),BigData Republic,https://bigdatarepublic.nl,Amersfoort,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+rushton,Nick Rushton,nick.rushton@hotmail.com,,,,"Seattle, WA",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+evanworley,Evan Worley,my github username at gmail,,,,Mountain View,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+muddydixon,muddydixon,muddydixon@gmail.com,,,http://about.me/muddydixon,Japan,False,,['CROSS2014']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mnmly,mnmly,i.am@mnmly.com,,,http://mnmly.com,"San Francisco, CA",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+rgarcia,Rafael,,,@Clever ,https://clever.com,"San Francisco, CA",False,,['Clever']
+ludoo,Ludovico Magnocavallo,ludomagno@google.com,,Google,http://qix.it/,"Milan, Italy",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+makyo,Madison Scott-Clary,makyo@drab-makyo.com,,@internetarchive,http://drab-makyo.com,"Everett, WA",False,,"['Weasyl', 'adjspecies', 'OpenFurry']"
+jnordberg,Johan Nordberg,hello@johan-nordberg.com,,,https://johan-nordberg.com,Italy / Sweden,False,,"['yellowagents', 'EpicGames']"
+muddydixon,muddydixon,muddydixon@gmail.com,,,http://about.me/muddydixon,Japan,False,,['CROSS2014']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jbeard4,Jacob Beard,jake@jacobeanrnd.com,,"Minnow Software, LLC",http://gitlab.com/jbeard4,"New York, NY",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+gunn,Arthur Gunn,arthur@wolandbros.com,,,,"Dunedin, New Zealand",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+nicanor-b,Nick Burkhart,,,Geospatial @ UCLA,http://nickburkhart.com,"Riverside, CA",False,,[]
+scholarsmate,Davin Shearer,,,,,"Maryland, USA",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+tbranyen,Tim Branyen,tim@tabdeveloper.com,Browser Playback @Netflix ,Netflix,http://tbranyen.com/,"San Francisco, CA",True,mbostock,"['documentcloud', 'haystack', 'nodegit', 'h5bp', 'ot-crew', 'backbone-boilerplate', 'gruntjs', 'nodejs', 'OpenSourceSystemPodcast']"
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+javisantana,javi santana,,,,http://javisantana.com,Madrid,False,,['modestmaps']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jamierytlewski,Jamie R. Rytlewski,jamie.rytlewski@gmail.com,,Michigan State University,http://rytlew.ski,"Okemos, MI",False,,['MSU-IBC']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+vogievetsky,Vadim Ogievetsky,vadim@ogievetsky.com,,Imply Data,http://vadim.ogievetsky.com,"San Francisco, CA",False,,['implydata']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+snoble,Steven Klaiber-Noble,,,tabletoolkit.com,blog.noblemail.ca,"Vancouver, BC, Canada",False,,[]
+NathanaelA,Nathanael Anderson,nathan@master-technology.com,"I'm a skilled developer in a large number of different computer specialties.   I'm currently a freelance contractor, hire me! :grinning:",@master-technology ,http://master-technology.com,Consultant / Contractor / Freelancer,False,,['nstudio']
+mjc-gh,Michael Coyne,mikeycgto@gmail.com,,@KnotchLabs,https://michaeljcoyne.me,New York,False,,"['KnotchLabs', 'SimplyBuilt', 'breakbase', 'GetMultipass']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+gregsymons,Greg Symons,gsymons@gsconsulting.biz,,,,"Austin, TX",False,,['austincodedojo']
+nevir,Ian MacLeod,ian@nevir.net,🚚,@convoyinc,,"Seattle, WA",False,,"['rubinius', 'convoyinc']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+nevir,Ian MacLeod,ian@nevir.net,🚚,@convoyinc,,"Seattle, WA",False,,"['rubinius', 'convoyinc']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+gabrielmontagne,gabriel montagné láscaris-comneno,gabriel@tibas.london,,,http://tibas.london,london,False,,['bankofapis']
+snoble,Steven Klaiber-Noble,,,tabletoolkit.com,blog.noblemail.ca,"Vancouver, BC, Canada",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+theJohnnyBrown,Jonathan Brown,hire@thejohnnybrown.com,,,,"Covington, KY",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+tcha-tcho,Eduardo Malpeli,tchatcho66@hotmail.com,,Unnon ltd,http://www.tcha-tcho.com,Brazil,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+krid,Dirk Bergstrom,github@otisbean.com,Avid cyclist and middle-aged metalhead,,otisbean.com/,Silicon Valey,False,,[]
+sj26,Samuel Cochran,sj26@sj26.com,,@Buildkite,http://sj26.com,"Melbourne, Victoria",False,,['buildkite']
+shawnbot,Shawn Allen,shawn.allen@github.com,"Design systems at GitHub, JS, (S)CSS, bicycles, modular synthesizers, data visualization, and maps. Previously: @18F, @stamen",GitHub,http://secularproducts.com/work/,San Francisco,False,,"['github', 'primer']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+geowa4,George Adams,oss@geowa4.software,Software Engineer focusing on measuring and delivering highly effective Value Streams via a strong DevOps culture.,,https://geowa4.software/,"Rochester, NY",True,mbostock,['rocdev-foundation']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+dadleyy,Danny Hadley,dadleyy@gmail.com,,@salsify,,"Boston, MA",False,,"['salsify', 'sizethree']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+alexstrat,Alexandre Lacheze,,,Station,https://twitter.com/al3xstrat,"Paris, France",True,mbostock,"['kadoh', 'getstation']"
+webmonarch,Eric Webb,opensource@collectivegenius.net,,,https://webb.codes,"San Francisco, CA",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+dcporter,Dave Porter,,,,http://dcporter.net,"Cupertino, CA",False,,['sproutcore']
+marcneuwirth,Marc Neuwirth,,,HubSpot,http://marcneuwirth.com,"Somerville, MA",False,,['HubSpot']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+kitmonisit,Kit Monisit,,,,https://www.linkedin.com/in/kristofermonisit/,"Cebu City, Philippines",True,mbostock,[]
+kitmonisit,Kit Monisit,,,,https://www.linkedin.com/in/kristofermonisit/,"Cebu City, Philippines",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jonseymour,Jon Seymour,jon.seymour@gmail.com,,Wild Duck Theories,http://wildducktheories.com,"Sydney, Australia",False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mmeisel,Michael Meisel,,,,,San Francisco,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+kitmonisit,Kit Monisit,,,,https://www.linkedin.com/in/kristofermonisit/,"Cebu City, Philippines",False,,[]
+zenmoto,David Poncelow,,,Splunk,,"Poulsbo, WA",False,,[]
+RichMorin,Rich Morin,rdm@cfcl.com,"Rich has been programming since 1970, using a variety of languages. He currently uses Elixir and Ruby.",Canta Forda Computer Laboratory,http://www.cfcl.com/rdm,"San Bruno, CA, USA",False,,[]
+cscheid,Carlos Scheidegger,,"humans, data, computers, vis",University of Arizona,http://cscheid.net,"Tucson, AZ",True,mbostock,['hdc-arizona']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+justincormack,Justin Cormack,justin@specialbusservice.com,Security at Docker,@docker,https://www.cloudatomiclab.com/,"Cambridge, UK",False,,"['docker', 'sabotage-linux', 'rumpkernel']"
+loganlinn,Logan Linn,logan@loganlinn.com,,@optimizely ,https://twitter.com/loganlinn,San Francisco,False,,"['plumatic', 'optimizely', 'pedestal', 'omcljs']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mjackson,Michael Jackson,michael@jackson.us,"Founder @ReactTraining, creator @unpkg. Thriller.",@ReactTraining ,https://mjackson.me,"Carlsbad, California",False,,"['reactjs', 'ReactTraining', 'unpkg']"
+mjackson,Michael Jackson,michael@jackson.us,"Founder @ReactTraining, creator @unpkg. Thriller.",@ReactTraining ,https://mjackson.me,"Carlsbad, California",True,mbostock,"['reactjs', 'ReactTraining', 'unpkg']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+ZeeAgency,Zee Agency,contact@zeeagency.com,,Zee Agency,http://www.zeeagency.com,Paris,False,,[]
+luispedro,Luis Pedro Coelho,luis@luispedro.org,,Fudan University,http://luispedro.org,Luxembourg & Shanghai,False,,['BigDataBiology']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+alex,Alex Gaynor,alex.gaynor@gmail.com,"I program computers, and build teams that program computers, with a heavy focus on security.",Alloy,https://alexgaynor.net,Washington D.C.,False,,"['django', 'pypa', 'xattr', 'python', 'WhiteHouse', 'wal-e', 'topazproject', 'PyCon', 'pyca', 'RustSec', 'fishinabarrel']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+indec,Ian Malpass,,,@stitchfix ,,"Minnesota, USA",False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+johan,Johan Sundström,,,Groupon,http://ecmanaut.blogspot.com/,"Mountain View, CA, USA",False,,['editorconfig']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jwhitley,John Whitley,whitley@bangpath.org,,,http://bangpath.org/,"Seattle, WA",False,,[]
+trevnorris,Trevor Norris,,,NodeSource,http://blog.trevnorris.com/,"Salt Lake City, UT",True,mbostock,"['jstat', 'nodesource', 'nubjs']"
+abh,Ask Bjørn Hansen,ask@develooper.com,,,http://askask.com/,"Los Angeles, CA",False,,"['djabberd', 'smtpd', 'devel', 'ntppool']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+conorbranagan,Conor Branagan,conor.branagan@gmail.com,,,,"New York, NY",False,,['DataDog']
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+twooster,Tony Wooster,,,@contentful ,http://tonywooster.com,Berlin,False,,[]
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+asuth,Andrew Sutherland,,"CTO and Founder of @quizlet
+We're hiring: quizlet.com/jobs",Quizlet,https://asuth.com,"San Francisco, CA",True,mbostock,['quizlet']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+bbroeksema,Bertjan Broeksema,,,@BigDataRepublic,https://bbroeksema.github.io/,Netherlands,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+andycjw,Andy Chong,andycjw@gmail.com,,Delta Cloud Computing,,Taipei,True,mbostock,[]
+drslump,Iván Montes,drslump@pollinimini.net,,@3Titanes ,http://pollinimini.net,Barcelona,False,,[]
+GerHobbelt,Ger Hobbelt,ger@hobbelt.com,,,http://hebbut.net/,Almelo (NL),True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",False,,['calftrail']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+ajcollins,Alex Collins,alex.collins@cantab.net,,,,United Kingdom,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+GunioRobot,Gun.io Robot,,,Gun.io,http://gun.io,The Plains!,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+johan,Johan Sundström,,,Groupon,http://ecmanaut.blogspot.com/,"Mountain View, CA, USA",False,,['editorconfig']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+abernier,Antoine BERNIER,,,,http://abernier.name,Paris,False,,['goodenough']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+johan,Johan Sundström,,,Groupon,http://ecmanaut.blogspot.com/,"Mountain View, CA, USA",True,mbostock,['editorconfig']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+lynaghk,Kevin Lynagh,kevin@keminglabs.com,,Keming Labs,https://kevinlynagh.com,"Oakland, California",False,,"['clojure', 'keminglabs']"
+pjjw,peter woodman,peter@shortbus.org,,"pork industries, llc.",http://shortbus.org/,"new york, ny",True,mbostock,[]
+pjjw,peter woodman,peter@shortbus.org,,"pork industries, llc.",http://shortbus.org/,"new york, ny",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+AWinterman,Andrew Winterman,andywinterman@gmail.com,,@mercycorps ,https://awinterman.github.io,Portland OR,False,,[]
+boothead,Ben Ford,ben@commando.dev,,Commando Development,https://commando.dev,UK,False,,[]
+enjalot,Ian Johnson,enjalot@gmail.com,"pixel flipper, data sifter. trying to see what I can while I'm here",@google,http://enjalot.github.io,"San Francisco, CA",False,,"['tegaki', 'codeparty', 'google', 'GoogleCloudPlatform', 'datapad', 'visfest']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+syntagmatic,Kai,,,,http://bl.ocks.org/syntagmatic,San Francisco,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+xaviershay,Xavier Shay,contact@xaviershay.com,,,https://xaviershay.com,"Melbourne, Australia",True,mbostock,['rspec']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+maoe,Mitsutoshi Aoe,me@maoe.name,,@tsurucapital ,https://medium.com/@maoe,"Tokyo, Japan",True,mbostock,"['haskell', 'tsurucapital', 'haskell-org']"
+lynaghk,Kevin Lynagh,kevin@keminglabs.com,,Keming Labs,https://kevinlynagh.com,"Oakland, California",False,,"['clojure', 'keminglabs']"
+jfirebaugh,John Firebaugh,,,@figma ,,"San Francisco, CA",True,mbostock,"['openstreetmap', 'rubinius', 'ruby-debug', 'chaijs', 'Leaflet', 'osmlab', 'maptime', 'Turfjs', 'Project-OSRM', 'documentationjs', 'DADACONF']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+futuraprime,Evan Hensleigh,,,The Economist,,"London, UK",False,,['TheEconomist']
+chrisgemignani,Chris Gemignani,chris.gemignani@juiceanalytics.com,,Juice Inc.,www.juiceanalytics.com/writing/,"Nashville, TN",False,,['juiceinc']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+tmont,Tommy Montgomery,,,,http://tmont.com/,Washington,True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+caged,Justin Palmer,justin@labratrevenge.com,"Engineering, Data Visualization, Design.  Previously @github. ",,http://labratrevenge.com,"Portland, OR",True,mbostock,"['pdxosgeo', 'sports']"
+lynaghk,Kevin Lynagh,kevin@keminglabs.com,,Keming Labs,https://kevinlynagh.com,"Oakland, California",True,mbostock,"['clojure', 'keminglabs']"
+drio,David Rio Deiros,,,librato,https://drio.org,Planet Earth,False,,['swcarpentry']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+ignacioola,Ignacio,,Developer and co-founder @ Underscope | React Native ,Underscope,http://underscope.io,"Buenos Aires, Argentina",True,mbostock,[]
+jmalonzo,Jan Alonzo,,"Developer / programmer, and tinkerer",,https://janalonzo.com,"Sydney, Australia",True,mbostock,[]
+natevw,Nathan Vander Wilt,,,Freelance app/library developer,http://exts.ch,"Tri-Cities, WA",True,mbostock,['calftrail']
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+lynaghk,Kevin Lynagh,kevin@keminglabs.com,,Keming Labs,https://kevinlynagh.com,"Oakland, California",True,mbostock,"['clojure', 'keminglabs']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+syntagmatic,Kai,,,,http://bl.ocks.org/syntagmatic,San Francisco,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+kforeman,Kyle Foreman,kforeman@convoy.com,"Head of ML Platforms @convoyinc
+Former Director of Data Science @ihmeuw
+Twitter: @kforeman",@convoyinc ,,Seattle,False,,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+mbostock,Mike Bostock,mike@ocks.org,Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.,@observablehq ,https://bost.ocks.org/mike/,"San Francisco, CA",False,,"['protovis', 'd3', 'topojson', 'observablehq']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+caged,Justin Palmer,justin@labratrevenge.com,"Engineering, Data Visualization, Design.  Previously @github. ",,http://labratrevenge.com,"Portland, OR",True,mbostock,"['pdxosgeo', 'sports']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+NelsonMinar,Nelson Minar,nelson@monkey.org,,,http://www.somebits.com/weblog/,"San Francisco, CA, USA",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+NelsonMinar,Nelson Minar,nelson@monkey.org,,,http://www.somebits.com/weblog/,"San Francisco, CA, USA",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+NelsonMinar,Nelson Minar,nelson@monkey.org,,,http://www.somebits.com/weblog/,"San Francisco, CA, USA",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+NelsonMinar,Nelson Minar,nelson@monkey.org,,,http://www.somebits.com/weblog/,"San Francisco, CA, USA",True,mbostock,[]
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+underbluewaters,Chad Burt,chad@underbluewaters.net,Principal Developer for the McClintock Lab at UCSB,https://seasketch.org,,"Santa Barbara, CA",False,,"['mcclintock-lab', 'oceanscollaborative']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,mbostock,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",True,,"['apache', 'plutomonkey']"
+jasondavies,Jason Davies,jason@jasondavies.com,,,https://www.jasondavies.com/,"London, UK",False,,"['apache', 'plutomonkey']"
+jheer,Jeffrey Heer,,"UW Computer Science Professor. Co-Founder of Trifacta. Data, visualization & interaction. @uwdata @trifacta @d3 @vega ","University of Washington, Trifacta Inc.",http://homes.cs.washington.edu/~jheer,"Seattle, WA",True,,"['protovis', 'StanfordHCI', 'trifacta', 'uwdata', 'vega', 'CSE512-16S']"
+jheer,Jeffrey Heer,,"UW Computer Science Professor. Co-Founder of Trifacta. Data, visualization & interaction. @uwdata @trifacta @d3 @vega ","University of Washington, Trifacta Inc.",http://homes.cs.washington.edu/~jheer,"Seattle, WA",True,,"['protovis', 'StanfordHCI', 'trifacta', 'uwdata', 'vega', 'CSE512-16S']"

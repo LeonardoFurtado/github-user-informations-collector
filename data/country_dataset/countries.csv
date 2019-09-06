@@ -6277,9 +6277,6 @@ olomouc,olomouc,czechia,olomoucký kraj
 hradec králové,hradec kralove,czechia,královéhradecký kraj
 zlín,zlin,czechia,zlínský kraj
 berlin,berlin,germany,berlin
-deutschland,alemanha,germany,germany
-aachen,aachen,germany,nordrhein-westfalen
-bamberg,bamberg,germany,baviera
 cologne,cologne,germany,north rhine-westphalia
 munich,munich,germany,bavaria
 münchen,munchen,germany,bavaria
@@ -12901,9 +12898,12 @@ nyc,nyc,united states,nyc
 ny,ny,united states,ny
 usa,usa,united states,usa
 delft,delft,netherlands,delft
+deutschland,alemanha,germany,germany
+aachen,aachen,germany,nordrhein-westfalen
 bengaluru,bengaluru,india,bengaluru
 brasil,brasil,brazil,brasil
 copenhagen,copenhagen,denmark,copenhagen
+bamberg,bamberg,germany,baviera
 england,england,united kingdom,england
 kyiv,kyiv,ukraine,kyiv
 AF,AFG,afghanistan,afghanistan
