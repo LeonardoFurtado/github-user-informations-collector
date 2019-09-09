@@ -1,19 +1,19 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("../../data/bases/all_projects_last.csv")
-df_accepted = df.loc[df["merged"] != False]
-df_rejected = df.loc[df["merged"] == False]
+df = pd.read_csv("../../data/bases/all_projects.csv")
+# df_accepted = df.loc[df["merged"] != False]
+# df_rejected = df.loc[df["merged"] == False]
 
 # # Total de contribuidores
-print("Total de contribuidores: ", df["login"].count())
-print("Total de contribuidores: ", df["login"].nunique())
+# print("Total de contribuidores: ", df["login"].count())
+# print("Total de contribuidores: ", df["login"].nunique())
 #
 # # Total de pull requests
 # print("Total de pull requests: ", df["login"].count())
 #
 # # Contribuicoes por pais
-# df.groupby("country").size().to_csv("total.csv")
+df.groupby("country").size().to_csv("total.csv")
 #
 # # Contribuicoes aceitas
 # df_accepted.groupby("country").size().to_csv("accepted.csv")

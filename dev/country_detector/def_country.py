@@ -5,29 +5,6 @@ import pandas as pd
 import re
 
 
-projects = [
-    "atom",
-    "cpython",
-    "d3",
-    "django",
-    "firefox-ios",
-    "brew",
-    "ionic",
-    "mongo",
-    "php",
-    "react",
-    "laravel",
-    "scikit-learn",
-    "swift",
-    "vscode",
-    "vue",
-    "angular",
-    "angular-cli",
-    "tensorflow",
-    "react-native",
-    "spyder",
-]
-
 fil = "../../data/country_dataset/countries.csv"
 
 
