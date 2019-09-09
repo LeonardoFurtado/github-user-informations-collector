@@ -4,6 +4,7 @@ import csv
 import pandas as pd
 import re
 
+
 projects = [
     "atom",
     "cpython",
@@ -20,9 +21,14 @@ projects = [
     "swift",
     "vscode",
     "vue",
+    "angular",
+    "angular-cli",
+    "tensorflow",
+    "react-native",
+    "spyder",
 ]
 
-fil = "countries/countries.csv"
+fil = "../../data/country_dataset/countries.csv"
 
 
 def get_country(city, file):
@@ -36,32 +42,22 @@ def get_country(city, file):
     return None
 
 
-# def get_country(city, file):
-#     city = city.lower()
-#     df = pd.read_csv(file)
-#     for index, row in df.iterrows():
-#         if city == row["a"] or city == row["b"] or city == row["c"] or city == row["d"]:
-#             return row["c"]
-#     return None
-
-
 def clear_location(location):
-    locations = re.split(r"[^A-Za-z ]", location)
+    locations = re.split(r"[^\wÀ-ú ]", location)
     for i in range(len(locations)):
         locations[i] = locations[i].strip()
 
     return locations
 
 
-for project in projects:
-    df = pd.read_csv("../../data/bases/" + project + ".csv")
-    new_countries = []
-    for index, row in df.iterrows():
-        loc = "undefined"
-        for location in clear_location(row["location"]):
-            if get_country(location, fil):
-                loc = get_country(location, fil)
-        new_countries.append(loc)
+df = pd.read_csv("../../data/bases/all_projects.csv")
+new_countries = []
+for index, row in df.iterrows():
+    loc = "undefined"
+    for location in clear_location(row["location"]):
+        if get_country(location, fil):
+            loc = get_country(location, fil)
+    new_countries.append(loc)
 
-    df["country"] = new_countries
-    df.to_csv(project + ".csv", index=False)
+df["country"] = new_countries
+df.to_csv("all_projects.csv", index=False)
