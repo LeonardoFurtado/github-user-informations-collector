@@ -2,8 +2,8 @@
 
 ## Dataset Fields
 
-login | name | email | bio | company | blog | location | merged | merged_by | orgs
-------|------|-------|-----|---------|------|----------|--------|-----------|-----
+login | name | email | bio | company | blog | location | merged | merged_by | orgs | country
+------|------|-------|-----|---------|------|----------|--------|-----------|------|--------
 
 ## Data Download Period
 starts August, 9 2019, ends september, 4 2019
@@ -16,19 +16,17 @@ starts August, 9 2019, ends september, 4 2019
 - contributors:  16821
 
 ### self-merged removed
-Total de contribuidores:  71102
-Total de contribuidores:  16801
+- pull requests:  71102
+- contributors:  16801
 
 ### commercial emails removed
-Total de contribuidores:  66025
-Total de contribuidores:  16158
+- pull requests:  66025
+- contributors:  16158
 
 ### organization's contributors removed
-Total de contribuidores:  49132
-Total de contribuidores:  15675
+- pull requests:  49132
+- contributors:  15675
 
-
-
-- self merged pull requests was removed
-- users with org emails was removed
-- users who are participating in an organization or company that is sponsoring the project have somehow had their pull requests deleted.
+### contributors without location are removed
+- pull requests:
+- contributors:

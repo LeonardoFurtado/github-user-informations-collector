@@ -23,7 +23,8 @@ def clear_location(location):
     locations = re.split(r"[^\wÀ-ú ]", location)
     for i in range(len(locations)):
         locations[i] = locations[i].strip()
-
+    while "" in locations:
+        locations.remove("")
     return locations
 
 
@@ -34,7 +35,13 @@ for index, row in df.iterrows():
     for location in clear_location(row["location"]):
         if get_country(location, fil):
             loc = get_country(location, fil)
+            break  # impede que pulem a deteccao das cidades
     new_countries.append(loc)
 
 df["country"] = new_countries
 df.to_csv("all_projects.csv", index=False)
+
+# if __name__ == "__main__":
+#
+#     for location in clear_location("Everywhere -/-*++ "):
+#         print(get_country(location, fil))
