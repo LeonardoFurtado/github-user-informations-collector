@@ -94,7 +94,7 @@ projects = {
         "vue mastery",
     ],
     "angular": ["angular", "google", "google inc."],
-    "angular-cli": ["angular", "google", "google inc."],
+    "zulip": ["zulip", "google", "google inc."],
     "spyder": [
         "quansight",
         "numfocus",

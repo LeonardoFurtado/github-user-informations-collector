@@ -10,7 +10,6 @@ import csv
 projects = [
     "atom",
     "angular",
-    "angular-cli",
     "cpython",
     "d3",
     "django",
@@ -28,6 +27,7 @@ projects = [
     "swift",
     "vscode",
     "vue",
+    "zulip",
 ]
 
 for project in projects:

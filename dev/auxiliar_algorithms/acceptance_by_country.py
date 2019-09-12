@@ -21,4 +21,4 @@ requisicoes = pd.pivot(
 ).reset_index()
 
 total = total.merge(requisicoes, on="country")
-total.to_csv("testando.csv", index=False)
+total.to_csv("../../data/acceptance_by_country.csv", index=False)

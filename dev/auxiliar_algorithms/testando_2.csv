@@ -1,11 +1,12 @@
 login,country,Total de prs,False,True
 0,united states,1,1.0,
+01shobitha,india,3,3.0,
 0b10011,united states,1,,1.0
 0x00b1,united states,1,,1.0
 0x1ad2,netherlands,1,1.0,
 0x68,germany,1,,1.0
 0x6b,japan,1,,1.0
-0xB4LINT,hungary,2,2.0,
+0xB4LINT,hungary,1,1.0,
 0xYasser,united states,2,1.0,1.0
 0xadada,united states,1,1.0,
 13k,brazil,1,,1.0
@@ -13,6 +14,7 @@ login,country,Total de prs,False,True
 153957,netherlands,5,1.0,4.0
 18z,taiwan,1,,1.0
 1AmNegan,india,2,1.0,1.0
+1Niels,united states,5,5.0,
 1a1a11a,united states,2,1.0,1.0
 1cph93,united states,1,,1.0
 1e100,united states,1,,1.0
@@ -21,6 +23,7 @@ login,country,Total de prs,False,True
 1u4nx,china,1,1.0,
 1vn,canada,1,,1.0
 211217613,united states,1,,1.0
+2208Abhinav,india,14,12.0,2.0
 284km,japan,1,,1.0
 2color,germany,1,1.0,
 2miksyn,russia,1,1.0,
@@ -28,6 +31,7 @@ login,country,Total de prs,False,True
 3dd13,hong kong,8,,8.0
 3den,united states,1,1.0,
 3rf,united states,15,15.0,
+3ruce,united kingdom,1,1.0,
 3ygun,united states,1,1.0,
 4383,france,2,1.0,1.0
 44px,united states,1,,1.0
@@ -46,29 +50,32 @@ login,country,Total de prs,False,True
 8398a7,japan,1,1.0,
 8W9aG,united states,1,1.0,
 9EOR9,germany,1,1.0,
-9mm,united states,1,1.0,
 A7xSV,united kingdom,2,2.0,
 ABitMoreDepth,united kingdom,1,,1.0
 ADiegoCAlonso,hungary,2,,2.0
 AJNeufeld,canada,1,,1.0
 AMDmi3,russia,1,,1.0
 AMDonati,germany,1,1.0,
+APolce,united states,1,1.0,
 ARK3r,canada,1,1.0,
 ASCE1885,china,3,3.0,
 ASalvail,canada,2,1.0,1.0
 AVancans,united kingdom,1,1.0,
+AZtheAsian,united states,13,12.0,1.0
 AakashKumarNain,india,1,1.0,
 AaronMT,canada,17,8.0,9.0
+AasthaGupta,india,26,23.0,3.0
 Abadii,netherlands,2,2.0,
+Abdallahassan,sweden,1,1.0,
 AbdouSarr,canada,1,,1.0
 Abdur-rahmaanJ,mauritius,1,1.0,
 AbelSu131,china,2,2.0,
 AbhishekJaiswal123,india,1,1.0,
+Abijith10,india,2,2.0,
 AbilashK,india,4,4.0,
 AbraaoAlves,brazil,2,1.0,1.0
 Acid147,switzerland,1,,1.0
 AdamCurtisVT,united states,1,,1.0
-AdamVig,united states,3,,3.0
 AdenFlorian,united states,1,,1.0
 AdenFraser,united kingdom,1,,1.0
 Adlai-Holler,united states,7,7.0,
@@ -77,19 +84,21 @@ AdrieanKhisbe,france,2,1.0,1.0
 Advaith3600,india,4,3.0,1.0
 AegirLeet,germany,1,1.0,
 AeroNotix,poland,5,5.0,
+AetherealLlama,united kingdom,1,1.0,
 AfirSraftGarrier,china,1,,1.0
 AfzalivE,canada,1,,1.0
 AgentAntelope,united kingdom,1,,1.0
 Aghassi,united states,1,,1.0
+Agheb,germany,5,5.0,
 Ahanmr,india,1,1.0,
-Ahmad-Magdy,denmark,1,1.0,
 AhmedDaou,united states,1,1.0,
 AhsanAbrar,pakistan,1,1.0,
-AhsanAyaz,pakistan,7,3.0,4.0
+AhsanAyaz,pakistan,3,2.0,1.0
 AidanGG,australia,2,,2.0
 Airblader,germany,2,2.0,
 Ajackster,united states,5,3.0,2.0
 AjitZero,india,1,1.0,
+Ak-shay,india,1,1.0,
 AkashGutha,pakistan,4,3.0,1.0
 AkihikoITOH,germany,1,,1.0
 AlJohri,united states,2,2.0,
@@ -107,6 +116,7 @@ AleksandrChernyavenko,ukraine,1,1.0,
 AleksandrKuporosov,russia,2,2.0,
 Alerion,ukraine,2,2.0,
 Alex--wu,france,1,,1.0
+Alex-CodeLab,germany,6,6.0,
 Alex-Sokolov,russia,2,,2.0
 AlexBachmann,germany,4,4.0,
 AlexDenisov,germany,2,1.0,1.0
@@ -124,7 +134,7 @@ AliMD,united kingdom,1,1.0,
 AliMiraftab,united states,1,1.0,
 AlicanC,turkey,2,2.0,
 AllenJB,united kingdom,1,1.0,
-AlmeroSteyn,netherlands,6,2.0,4.0
+AlmeroSteyn,netherlands,5,1.0,4.0
 AlmogShaul,israel,9,8.0,1.0
 Almouro,france,2,2.0,
 Alonexx,china,1,1.0,
@@ -134,13 +144,12 @@ AmaliaSoucek,croatia,2,1.0,1.0
 AmansGit,india,1,1.0,
 AmiZya,morocco,2,2.0,
 AmineYaiche,tunisia,2,2.0,
-AmitMY,israel,55,21.0,34.0
+AmitMY,israel,54,21.0,33.0
 Amper,russia,2,1.0,1.0
 An0nymous0,china,1,1.0,
 AnSavvides,united kingdom,8,2.0,6.0
 Ana06,united states,2,2.0,
 Anahkiasen,france,8,5.0,3.0
-AnalogJ,united states,1,,1.0
 AnandPilania,india,1,1.0,
 Andarist,poland,11,3.0,8.0
 Andersos,norway,1,1.0,
@@ -155,6 +164,7 @@ AndreasMadsen,denmark,3,1.0,2.0
 AndreiCalazans,brazil,1,1.0,
 AndreiCostinescu,germany,6,1.0,5.0
 Andrew8xx8,russia,1,,1.0
+AndrewArcher,canada,2,2.0,
 AndrewHenderson,united states,2,1.0,1.0
 AndrewIngram,united kingdom,1,1.0,
 AndrewJack,united kingdom,18,18.0,
@@ -174,16 +184,17 @@ AngryPowman,china,1,,1.0
 AnishShah,india,14,5.0,9.0
 Anjum48,united kingdom,1,,1.0
 Anmol-Sharma,india,1,,1.0
-Ansimorph,austria,1,,1.0
 AnthonyBarbier,new zealand,1,1.0,
 AnthonyMRodrigues,brazil,1,1.0,
 Anthonyzou,canada,1,1.0,
 AntonioJuliano,united states,1,1.0,
 Anubhav2000,india,1,,1.0
+Anupam-dagar,india,17,17.0,
 Anvil,france,1,,1.0
 Apoorv-Mittal,united states,1,1.0,
 ApproximateIdentity,united states,5,2.0,3.0
 Aprillion,czechia,1,1.0,
+ApsOps,ireland,1,1.0,
 AquaGeek,united states,1,,1.0
 Ardeshir81,iran,1,1.0,
 Areadrill,portugal,1,1.0,
@@ -220,6 +231,7 @@ Atinux,france,2,,2.0
 Atlas7,united kingdom,7,4.0,3.0
 Atul206,india,4,4.0,
 AudyOdi,singapore,1,,1.0
+Augiro,sweden,1,1.0,
 Augustinetharakan12,india,1,1.0,
 AuroreM,france,1,1.0,
 AutomCoding,sweden,1,1.0,
@@ -232,6 +244,7 @@ BBKolton,united states,1,1.0,
 BBQuercus,switzerland,1,,1.0
 BDHU,united states,1,,1.0
 BDav24,france,1,,1.0
+BGR360,united states,2,,2.0
 BMJHayward,australia,1,1.0,
 BNMetrics,united kingdom,5,1.0,4.0
 BRKalow,united states,1,,1.0
@@ -247,6 +260,7 @@ BanzaiMan,united states,1,,1.0
 Barathwaja,india,1,1.0,
 BarkleyBG,united states,1,,1.0
 Barryrowe,united states,1,,1.0
+BartekJachowicz,poland,1,1.0,
 Bartosz-D3V,united kingdom,2,2.0,
 Baschdl,germany,1,1.0,
 Bashar,kuwait,2,1.0,1.0
@@ -256,7 +270,7 @@ Belax8,united states,1,,1.0
 BenBrostoff,united states,1,1.0,
 BenLeggiero,united states,1,,1.0
 BenMorel,france,2,1.0,1.0
-BenMusch,united states,10,3.0,7.0
+BenMusch,united states,12,5.0,7.0
 BenRevell96,united kingdom,1,1.0,
 BenRussert,united states,1,,1.0
 BenchR267,germany,1,1.0,
@@ -267,7 +281,6 @@ Bensmithbortey,united kingdom,1,1.0,
 Benyuel,united states,1,1.0,
 BernardoSilva,united kingdom,1,1.0,
 BerndWessels,new zealand,3,2.0,1.0
-BernhardRode,germany,3,3.0,
 BertrandBordage,france,1,1.0,
 BertrandF23,ireland,2,2.0,
 Bezier89,united states,1,,1.0
@@ -308,8 +321,9 @@ BreahnaDavid,moldova,1,1.0,
 Brian-Kaplan,united states,1,1.0,
 BrianOn99,hong kong,1,1.0,
 BridgeAR,germany,1,1.0,
+Brigette-Eckert,united states,1,1.0,
 Brobin,united states,1,1.0,
-Brocco,united states,205,56.0,149.0
+Brocco,united states,2,1.0,1.0
 Brooooooklyn,china,3,2.0,1.0
 BrunoVillanova,brazil,1,1.0,
 BryanHeath,united states,1,1.0,
@@ -331,9 +345,7 @@ CaptRat,united states,1,1.0,
 CaptainNic,united states,1,1.0,
 CarbonComputed,united states,1,,1.0
 CarlMungazi,united kingdom,3,,3.0
-CarlosTorrecillas,nicaragua,1,1.0,
 Carreau,united states,43,8.0,35.0
-CarreraPHP,india,4,3.0,1.0
 Carter440,united states,1,1.0,
 CarterBland,united states,1,1.0,
 CarterLi,china,1,1.0,
@@ -350,9 +362,10 @@ Chaitya62,india,1,1.0,
 ChameleonRed,poland,2,2.0,
 Charca,argentina,2,1.0,1.0
 Charles0123,taiwan,1,1.0,
-CharlesSuttie,australia,1,,1.0
 CharlieGarcia,dominican republic,1,,1.0
 CharlieGreenman,israel,1,1.0,
+CharuChhimpa,india,1,1.0,
+Chaycej,united states,2,2.0,
 Cheekio,united states,1,1.0,
 Chemist247,iran,1,1.0,
 ChengZhang1213,china,1,1.0,
@@ -364,7 +377,7 @@ ChihChengLiang,taiwan,1,,1.0
 ChillarAnand,india,18,9.0,9.0
 ChrisBland,united states,1,1.0,
 ChrisEsser,united states,1,1.0,
-ChrisPearce,united kingdom,6,4.0,2.0
+ChrisPearce,united kingdom,1,1.0,
 ChrisSki,united states,1,,1.0
 ChrisWren,united states,1,1.0,
 Chrissi2812,germany,1,1.0,
@@ -441,7 +454,6 @@ DCtheTall,united states,1,,1.0
 DCzajkowski,poland,2,1.0,1.0
 DEKHTIARJonathan,france,3,2.0,1.0
 DELTA37,russia,1,1.0,
-DFGU,australia,1,1.0,
 DHZS,china,1,,1.0
 DHedgecock,united states,1,1.0,
 DJMcNab,united kingdom,2,1.0,1.0
@@ -479,7 +491,6 @@ DanielMorales9,germany,1,,1.0
 DanielRosenwasser,united states,3,2.0,1.0
 DanielRuf,germany,5,5.0,
 DanielSanRocha,brazil,1,,1.0
-DanielSchaffer,united states,1,1.0,
 DanielSwain,united states,1,,1.0
 DanielWeitzenfeld,united states,1,,1.0
 DanilBaibak,germany,3,,3.0
@@ -505,7 +516,6 @@ Dbroqua,france,1,1.0,
 DeNance007,united states,1,1.0,
 DeNeutoy,united kingdom,1,,1.0
 Deborah-Digges,canada,1,,1.0
-DeborahK,united states,1,,1.0
 DeepManuPy,pakistan,1,1.0,
 Delagen,russia,1,1.0,
 Delapouite,france,1,,1.0
@@ -548,6 +558,7 @@ Doncode,russia,1,1.0,
 DoomHammer,poland,1,1.0,
 Doppler010,india,1,1.0,
 Dorozhko-Anton,france,1,1.0,
+DoubleDeez,canada,1,1.0,
 DouweM,netherlands,6,1.0,5.0
 Down10,united states,1,,1.0
 Dozed12,portugal,2,,2.0
@@ -570,14 +581,13 @@ DylanArnold,new zealand,1,,1.0
 DylanLukes,united states,1,1.0,
 EIrwin,united states,1,1.0,
 EKami,france,1,1.0,
-EKashpersky,ukraine,1,1.0,
 EMCP,united states,1,,1.0
 EQt,germany,1,,1.0
 EVaisman,united states,1,1.0,
 EarthSchlange,canada,1,1.0,
 Easen,united kingdom,2,2.0,
 EasyHard,united states,3,2.0,1.0
-EatonZ,united states,2,1.0,1.0
+EatonZ,united states,1,1.0,
 EbXpJ6bp,japan,2,,2.0
 Echarnus,belgium,1,1.0,
 Echofy,china,1,1.0,
@@ -606,14 +616,13 @@ Elias481,germany,1,1.0,
 EliuFlorez,venezuela,14,12.0,2.0
 EllisShen,united states,1,1.0,
 Ellorah,united states,1,1.0,
-Elvin1492,belarus,1,1.0,
 EmadMokhtar,netherlands,2,2.0,
 EmanueleGhelfi,italy,1,1.0,
 EmielM,netherlands,2,2.0,
 EmilStenstrom,sweden,3,3.0,
 Emilios1995,mexico,5,5.0,
 EmingK,china,2,2.0,
-EmmanuelDemey,france,12,11.0,1.0
+EmmanuelDemey,france,8,8.0,
 EmreAtes,united states,2,2.0,
 EnTeQuAk,germany,3,3.0,
 EncodeTS,china,3,2.0,1.0
@@ -645,12 +654,12 @@ EugeneGarbuzov,belarus,1,,1.0
 Eurus-Holmes,united states,1,,1.0
 EvHaus,canada,2,1.0,1.0
 EvanBacon,united states,4,4.0,
-EvanCarroll,united states,3,1.0,2.0
+EvanCarroll,united states,2,1.0,1.0
 EvanWang233,china,1,1.0,
 Evpok,france,1,,1.0
 Exanis,france,1,1.0,
 Eyesonly88,new zealand,2,2.0,
-FDIM,denmark,5,4.0,1.0
+FDIM,denmark,3,3.0,
 FJLendinez,peru,1,1.0,
 FKLC,canada,1,1.0,
 FLGMwt,united states,2,2.0,
@@ -664,7 +673,6 @@ Falci,spain,1,1.0,
 Fanghao,united states,4,3.0,1.0
 Fank,germany,3,,3.0
 Farris27,belgium,1,1.0,
-Fatme,bulgaria,1,1.0,
 FdezRomero,spain,4,2.0,2.0
 Fdom92,spain,3,3.0,
 FedericoV,italy,5,3.0,2.0
@@ -692,7 +700,6 @@ Forever-Young,russia,1,1.0,
 Fost,russia,1,1.0,
 Foxman13,united states,1,1.0,
 Framartin,france,3,,3.0
-FrancescoBorzi,netherlands,1,1.0,
 FrancisShi,china,1,1.0,
 Francismori7,canada,1,1.0,
 Franck-Dernoncourt,philippines,2,,2.0
@@ -709,9 +716,8 @@ Freija,united states,1,,1.0
 FremyCompany,belgium,1,1.0,
 FrittenKeeZ,denmark,1,,1.0
 Frizlab,france,1,,1.0
-FrozenPandaz,canada,12,1.0,11.0
+FrozenPandaz,canada,3,,3.0
 Frozenball,finland,2,1.0,1.0
-Fufuxx,malta,1,1.0,
 FumiyaShibusawa,japan,1,,1.0
 Furgas,poland,3,3.0,
 Fuxy22,united kingdom,1,,1.0
@@ -722,7 +728,7 @@ GBuella,poland,1,1.0,
 GENERALGUBERNATOR1,israel,2,2.0,
 GGICE,china,1,1.0,
 GKjohns,united states,3,1.0,2.0
-GPHemsley,united states,6,3.0,3.0
+GPHemsley,united states,10,5.0,5.0
 GR3C0,venezuela,1,1.0,
 GSokol,russia,2,2.0,
 Gab-Metzger,france,2,2.0,
@@ -750,7 +756,6 @@ GeeH,united kingdom,1,1.0,
 GeekMasher,united kingdom,1,,1.0
 GeekMe93,singapore,1,1.0,
 GeekyShacklebolt,india,1,,1.0
-Gelio,poland,2,1.0,1.0
 Geloosa,russia,2,1.0,1.0
 Gemorroj,belarus,2,2.0,
 GenericFox,united states,1,1.0,
@@ -765,7 +770,6 @@ GideonSonoiya1,kenya,1,,1.0
 Giftlin,india,3,3.0,
 GilTeixeira,portugal,1,,1.0
 GingerBear,united states,1,1.0,
-GingerGeek,united kingdom,1,1.0,
 Giszmo,chile,1,1.0,
 Git-Jiro,austria,3,,3.0
 GitMaYi,china,1,1.0,
@@ -774,7 +778,7 @@ Glank,united states,1,1.0,
 Glavin001,canada,1,,1.0
 GlebkaF,russia,1,1.0,
 Glideh,france,1,1.0,
-GoNode5,netherlands,3,3.0,
+GoNode5,netherlands,2,2.0,
 Goles,united states,3,1.0,2.0
 Gomasy,japan,1,1.0,
 Goodwine,united states,10,10.0,
@@ -795,11 +799,9 @@ GuillaumeLeclerc,switzerland,1,,1.0
 GuillaumeUnice,france,1,1.0,
 GuohongLi,china,1,1.0,
 Gurpreetsingh9465,india,2,,2.0
-Gusachenko,united states,2,1.0,1.0
 Gyran,sweden,1,1.0,
 Hacklone,hungary,1,1.0,
 HaebinShin,south korea,1,,1.0
-Hagendorn,germany,1,,1.0
 Haikson,russia,2,2.0,
 HammyHavoc,canada,1,,1.0
 HamzaDevz,france,1,1.0,
@@ -837,7 +839,7 @@ Hillsie,australia,1,1.0,
 Himanshu-Lakhara,india,2,,2.0
 Hirico,china,1,,1.0
 HiroKws,japan,6,,6.0
-Hirse,canada,4,3.0,1.0
+Hirse,canada,2,1.0,1.0
 Hitabis,germany,1,1.0,
 HiveSolution,germany,1,1.0,
 Hoeze,germany,1,1.0,
@@ -852,6 +854,7 @@ HuJingwei,china,1,1.0,
 Huachao,china,7,1.0,6.0
 HuaizhengZhang,singapore,1,,1.0
 HuangHongRui,china,1,1.0,
+Hudda,india,3,3.0,
 Huddo121,australia,2,,2.0
 HughKu,taiwan,1,1.0,
 Hughen,china,3,3.0,
@@ -861,7 +864,7 @@ Humanity123,india,1,,1.0
 HurricaneJames,united states,2,1.0,1.0
 Hurtak,czechia,1,1.0,
 Hwesta,canada,2,2.0,
-Hypro999,india,1,,1.0
+Hypro999,india,53,41.0,12.0
 Hyra,netherlands,1,1.0,
 IAPark,united states,3,3.0,
 IDisposable,united states,1,1.0,
@@ -903,17 +906,16 @@ IuryAlves,sweden,1,1.0,
 Ivan-Perez,spain,1,,1.0
 IvanUkhov,sweden,3,1.0,2.0
 Ivanwangcy,china,1,,1.0
+Ivche1337,macedonia,1,,1.0
 Ivnosing,spain,1,,1.0
 Ivo-Donchev,bulgaria,1,1.0,
 J0,singapore,1,,1.0
 J03Bukowski,united kingdom,1,1.0,
 J0rgeSerran0,spain,1,1.0,
-J2EEDEV-IMRAN,bangladesh,1,1.0,
 JACKHAHA363,canada,1,1.0,
 JAStanton,united states,5,5.0,
 JB1905,poland,1,1.0,
 JBKahn,canada,2,1.0,1.0
-JC-Pergite,united states,1,1.0,
 JChord,china,3,1.0,2.0
 JCount,united states,16,3.0,13.0
 JDLH,canada,2,1.0,1.0
@@ -921,14 +923,13 @@ JDStraughan,united states,1,1.0,
 JGiola,italy,3,,3.0
 JGoutin,france,3,1.0,2.0
 JHoloboski,united states,1,,1.0
-JJayet,france,1,1.0,
-JLHwung,united states,6,5.0,1.0
+JLHwung,united states,5,5.0,
 JNingWei,china,1,1.0,
 JPFrancoia,netherlands,5,3.0,2.0
 JPWILSON,united states,2,2.0,
 JPanneel,netherlands,1,1.0,
-JPeer264,austria,2,,2.0
-JSMike,united states,8,5.0,3.0
+JPeer264,austria,1,,1.0
+JSMike,united states,1,1.0,
 JSteunou,france,1,,1.0
 JVillella,canada,1,,1.0
 JackDanger,united states,2,2.0,
@@ -982,23 +983,23 @@ JeffGuKang,south korea,1,1.0,
 Jeffrey04,malaysia,1,,1.0
 JeffreyCA,united states,2,,2.0
 JeffreyWay,united states,12,3.0,9.0
-Jefiozie,netherlands,2,1.0,1.0
 Jekiwijaya,indonesia,1,1.0,
 JelleZijlstra,united states,24,4.0,20.0
 JensHumrich,spain,3,2.0,1.0
 JensRantil,sweden,2,1.0,1.0
+Jeremy-Xue,united states,1,1.0,
 JeremyBellaiche,france,1,,1.0
 JeremyNixon,united states,1,,1.0
 JerrikEph,china,1,,1.0
 JerryFZhang,canada,1,1.0,
 JesperDramsch,united kingdom,3,2.0,1.0
 JesseObrien,united kingdom,11,5.0,6.0
-Jessidhia,japan,3,1.0,2.0
+Jessidhia,japan,2,1.0,1.0
 JesusZapata,colombia,1,1.0,
 JettJones,united states,1,,1.0
 Jeyanthinath,india,1,,1.0
 Jhnbrn90,netherlands,1,1.0,
-JiaLiPassion,japan,54,50.0,4.0
+JiaLiPassion,japan,51,49.0,2.0
 Jiab77,switzerland,4,4.0,
 Jiaming-Liu,united states,1,,1.0
 JieweiWei,china,1,1.0,
@@ -1007,7 +1008,7 @@ Jille,ireland,7,5.0,2.0
 Jim-Holmstroem,sweden,14,12.0,2.0
 JimBobSquarePants,australia,1,,1.0
 JimBoonie,united states,1,1.0,
-JimiC,greece,5,1.0,4.0
+JimiC,greece,4,1.0,3.0
 JinScientist,sweden,1,1.0,
 JirkaV,czechia,1,,1.0
 Jmunapo,zimbabwe,1,1.0,
@@ -1020,22 +1021,21 @@ JoelOtter,united kingdom,2,1.0,1.0
 JoelSanchez,spain,1,1.0,
 Johan-dutoit,united kingdom,2,2.0,
 JohanJu,sweden,1,,1.0
-JohannesHoppe,germany,11,7.0,4.0
-JohannesRudolph,germany,1,1.0,
+JohannesHoppe,germany,3,3.0,
 Johayon,canada,3,,3.0
 JohnAllen,united states,1,,1.0
 JohnAnthony,united kingdom,1,,1.0
 JohnBoersma,united states,1,1.0,
-JohnCashmore,united kingdom,3,3.0,
+JohnCashmore,united kingdom,1,1.0,
 JohnOhl,united states,1,1.0,
 JohnyDays,portugal,4,3.0,1.0
 JonAbrams,united states,1,1.0,
-JonCubed,australia,3,2.0,1.0
 JonWallsten,sweden,1,1.0,
 Jonahss,united states,2,1.0,1.0
 JonasNiestroj,switzerland,2,2.0,
 JonathanO,united kingdom,1,1.0,
 JonathanRaiman,united states,1,,1.0
+JonathanVillordo,united kingdom,2,2.0,
 Jonatino,canada,1,1.0,
 JonesN3,norway,1,1.0,
 JoniJnm,spain,1,,1.0
@@ -1059,7 +1059,6 @@ JounQin,china,4,2.0,2.0
 JoyalAJohney,india,1,1.0,
 Jpoliachik,united states,1,1.0,
 JrGoodle,united states,2,,2.0
-Jtreu,united states,1,1.0,
 JuanDMeGon,colombia,3,1.0,2.0
 JulesGM,canada,1,,1.0
 Julian,united states,1,,1.0
@@ -1095,6 +1094,7 @@ KabirKwatra,united states,3,2.0,1.0
 Kachulio1,kenya,3,1.0,2.0
 Kacper20,united kingdom,7,1.0,6.0
 KaelWD,australia,8,1.0,7.0
+KaiCode2,canada,1,1.0,
 KamilSzot,poland,1,,1.0
 KaneFreeman,united states,1,1.0,
 KargJonas,austria,1,1.0,
@@ -1124,7 +1124,6 @@ Kh4L,poland,1,,1.0
 KhaledTo,france,1,1.0,
 Khalid-Nowaf,canada,3,3.0,
 Khalilsqu,oman,9,4.0,5.0
-KhodeN,russia,1,1.0,
 Khoyo,france,1,,1.0
 Kida007,india,1,1.0,
 KieranDotCo,united kingdom,1,1.0,
@@ -1135,7 +1134,6 @@ KindDragon,russia,1,,1.0
 Kindari,united states,3,2.0,1.0
 KingMario,china,7,3.0,4.0
 Kingwl,china,1,1.0,
-Kiougar,netherlands,1,1.0,
 Kiricon,united states,7,3.0,4.0
 KishPatel1996,united states,1,1.0,
 KittenHero,australia,1,,1.0
@@ -1150,7 +1148,6 @@ KonradMagnusson,sweden,1,1.0,
 KonstantinKuklin,russia,1,1.0,
 Korijn,netherlands,1,1.0,
 Korilakkuma,japan,1,1.0,
-KorsaR-ZN,russia,1,1.0,
 Kreozot,russia,1,,1.0
 KristianHolsheimer,australia,2,2.0,
 KristianOellegaard,denmark,1,1.0,
@@ -1163,6 +1160,7 @@ Kubo2,india,3,3.0,
 Kuchitama,japan,2,2.0,
 Kudo,taiwan,23,22.0,1.0
 Kulbear,canada,1,,1.0
+Kumar-Tarun,india,14,12.0,2.0
 Kureev,united kingdom,19,18.0,1.0
 KuroGuo,china,1,,1.0
 Kwasniewski,united states,2,2.0,
@@ -1171,23 +1169,20 @@ Kwpolska,poland,1,1.0,
 Kyeongan,united states,1,1.0,
 KyleAMathews,united states,6,2.0,4.0
 KyotoSunshine,japan,5,1.0,4.0
-L2jLiga,russia,3,1.0,2.0
 LAITONEN,finland,1,1.0,
 LEOYoon-Tsaw,china,2,2.0,
 LEW21,poland,2,1.0,1.0
-LJNielsenDk,denmark,1,,1.0
 LKaemmerling,germany,1,1.0,
-LakhyariMs,france,2,,2.0
-Lakston,france,1,,1.0
 Landish,georgia,2,2.0,
 Lapayo,germany,2,1.0,1.0
 LarsStegman,netherlands,2,1.0,1.0
-LasTanzen,germany,2,2.0,
 LasseRafn,united kingdom,1,1.0,
 Laurentvw,belgium,1,1.0,
+LawlietBlack,united states,1,1.0,
 LawnGnome,canada,13,9.0,4.0
 LayZeeDK,denmark,6,5.0,1.0
 LearningDave,germany,2,2.0,
+LechX,united states,5,5.0,
 LeeHanYeong,south korea,2,1.0,1.0
 LeeXun,taiwan,1,1.0,
 LegoStormtroopr,australia,1,1.0,
@@ -1226,6 +1221,7 @@ LinuzLuzas,germany,3,3.0,
 LiquidPL,poland,1,1.0,
 LiraNuna,united states,1,1.0,
 LiutongZhou,united states,1,,1.0
+LiuzcEECS,china,1,1.0,
 LiveMethod,united states,1,,1.0
 Llorx,spain,1,1.0,
 Lmy0217,china,1,1.0,
@@ -1244,7 +1240,6 @@ LouisMichael,united states,1,1.0,
 LoukaN,france,1,,1.0
 LowikC,france,1,1.0,
 LuRsT,united kingdom,2,,2.0
-LuanHenriqueR8,brazil,1,1.0,
 LuanP,canada,1,1.0,
 Lucas-C,france,1,,1.0
 LucasLarson,united states,1,1.0,
@@ -1257,7 +1252,6 @@ Luigi123,japan,1,,1.0
 Luigin,sierra leone,1,1.0,
 LuisReinoso,ecuador,1,1.0,
 LuizZak,brazil,2,,2.0
-LukePettway,united states,1,,1.0
 LukeeeeBennett,united kingdom,1,,1.0
 LunarWatcher,norway,1,1.0,
 Ly-lns,china,2,2.0,
@@ -1272,7 +1266,6 @@ MGrin,united kingdom,1,1.0,
 MKisilyov,united states,2,1.0,1.0
 MMKrell,germany,1,1.0,
 MR-fisher,china,1,1.0,
-MRHarrison,united states,1,1.0,
 MRigal,germany,2,2.0,
 MScottBlake,united states,1,,1.0
 MSusik,poland,1,,1.0
@@ -1282,7 +1275,6 @@ MacKentoch,france,2,2.0,
 Macbull,united states,1,1.0,
 Mactory,germany,1,,1.0
 MadMikeyB,united kingdom,2,1.0,1.0
-Madd,norway,1,1.0,
 MadeinFrance,netherlands,1,1.0,
 Magiccwl,china,1,,1.0
 Maharacha,sweden,1,1.0,
@@ -1297,12 +1289,13 @@ MaksPob,russia,2,2.0,
 MalcolmScruggs,united states,1,1.0,
 MamboCube,united kingdom,1,1.0,
 Mandar-Shinde,india,1,1.0,
-Manduro,netherlands,23,5.0,18.0
+Manduro,netherlands,21,5.0,16.0
 ManoelLobo,brazil,3,1.0,2.0
 Manzurkds,india,1,,1.0
 MarcBT,france,1,1.0,
 MarceloAlves,united states,1,,1.0
 MarcoFalke,germany,3,1.0,2.0
+MarcoMatarazzo,italy,2,2.0,
 MarcusNoble,united kingdom,1,,1.0
 MarcusSchwarz,germany,1,1.0,
 MarioTara,italy,1,1.0,
@@ -1328,7 +1321,7 @@ MathSquared,united states,1,,1.0
 MathiasLuo,china,1,1.0,
 MathieuTurcotte,united states,1,1.0,
 Mathieuu,canada,1,,1.0
-Mathou54,luxembourg,6,4.0,2.0
+Mathou54,luxembourg,3,3.0,
 MatmaRex,poland,1,1.0,
 Matt-Deacalion,united kingdom,10,6.0,4.0
 MattBlack85,poland,7,4.0,3.0
@@ -1368,7 +1361,7 @@ MeiK2333,china,1,1.0,
 Meinwerk,new zealand,1,1.0,
 Meknassih,france,1,1.0,
 Melevir,russia,2,2.0,
-Meligy,australia,23,14.0,9.0
+Meligy,australia,2,2.0,
 MelissaN,united states,1,1.0,
 MercifulCode,united states,2,1.0,1.0
 Merott,united kingdom,4,3.0,1.0
@@ -1388,7 +1381,6 @@ MichaelDeBoey,belgium,1,1.0,
 MichaelHoughton,ireland,1,1.0,
 MichaelKohler,germany,1,1.0,
 MichaelNeas,united states,1,1.0,
-MichaelSolati,united states,1,1.0,
 MichelAraujo,brazil,2,,2.0
 Mickael-van-der-Beek,belgium,1,1.0,
 MickyCook,united states,1,1.0,
@@ -1400,7 +1392,6 @@ MikeJerred,united kingdom,2,2.0,
 MikeKMiller,united states,2,2.0,
 MikeMcQuaid,united kingdom,58,31.0,27.0
 MikePodgorniy,ukraine,1,1.0,
-MikhaelGerbet,france,3,2.0,1.0
 MikhailStartsev,germany,1,1.0,
 MikhailTatsky,finland,2,2.0,
 Milania1,germany,1,,1.0
@@ -1408,12 +1399,12 @@ Minishlink,france,5,5.0,
 Mippy,canada,1,1.0,
 MiracleYoung,china,1,1.0,
 MircoT,italy,1,,1.0
-Mischi,germany,3,3.0,
+Mischi,germany,2,2.0,
 MisterRios,germany,2,,2.0
 Mitame,united kingdom,3,2.0,1.0
 MlWoo,china,1,1.0,
 MoOx,france,4,4.0,
-Mobiletainment,austria,3,,3.0
+Mobiletainment,austria,2,,2.0
 Modelizer,netherlands,2,2.0,
 Mohsen7s,iran,1,1.0,
 Moisan,canada,3,,3.0
@@ -1460,12 +1451,11 @@ Nashenas88,united states,1,,1.0
 NataliaTepluhina,ukraine,1,,1.0
 NathanGiesbrecht,canada,1,1.0,
 NathanHowell,united states,4,,4.0
-NathanWalker,united states,9,8.0,1.0
+NathanWalker,united states,7,7.0,
 Natim,france,6,4.0,2.0
 Naturalclar,japan,3,3.0,
 Naxon,israel,1,1.0,
 Ne4istb,ukraine,2,1.0,1.0
-NekR,russia,1,1.0,
 NelleV,united states,37,14.0,23.0
 Neonit,germany,1,,1.0
 Nepherhotep,united states,2,2.0,
@@ -1479,7 +1469,6 @@ NicBonetto,united states,5,3.0,2.0
 NicholasKobald,malta,6,3.0,3.0
 NickCalabs,united states,1,,1.0
 NickCoolii,russia,1,,1.0
-NickGeek,new zealand,1,,1.0
 NickGoumas,united kingdom,1,1.0,
 NickYi1990,china,1,1.0,
 NickleDave,united states,3,1.0,2.0
@@ -1491,7 +1480,7 @@ NielsZeilemaker,netherlands,1,1.0,
 NikV,united states,3,,3.0
 NikaBuligini,georgia,1,,1.0
 Nikeshbajaj,united kingdom,1,1.0,
-NiklasTeich,germany,1,1.0,
+Nikhil-Vats,india,1,1.0,
 Niranjan-B,united states,1,1.0,
 Nirlah,israel,1,,1.0
 Nirma,japan,30,7.0,23.0
@@ -1504,6 +1493,7 @@ Njanderson,united states,1,1.0,
 Nkzn,japan,1,1.0,
 No-Doy,united states,1,,1.0
 NoNameProvided,hungary,1,,1.0
+NoahCristino,united states,3,3.0,
 NoahGWood,united states,1,,1.0
 NoahYarian,united states,1,,1.0
 NobuoTsukamoto,japan,1,1.0,
@@ -1537,7 +1527,6 @@ Oldenborg,denmark,1,1.0,
 OleLaursen,denmark,1,1.0,
 Oleg24,united states,1,,1.0
 OliverJAsh,united kingdom,3,1.0,2.0
-OlivierCroisier,france,1,1.0,
 OmarAflak,united kingdom,1,,1.0
 OneThatWalks,united states,2,,2.0
 Oneplus,china,1,1.0,
@@ -1575,6 +1564,7 @@ PaitoAnderson,canada,4,4.0,
 Paklausk,lithuania,1,1.0,
 Palisanka,france,1,,1.0
 PanJiaChen,china,1,1.0,
+PandaWhoCodes,india,1,1.0,
 Pankrat,germany,1,1.0,
 Paplow,nigeria,1,1.0,
 ParadoxMeltdown,canada,1,1.0,
@@ -1595,6 +1585,7 @@ Paul-C-Anagnostopoulos,united states,1,1.0,
 Paul-Isache,romania,1,,1.0
 PaulAik,united kingdom,1,,1.0
 PaulMest,united states,2,2.0,
+PaulPetring,germany,1,1.0,
 PaulPrice,united states,2,,2.0
 PaulSD,liberia,1,,1.0
 PaulSebi,india,1,1.0,
@@ -1609,6 +1600,7 @@ PedroC88,dominican republic,2,2.0,
 PedroCardoso,portugal,1,1.0,
 PeeHaa,netherlands,4,3.0,1.0
 Pellmellism,united states,1,1.0,
+PentaHiggs,united states,8,5.0,3.0
 Perlence,russia,1,1.0,
 Persola,united states,1,,1.0
 Perturbatio,united kingdom,2,2.0,
@@ -1623,6 +1615,7 @@ PetterS,sweden,7,4.0,3.0
 Phe0nix,india,2,2.0,
 Phhere,germany,1,,1.0
 PhilHannent,united kingdom,2,,2.0
+PhilSk,russia,6,5.0,1.0
 PhilSwanson,canada,1,,1.0
 PhiloNL,netherlands,3,3.0,
 Phyxsius,united states,2,1.0,1.0
@@ -1636,7 +1629,6 @@ PimDeWitte,united states,2,2.0,
 Pimm,netherlands,1,1.0,
 PiotrCzapla,poland,2,,2.0
 PirosB3,italy,17,17.0,
-Pittan,japan,1,,1.0
 PlantPorridge,united kingdom,1,1.0,
 Plo4ox,france,1,1.0,
 PoiSoNz,portugal,1,,1.0
@@ -1649,6 +1641,7 @@ Powerhamster,germany,1,1.0,
 Pradeek,india,1,1.0,
 PrashanthCorp,united states,1,1.0,
 Preston-Landers,united states,1,,1.0
+Pri-Pri-Pri,united states,3,2.0,1.0
 Pritheeev,india,1,1.0,
 PriyWerry,netherlands,1,1.0,
 Priyanka7056,pakistan,1,1.0,
@@ -1661,7 +1654,7 @@ PrototypeZ,china,1,1.0,
 PsiloLR,netherlands,1,,1.0
 PuchatekwSzortach,japan,4,1.0,3.0
 PuercoPop,peru,1,1.0,
-Puigcerber,spain,5,5.0,
+Puigcerber,spain,2,2.0,
 PunchyRascal,czechia,1,1.0,
 Purii,germany,3,3.0,
 Purus,india,2,,2.0
@@ -1675,7 +1668,6 @@ Qlio,mongolia,2,2.0,
 Qlogin,united states,8,,8.0
 QuantumInformation,united kingdom,2,1.0,1.0
 Quesar,latvia,1,,1.0
-Quramy,japan,3,2.0,1.0
 RCacheaux,united states,1,1.0,
 RCiesielczuk,united kingdom,3,3.0,
 RD1991,india,4,4.0,
@@ -1684,7 +1676,6 @@ REVIMI,belarus,1,,1.0
 RF-Nelson,united states,1,1.0,
 RJ722,india,1,,1.0
 RP-3,united states,1,1.0,
-RPGillespie6,liberia,1,,1.0
 RReverser,united kingdom,9,4.0,5.0
 RWalecki,united kingdom,3,2.0,1.0
 RaasAhsan,united states,1,1.0,
@@ -1692,7 +1683,9 @@ RachitKansal,pakistan,1,,1.0
 RadicalZephyr,united states,2,,2.0
 RafaelKr,germany,1,1.0,
 RafaelMagalhaesN,brazil,1,1.0,
+Rafah-Mehfooz,pakistan,1,1.0,
 RafiKueng,switzerland,1,,1.0
+Raghavareddy21,india,5,5.0,
 Ragnaroek,germany,1,1.0,
 RahulDamineni,india,1,1.0,
 Rahulkishanm,india,2,2.0,
@@ -1704,6 +1697,7 @@ RajatGarg97,india,1,1.0,
 Rajchowdhury420,india,1,1.0,
 Rajesh-Veeranki,india,3,,3.0
 RajkumarPunchh,india,2,1.0,1.0
+RameshAditya,india,3,3.0,
 RamezIssac,egypt,3,3.0,
 RaminMammadzada,turkey,1,1.0,
 RaminNietzsche,iran,1,1.0,
@@ -1716,7 +1710,6 @@ RayOnFire,china,1,,1.0
 RaymondChou,china,1,,1.0
 Raynos,united states,1,1.0,
 Razzeee,germany,1,1.0,
-ReToCode,switzerland,1,,1.0
 Red54,china,1,1.0,
 RedTn,canada,1,,1.0
 Redor,germany,1,,1.0
@@ -1725,12 +1718,13 @@ Regzon,russia,1,1.0,
 Relucent,china,2,2.0,
 RenatoUtsch,brazil,3,,3.0
 ReneMoraales,panama,1,1.0,
+Retsediv,ukraine,2,1.0,1.0
 RevolutionTech,united states,1,,1.0
 RexMorgan,united states,1,1.0,
 RezaRahmati,canada,1,1.0,
 RiZKiT,germany,1,,1.0
 Rican7,united states,2,1.0,1.0
-RicardoVaranda,united kingdom,22,18.0,4.0
+RicardoVaranda,united kingdom,1,1.0,
 Rich-Harris,united states,2,1.0,1.0
 RichMorin,united states,1,1.0,
 RichardKnop,united kingdom,1,1.0,
@@ -1740,14 +1734,15 @@ Ricyteach,united states,1,1.0,
 RidleyLarsen,south africa,1,1.0,
 Rift-Walker,united states,1,,1.0
 RileyTomasek,united states,2,1.0,1.0
+Rishabh570,india,7,6.0,1.0
 RitamDey,india,1,1.0,
 RitwikGupta,united states,2,1.0,1.0
 Ritzlgrmft,germany,2,2.0,
 Rkallenkoot,netherlands,1,,1.0
 RoJoHub,china,2,2.0,
-RoPP,france,2,1.0,1.0
 RobPethick,united kingdom,1,,1.0
 RobRoseKnows,united states,1,1.0,
+RobbieClarken,australia,2,2.0,
 RobertAKARobin,united states,1,,1.0
 RobertKielty,ireland,1,,1.0
 RobertPieta,united states,3,1.0,2.0
@@ -1772,7 +1767,7 @@ Romanito,france,2,,2.0
 RonLek,india,2,,2.0
 RonMelkhior,israel,2,1.0,1.0
 RoopamSharma,united states,1,,1.0
-RoopeHakulinen,finland,4,3.0,1.0
+RoopeHakulinen,finland,2,2.0,
 Roshanjossey,germany,1,1.0,
 RosiersRobin,belgium,2,2.0,
 Ross65536,portugal,1,1.0,
@@ -1806,7 +1801,6 @@ SaganBolliger,united states,1,,1.0
 SagarSharma4244,india,1,1.0,
 SahilC,pakistan,1,1.0,
 SaitejaP,india,1,1.0,
-Saka7,ukraine,1,1.0,
 SalehHindi,united states,2,2.0,
 Salil999,united states,1,1.0,
 SamAsEnd,ethiopia,3,3.0,
@@ -1816,7 +1810,7 @@ SamStudio8,united kingdom,1,1.0,
 SamanShafigh,australia,1,1.0,
 Samangan,united states,1,,1.0
 Sampath-Lokuge,sri lanka,1,1.0,
-SamuelMarks,australia,4,4.0,
+SamuelMarks,australia,2,2.0,
 Samuell1,slovakia,1,1.0,
 SanderHeling,netherlands,1,1.0,
 SanderSpies,netherlands,14,11.0,3.0
@@ -1828,7 +1822,8 @@ Sannis,russia,2,1.0,1.0
 Santosh-Gupta,united states,1,1.0,
 SaptakS,india,1,,1.0
 Satish,india,1,1.0,
-Saulis,finland,1,1.0,
+SatyendraBanjare,india,6,6.0,
+SaumyaRawat,united states,2,1.0,1.0
 SaurabhJha,india,3,3.0,
 SayHiRay,singapore,1,,1.0
 Sc00bz,united states,1,1.0,
@@ -1848,16 +1843,14 @@ SebastianZaha,austria,1,,1.0
 SebastienBtr,france,1,1.0,
 SebastinSanty,india,12,4.0,8.0
 Seluj78,france,7,2.0,5.0
+SenchoPens,russia,2,1.0,1.0
 Sentient07,india,8,5.0,3.0
 Sentoki,russia,1,1.0,
 SergeyKorochansky,ukraine,2,2.0,
 SergeyVolynkin,russia,1,1.0,
 Serginho,spain,1,1.0,
 SeriousM,austria,2,2.0,
-SerkanSipahi,germany,1,1.0,
 SetTrend,germany,4,4.0,
-SethDavenport,canada,1,1.0,
-ShadowManu,venezuela,1,1.0,
 Shahor,france,1,,1.0
 ShaneHarvey,united states,3,,3.0
 Shanesun,china,1,1.0,
@@ -1869,10 +1862,12 @@ Sharpie,new zealand,1,,1.0
 Shashi456,india,1,,1.0
 Shastel,belarus,2,,2.0
 ShawnMcCool,netherlands,5,4.0,1.0
+Shayan-To,iran,3,3.0,
 SheetJSDev,united states,1,,1.0
 ShenggaoZhu,singapore,1,,1.0
 Shepless,united kingdom,1,1.0,
 Sherlock92,united kingdom,1,1.0,
+Shivamgera,india,4,2.0,2.0
 Shonetow,serbia,1,1.0,
 ShreejwalGiri,nepal,1,1.0,
 Shujian2015,united states,2,1.0,1.0
@@ -1880,6 +1875,7 @@ Si7ius,uzbekistan,1,1.0,
 SiarheiVolkau,belarus,1,1.0,
 SiddAjmera,india,4,4.0,
 Siddhant085,india,1,1.0,
+SiddharthVarshney,india,2,2.0,
 SidharthRaveendran,india,1,1.0,
 SiebelsTim,germany,1,,1.0
 Sigfried,united states,1,1.0,
@@ -1892,6 +1888,7 @@ Sinclert,spain,1,,1.0
 Sionarch,sweden,1,,1.0
 SirCumz,netherlands,1,1.0,
 SithisSir,russia,1,1.0,
+SivagiriVisakan,india,4,1.0,3.0
 Sjord,netherlands,2,2.0,
 SjorsO,netherlands,7,2.0,5.0
 Skasi,austria,1,,1.0
@@ -1921,7 +1918,7 @@ StanislawAntol,united states,1,,1.0
 Stanley,poland,1,1.0,
 Starou,france,2,2.0,
 StefanKjartansson,germany,1,,1.0
-StefanNieuwenhuis,netherlands,3,3.0,
+StefanNieuwenhuis,netherlands,2,2.0,
 StefanRein,germany,1,1.0,
 StefanScherer,germany,1,1.0,
 StefanoChiodino,united kingdom,2,1.0,1.0
@@ -1930,13 +1927,11 @@ StephenOman,ireland,1,1.0,
 StephenSwat,netherlands,1,1.0,
 SteveKennedy,argentina,1,,1.0
 SteveVanOpstal,belgium,2,2.0,
-Steven-Harris,united states,3,2.0,1.0
 StevenCHowell,united states,1,,1.0
 StevenLiekens,belgium,2,2.0,
 StevenXL,united states,3,3.0,
 Stevoisiak,united states,4,3.0,1.0
 Stigjb,norway,2,1.0,1.0
-Stoom,united states,1,1.0,
 Stranger6667,czechia,10,8.0,2.0
 Strayer,germany,1,1.0,
 Stricted,germany,9,9.0,
@@ -1983,7 +1978,6 @@ TUARAN,china,1,1.0,
 TV4Fun,united states,1,,1.0
 Ta4i,ukraine,1,1.0,
 Tafkas,germany,2,2.0,
-Taha-Di-Nero,italy,3,2.0,1.0
 Takadimi,united states,1,,1.0
 TakashiL,united states,1,,1.0
 Takeno,italy,1,1.0,
@@ -2018,7 +2012,6 @@ ThomHurks,netherlands,1,1.0,
 Thomas-S-B,germany,2,,2.0
 ThomasAllison,netherlands,1,,1.0
 ThomasBS,denmark,1,1.0,
-ThomasBurleson,united states,1,,1.0
 ThomasDelteil,canada,1,,1.0
 ThomasHagebols,netherlands,1,,1.0
 ThomasHenley,united kingdom,1,1.0,
@@ -2026,11 +2019,12 @@ ThomasLandauer,austria,2,2.0,
 ThomasWollmann,germany,1,1.0,
 ThunderBirdsX3,thailand,4,3.0,1.0
 TiagoDanin,brazil,1,,1.0
-Tibing,belarus,2,1.0,1.0
+Tibing,belarus,1,1.0,
 TigerC10,united states,1,1.0,
-TigorC,russia,1,1.0,
+TigorC,russia,15,15.0,
 TikiTDO,canada,1,1.0,
 TilakMaddy,india,1,1.0,
+Tim-W,netherlands,3,3.0,
 TimWolla,germany,1,,1.0
 TimZaman,united states,3,1.0,2.0
 TimeBomb,united states,1,,1.0
@@ -2060,7 +2054,7 @@ ToothlessGear,austria,1,,1.0
 TorbenKoehn,germany,1,,1.0
 TornjV,serbia,2,1.0,1.0
 Torwori,serbia,1,,1.0
-Tragetaschen,germany,4,2.0,2.0
+Tragetaschen,germany,3,1.0,2.0
 Trailblazerr1,india,1,1.0,
 TranLuongTuanAnh,japan,1,1.0,
 Trancever,poland,1,1.0,
@@ -2072,19 +2066,16 @@ TropComplique,ukraine,1,1.0,
 Trott,united states,1,,1.0
 TroutZen,united states,1,,1.0
 TrySound,united states,1,,1.0
-Tsuki,hong kong,1,,1.0
 TunedMidja,sweden,1,1.0,
 Tusharmalik,india,1,,1.0
 Tw1stFate,china,1,,1.0
 TwistedHardware,saudi arabia,2,,2.0
 TwoDCube,hungary,1,1.0,
 TylerBrock,united states,13,9.0,4.0
-TylerEich,united states,1,1.0,
 Tyriar,united states,2,,2.0
 TzyHuan,taiwan,1,1.0,
 Ubadub,united states,3,2.0,1.0
 Uberi,united states,1,,1.0
-Uli-Tiger,germany,1,1.0,
 Ulydev,france,1,1.0,
 UniqMartin,germany,40,37.0,3.0
 UnoDeTantos,spain,1,1.0,
@@ -2102,7 +2093,8 @@ VadimPushtaev,russia,1,,1.0
 VahidBo,iran,1,1.0,
 Valkyrurr,philippines,1,,1.0
 Valpertui,france,1,,1.0
-Vandivier,united states,2,2.0,
+Vamshi99,india,1,1.0,
+Vandivier,united states,1,1.0,
 VansonLeung,hong kong,2,2.0,
 VarIr,austria,2,,2.0
 VasLem,greece,1,1.0,
@@ -2110,6 +2102,7 @@ Vasikaran,india,1,1.0,
 Venryx,united states,1,1.0,
 Vermeille,france,1,,1.0
 Vesnica,china,1,1.0,
+ViRu-ThE-ViRuS,united states,10,7.0,3.0
 Videl,france,2,2.0,
 Vijar,united states,2,1.0,1.0
 VikramTiwari,united states,3,1.0,2.0
@@ -2144,7 +2137,6 @@ WardLT,united states,1,1.0,
 WasifKhan,united states,1,1.0,
 WaveMeUp,united states,1,,1.0
 WayneHarris,united kingdom,1,,1.0
-WayneRiesterer,united states,1,1.0,
 WebReflection,germany,1,1.0,
 WesleyE,netherlands,1,1.0,
 WhyNotHugo,netherlands,3,3.0,
@@ -2157,13 +2149,11 @@ Windsooon,china,28,11.0,17.0
 WoLfulus,brazil,1,1.0,
 WoLpH,netherlands,1,,1.0
 Wojonatior,united states,1,,1.0
-WonSong,united states,1,1.0,
 WorldDownTown,japan,1,,1.0
 WouldYouKindly,russia,2,,2.0
 Wtango,china,1,1.0,
 WuLann,china,1,1.0,
 Wurch,brazil,1,1.0,
-Wykks,france,1,,1.0
 XANi,poland,1,1.0,
 XFeiF,china,1,,1.0
 XINCGer,china,2,2.0,
@@ -2178,7 +2168,6 @@ XenonZenon,philippines,1,1.0,
 Xenopathic,united kingdom,1,,1.0
 XepherJin,china,1,1.0,
 Xesued,united states,1,1.0,
-Xinkai,china,1,,1.0
 XiongfeiQin,china,1,1.0,
 Xowap,france,1,1.0,
 Xstoudi,switzerland,1,1.0,
@@ -2186,6 +2175,7 @@ XunZhiyang,china,1,1.0,
 Y--,united states,1,1.0,
 YCmove,taiwan,1,1.0,
 YDS19872712,ukraine,3,3.0,
+YJDave,india,139,114.0,25.0
 YMas,united kingdom,1,1.0,
 YOCKOW,japan,1,,1.0
 YS-L,singapore,2,1.0,1.0
@@ -2193,6 +2183,7 @@ Yahasana,china,1,1.0,
 YanlongMa,china,3,3.0,
 YannickMeeus,finland,1,,1.0
 Yash-Garg,india,1,,1.0
+YashRE42,india,23,19.0,4.0
 Yaxian,china,1,,1.0
 Yeri-Kim,south korea,1,1.0,
 Yeti-or,russia,3,,3.0
@@ -2207,11 +2198,13 @@ YuriyNasretdinov,united kingdom,1,1.0,
 YurkaninRyan,united states,1,1.0,
 YusongLiu,china,1,,1.0
 YuyingWu,china,1,1.0,
+Z0Marlin,india,1,1.0,
 ZWMiller,united states,1,,1.0
 ZYSzys,china,4,3.0,1.0
 Zac-HD,australia,2,,2.0
 ZachLiuGIS,united states,3,2.0,1.0
 ZachMoreno,united states,4,,4.0
+Zachary-Jackson,united states,2,2.0,
 Zacqary,united states,1,1.0,
 ZainChen,china,1,1.0,
 Zalastax,sweden,1,1.0,
@@ -2222,7 +2215,6 @@ ZaydH,philippines,1,,1.0
 ZeeAgency,france,1,1.0,
 Zekes6,russia,1,1.0,
 ZeroCool2u,united states,1,1.0,
-Zerogiven,austria,1,,1.0
 ZevEisenberg,united states,2,2.0,
 ZhHong,china,1,1.0,
 Zhangjd,china,1,,1.0
@@ -2234,16 +2226,15 @@ ZhiqingXiao,china,1,,1.0
 Ziadjb,france,1,1.0,
 ZiglerLong,china,1,1.0,
 Zimilo,china,1,1.0,
-ZionDials,united states,1,1.0,
 Zirro,sweden,2,,2.0
 Zizaco,france,1,1.0,
 Zizzamia,united states,3,3.0,
+ZoeShaw101,china,1,1.0,
 Zorgatone,italy,1,1.0,
 Zovube,russia,1,1.0,
 Zren,canada,1,1.0,
 Zverik,belarus,1,,1.0
 ZxYuan,china,2,1.0,1.0
-Zyzle,united kingdom,1,1.0,
 a-c-sreedhar-reddy,india,9,9.0,
 a-doumoulakis,france,1,,1.0
 a-h,united kingdom,1,1.0,
@@ -2276,6 +2267,7 @@ aaronshaf,united states,1,,1.0
 aaronsky,united states,1,1.0,
 aaronzs,china,1,1.0,
 aashil,united states,10,1.0,9.0
+ab1nash,india,3,3.0,
 abahgat,new zealand,1,,1.0
 aballet,belgium,1,1.0,
 abalone0204,japan,1,,1.0
@@ -2286,8 +2278,8 @@ abbychau,japan,1,,1.0
 abbygrbl,united states,1,1.0,
 abcd-ca,canada,1,1.0,
 abdelouahabb,algeria,3,3.0,
+abdul,india,1,1.0,
 abdullahselek,united kingdom,1,,1.0
-abdulmoizeng,pakistan,2,2.0,
 abe33,france,4,2.0,2.0
 abennouna,morocco,24,5.0,19.0
 abernier,france,1,1.0,
@@ -2321,7 +2313,6 @@ abjer,denmark,1,,1.0
 abl,united states,2,,2.0
 ablenesi,united kingdom,1,,1.0
 ablyler,united states,2,2.0,
-abner,brazil,3,3.0,
 aboSamoor,united states,1,1.0,
 aboalnaga,egypt,1,1.0,
 aboks,netherlands,4,4.0,
@@ -2329,7 +2320,7 @@ abookyun,taiwan,1,,1.0
 abotz,argentina,1,,1.0
 aboucaud,france,7,3.0,4.0
 aboveyou00,united states,1,,1.0
-abraham,united states,2,1.0,1.0
+abraham,united states,1,1.0,
 abrahammartin,new zealand,1,,1.0
 abruzzihraig,australia,3,2.0,1.0
 absynce,united states,1,,1.0
@@ -2348,7 +2339,6 @@ acganesh,united states,1,,1.0
 achalshah20,united states,1,,1.0
 achellies,china,1,1.0,
 achidlow,australia,2,1.0,1.0
-acidjames,france,1,1.0,
 acidsound,south korea,1,1.0,
 acinader,united states,1,,1.0
 ackerdev,united states,2,2.0,
@@ -2358,13 +2348,14 @@ acompa,united states,1,,1.0
 acoreyj,united states,1,1.0,
 acs,spain,1,1.0,
 actboy168,china,1,1.0,
-actra-gschuster,germany,2,2.0,
+actra-gschuster,germany,1,1.0,
 acu192,united states,1,1.0,
 acz13,united states,1,1.0,
 ad-m,poland,2,2.0,
 adam-cowley,united kingdom,1,1.0,
 adamalton,united kingdom,5,4.0,1.0
 adamawang,united states,1,,1.0
+adambirds,united kingdom,5,5.0,
 adambutler,united kingdom,1,1.0,
 adamcheasley,united kingdom,1,1.0,
 adamchel,denmark,1,1.0,
@@ -2385,13 +2376,13 @@ adamklec,united states,2,,2.0
 adamlacombe,united states,6,1.0,5.0
 adammichaelwood,united states,1,,1.0
 adamnemecek,united states,10,5.0,5.0
-adampenn,united states,1,,1.0
 adamsc64,united states,4,3.0,1.0
 adamsowa,poland,3,3.0,
 adamtajti,hungary,1,,1.0
 adamzap,united states,12,6.0,6.0
 adanski,poland,1,1.0,
 adaojunior,brazil,1,,1.0
+adarshPatel509,india,5,3.0,2.0
 adbl,sweden,4,4.0,
 addstone,china,1,1.0,
 addyosmani,united states,1,,1.0
@@ -2412,13 +2403,13 @@ adimango,germany,1,1.0,
 adirasmadin,malaysia,2,2.0,
 adisazhar123,indonesia,1,1.0,
 adisbladis,united kingdom,1,,1.0
+adishegde,india,1,,1.0
 aditbiswas1,india,2,2.0,
 adithbharadwaj,india,2,2.0,
 aditya1702,canada,4,,4.0
 adityaatluri,cuba,1,1.0,
 adityahase,india,2,1.0,1.0
 adityamenon,singapore,1,,1.0
-adityaparab,poland,3,1.0,2.0
 adkenyon,united states,2,2.0,
 adkomyagin,united states,2,2.0,
 adler-j,united kingdom,1,,1.0
@@ -2447,8 +2438,8 @@ adunning,canada,1,,1.0
 aduston,united states,1,1.0,
 adw0rd,united states,1,1.0,
 aebersold,switzerland,3,1.0,2.0
+aedorado,india,6,6.0,
 aehlke,canada,1,1.0,
-aeimer,germany,2,2.0,
 aejnsn,united states,1,1.0,
 aelawson,united states,2,2.0,
 aenewton,united states,2,2.0,
@@ -2467,7 +2458,6 @@ aflaxman,united states,3,1.0,2.0
 afnanenayet,united states,1,,1.0
 afonsobspinto,portugal,2,1.0,1.0
 aforty,united states,2,2.0,
-afrijaldz,indonesia,1,1.0,
 afriza,indonesia,1,1.0,
 afuna,united states,1,1.0,
 afvincent,france,2,1.0,1.0
@@ -2497,7 +2487,7 @@ agusdutra,uruguay,1,1.0,
 ah-,united kingdom,1,1.0,
 ahanriat,germany,5,5.0,
 aharons,israel,2,2.0,
-ahasall,france,19,10.0,9.0
+ahasall,france,8,7.0,1.0
 ahaseeb8305,canada,1,1.0,
 ahcub,ukraine,5,2.0,3.0
 aheck,germany,1,1.0,
@@ -2522,7 +2512,7 @@ ahundt,united states,10,3.0,7.0
 ahus1,germany,1,,1.0
 ahyangyi,china,1,,1.0
 ahyattdev,united states,1,1.0,
-ai,united states,3,1.0,2.0
+ai,united states,1,1.0,
 ai8rahim,australia,1,,1.0
 aickin,united states,18,6.0,12.0
 aidai524,china,1,1.0,
@@ -2553,7 +2543,6 @@ ajitid,india,1,,1.0
 ajitsonlion,germany,1,1.0,
 ajoslin,united states,23,23.0,
 ajschumacher,united states,11,2.0,9.0
-ajspera,united states,1,,1.0
 ajstrand,ireland,1,1.0,
 ajthinking,sweden,1,,1.0
 ajtulloch,united states,7,5.0,2.0
@@ -2573,11 +2562,10 @@ akashgangil,united states,1,1.0,
 akashsuper2000,india,1,1.0,
 akaztp,portugal,2,2.0,
 akbarovs,philippines,1,1.0,
-akehir,switzerland,1,1.0,
 akhawaja,united states,2,2.0,
 akhayyat,saudi arabia,1,1.0,
 akheron,finland,1,,1.0
-akhilbojedla,germany,5,5.0,
+akhilmd,india,11,9.0,2.0
 akhy,indonesia,1,1.0,
 aki77,japan,2,,2.0
 akin-tekeoglu,turkey,1,1.0,
@@ -2590,11 +2578,13 @@ akkatracker,australia,1,,1.0
 akki,thailand,36,30.0,6.0
 aknuds1,germany,1,,1.0
 akonwi,united states,2,1.0,1.0
+akornor,ghana,19,12.0,7.0
 akoskaaa,germany,1,1.0,
 akosyakov,germany,3,,3.0
 akrger,germany,1,1.0,
 akshar-raaj,pakistan,1,1.0,
 akshayah3,india,9,5.0,4.0
+akshaygupta533,pakistan,4,4.0,
 akshaysharma096,india,1,,1.0
 akshetpandey,united states,1,1.0,
 aksinghdce,canada,1,1.0,
@@ -2602,6 +2592,7 @@ aksonov,slovenia,1,1.0,
 aktech,united kingdom,5,2.0,3.0
 akulakov,united states,14,13.0,1.0
 akupila,netherlands,1,1.0,
+akuseru,united states,1,,1.0
 akuzminov,new zealand,1,1.0,
 akvadrako,netherlands,1,1.0,
 akx,finland,2,1.0,1.0
@@ -2611,9 +2602,8 @@ alabid,new zealand,11,11.0,
 aladdin-add,china,1,,1.0
 alainivars,united kingdom,1,1.0,
 alakra,united states,1,1.0,
-alamgirqazi,pakistan,1,1.0,
 alaminopu,bangladesh,1,1.0,
-alan-agius4,malta,660,214.0,446.0
+alan-agius4,malta,165,160.0,5.0
 alan-hicks,united kingdom,1,1.0,
 alan-mroczek,poland,1,1.0,
 alanag13,united states,1,,1.0
@@ -2633,7 +2623,6 @@ alasdairnicol,united kingdom,62,40.0,22.0
 alb-i986,italy,1,1.0,
 albacoretuna,finland,1,,1.0
 albahnsen,colombia,2,1.0,1.0
-alber70g,netherlands,1,1.0,
 albertjan,united kingdom,3,,3.0
 albertoalcolea,spain,1,1.0,
 albertogarza,united states,1,1.0,
@@ -2664,6 +2653,7 @@ aleksgapp,netherlands,3,,3.0
 aleksihakli,finland,1,,1.0
 aleksijuvani,finland,1,,1.0
 alelouis,france,1,,1.0
+alenavolk,united states,15,10.0,5.0
 alenkart,dominican republic,1,1.0,
 alephmelo,germany,1,1.0,
 alesasnouski,belarus,4,4.0,
@@ -2681,6 +2671,7 @@ alexanderad,netherlands,2,2.0,
 alexanderholman,united kingdom,2,2.0,
 alexanderilyin,united states,1,1.0,
 alexanderschulze,new zealand,2,1.0,1.0
+alexandraciobica,romania,16,9.0,7.0
 alexandre-butynski,france,1,,1.0
 alexandrebordiere,france,1,1.0,
 alexandrius,georgia,1,1.0,
@@ -2722,7 +2713,6 @@ alexloginov,ukraine,1,,1.0
 alexluke,united states,1,1.0,
 alexmadjar,united states,1,1.0,
 alexmick,france,1,1.0,
-alexpaluzzi,uruguay,1,,1.0
 alexpods,russia,1,1.0,
 alexreg,united kingdom,1,1.0,
 alexrohleder,norway,1,,1.0
@@ -2751,6 +2741,7 @@ alfuhigi,saudi arabia,2,2.0,
 algo-circle,india,1,,1.0
 ali,united states,2,1.0,1.0
 ali-master,iran,1,,1.0
+aliceriot,united states,1,1.0,
 alighasemzadeh,iran,3,3.0,
 aliismayilov,germany,1,1.0,
 alikadir,turkey,1,1.0,
@@ -2760,7 +2751,7 @@ alin23,romania,2,2.0,
 alinz,canada,3,3.0,
 alioygur,turkey,3,3.0,
 alippai,hungary,1,1.0,
-alirezamirian,iran,2,1.0,1.0
+alirizwi,pakistan,7,6.0,1.0
 alisidd,canada,3,,3.0
 alito,australia,2,1.0,1.0
 aljs,russia,4,3.0,1.0
@@ -2772,6 +2763,7 @@ alldne,south korea,1,1.0,
 allella,liberia,1,1.0,
 allenngn,united states,8,7.0,1.0
 allevato,united states,15,2.0,13.0
+alliejones,united states,6,6.0,
 allofthenorthwood,united states,3,1.0,2.0
 allok,belarus,1,1.0,
 allomov,belarus,1,1.0,
@@ -2809,6 +2801,7 @@ amaabdou,germany,2,1.0,1.0
 amackworth,united states,1,1.0,
 amadare42,ukraine,1,,1.0
 amalChandran,india,1,1.0,
+amalrajan,india,1,1.0,
 amancevice,united states,6,,6.0
 amanp10,india,3,2.0,1.0
 amanp592,india,1,,1.0
@@ -2822,14 +2815,13 @@ ambar,china,1,1.0,
 amberj,india,1,,1.0
 ambv,poland,20,5.0,15.0
 amccloud,united states,4,4.0,
-amcdnl,united states,9,7.0,2.0
+amcdnl,united states,8,6.0,2.0
 amcfague,united states,5,5.0,
 amcgregor,canada,1,1.0,
 amckinlay,united states,1,,1.0
 amcnamara,united states,1,1.0,
 amcsi,hungary,1,1.0,
 ameasure,united states,1,,1.0
-ameerthehacker,pakistan,1,1.0,
 amelierosser,canada,1,1.0,
 amenk,germany,2,1.0,1.0
 ameyms,united states,1,1.0,
@@ -2893,7 +2885,6 @@ andre-lima,canada,1,1.0,
 andreagrandi,italy,1,1.0,
 andreamazza89,united kingdom,1,1.0,
 andreas-hjortgaard,denmark,1,1.0,
-andreasbhansen,norway,1,,1.0
 andreasnuesslein,germany,1,1.0,
 andreasplesch,united states,1,1.0,
 andreasvc,netherlands,2,1.0,1.0
@@ -2902,7 +2893,6 @@ andredublin,united states,1,,1.0
 andreicristianpetcu,romania,1,,1.0
 andreif,sweden,6,5.0,1.0
 andreiglingeanu,moldova,2,2.0,
-andrelmp,brazil,1,,1.0
 andrenguyener,united states,1,1.0,
 andresroberto,colombia,1,,1.0
 andrew-aladev,belarus,1,1.0,
@@ -2925,7 +2915,6 @@ andrewshir,russia,1,1.0,
 andrewsmedina,brazil,4,4.0,
 andrewsokolov,ukraine,1,,1.0
 andrewt3000,united kingdom,1,,1.0
-andrewtaylor,iceland,2,2.0,
 andrewyatz,new zealand,1,,1.0
 andreypopp,united states,10,3.0,7.0
 andreysaleba,russia,1,,1.0
@@ -2944,7 +2933,6 @@ andyli,hong kong,4,2.0,2.0
 andymartin-sch,united states,1,1.0,
 andypost,russia,1,1.0,
 andys8,germany,4,3.0,1.0
-andyskw,hungary,2,1.0,1.0
 andytompkins,united states,1,,1.0
 anemology,taiwan,1,1.0,
 anentropic,united kingdom,2,1.0,1.0
@@ -2954,13 +2942,15 @@ anewmanjones,united kingdom,1,,1.0
 anfelor,germany,1,1.0,
 angelozerr,france,2,,2.0
 anguswilliams91,united kingdom,3,1.0,2.0
+anh2111htd,singapore,1,,1.0
 anight,united kingdom,12,3.0,9.0
 anik786,united kingdom,4,3.0,1.0
 animalize,china,24,13.0,11.0
 animaonline,norway,1,1.0,
-aniruddhadas9,united states,1,,1.0
+anindya,united states,4,4.0,
 aniruddhadave,india,1,,1.0
 anirudh-chhangani,india,1,1.0,
+anirudhjain75,india,39,36.0,3.0
 ankeetmaini,india,1,,1.0
 ankeshanand,canada,1,,1.0
 ankit-maverick,india,3,,3.0
@@ -2987,6 +2977,7 @@ anthonyhumphreys,united states,1,1.0,
 anthonyryan1,canada,2,2.0,
 antialias,united states,2,,2.0
 antics,sweden,1,1.0,
+antifuchs,france,1,1.0,
 antikus,united states,1,1.0,
 antimatter15,new zealand,1,1.0,
 antoinegag,canada,1,,1.0
@@ -3037,6 +3028,7 @@ aprct,united states,1,1.0,
 aprilrd,united states,1,1.0,
 aprock,united states,1,1.0,
 aptro,india,1,,1.0
+apuranik1,united states,1,1.0,
 aputinski,united states,1,1.0,
 apwelsh,united states,2,,2.0
 aqnouch,morocco,2,1.0,1.0
@@ -3054,6 +3046,7 @@ arbesfeld,new zealand,7,7.0,
 arcanedev-maroc,morocco,5,3.0,2.0
 arcanis,france,3,,3.0
 archer884,united states,1,,1.0
+architkshk,india,4,4.0,
 arcodergh,colombia,1,1.0,
 arcturusannamalai,philippines,1,1.0,
 ardatan,united states,1,1.0,
@@ -3080,12 +3073,12 @@ arinbjornk,united kingdom,1,1.0,
 ariwaranosai,china,1,,1.0
 arjendekorte,netherlands,1,1.0,
 arjenvanoostrum,netherlands,1,,1.0
-arjoreich,united states,1,1.0,
 arjunblj,united states,1,1.0,
 arjunkomath,australia,2,,2.0
 arjunnn,pakistan,1,1.0,
 arjunsharma,united states,1,1.0,
 arjunyel,united states,3,3.0,
+armaanahluwalia,india,12,12.0,
 armand1m,netherlands,1,1.0,
 armano2,belgium,1,1.0,
 armcburney,united states,1,,1.0
@@ -3129,7 +3122,6 @@ arturovt,ukraine,1,1.0,
 artursmet,poland,1,1.0,
 arty-name,germany,1,1.0,
 aruberto,canada,1,,1.0
-arusakov,russia,2,1.0,1.0
 aruseni,ukraine,6,2.0,4.0
 arv,united states,3,3.0,
 arvedviehweger,united kingdom,2,2.0,
@@ -3155,6 +3147,7 @@ ashikmeerankutty,india,2,2.0,
 ashinzekene,nigeria,1,1.0,
 ashirley,united kingdom,1,1.0,
 ashish-ram,germany,1,,1.0
+ashishk1994,india,14,14.0,
 ashishnitinpatil,united arab emirates,1,1.0,
 ashishpatelcs,india,6,6.0,
 ashivliving,india,1,1.0,
@@ -3189,12 +3182,12 @@ astuetz,austria,3,3.0,
 asukaleido,japan,1,1.0,
 asuth,united states,1,,1.0
 asvetlov,ukraine,29,11.0,18.0
+aswanthkoleri,india,1,1.0,
 asya999,united states,9,8.0,1.0
 ataraxus,germany,1,,1.0
 aterribili,brazil,1,1.0,
 atifmansoor,united states,1,1.0,
 atilacamurca,brazil,1,1.0,
-atiris,slovakia,2,2.0,
 atitoa93,mexico,2,,2.0
 atkit,netherlands,4,4.0,
 atleta,hungary,2,2.0,
@@ -3218,19 +3211,18 @@ augustogoulart,brazil,2,,2.0
 aupiff,united states,2,2.0,
 aureliojargas,brazil,4,,4.0
 aushakou,canada,2,1.0,1.0
-ausshadu,india,2,2.0,
 austin-simmons,united states,1,1.0,
-austin94,united states,2,1.0,1.0
 austinlyons,united states,1,1.0,
 austinzheng,united states,31,3.0,28.0
-auvipy,bangladesh,35,29.0,6.0
+auvipy,bangladesh,36,30.0,6.0
 ava1ar,united states,1,,1.0
 avalanchy,poland,1,,1.0
 avalys,united states,1,1.0,
 avances123,spain,2,2.0,
 avanderhoorn,united states,1,,1.0
 avasid,india,1,,1.0
-avatsaev,france,2,2.0,
+avastu,united states,1,1.0,
+avatsaev,france,1,1.0,
 avdg,belgium,3,1.0,2.0
 avdv,germany,1,,1.0
 avendiart,germany,1,1.0,
@@ -3238,6 +3230,7 @@ avhetman,united states,1,1.0,
 avidal,united states,1,1.0,
 aviraldg,india,3,1.0,2.0
 avishayil,israel,5,5.0,
+avisrivastava254084,united states,2,2.0,
 avjinder,india,1,,1.0
 avloss,united kingdom,2,,2.0
 avrahamappel,canada,1,1.0,
@@ -3246,7 +3239,7 @@ aw1621107,united states,7,1.0,6.0
 awecx,france,1,1.0,
 aweers,germany,4,,4.0
 aweinstein,mexico,1,,1.0
-awerlang,brazil,6,3.0,3.0
+awerlang,brazil,5,2.0,3.0
 awitherow,new zealand,1,1.0,
 awni,united states,2,1.0,1.0
 awsum,ukraine,1,1.0,
@@ -3281,6 +3274,7 @@ b1rdex,russia,1,1.0,
 b264,united states,1,,1.0
 b4nst,france,1,1.0,
 babaktr,sweden,1,1.0,
+babhishek21,india,1,1.0,
 baddox,united states,2,,2.0
 bae-unidev,south korea,2,1.0,1.0
 baer,united states,1,1.0,
@@ -3308,16 +3302,16 @@ banga,united states,2,2.0,
 bangdasun,united states,1,,1.0
 bangseongbeom,south korea,1,,1.0
 banilo,france,8,5.0,3.0
-banjankri,poland,2,1.0,1.0
+banjankri,poland,1,1.0,
 bannzai,japan,1,,1.0
 banool,australia,3,,3.0
 banuragprdxn,india,1,,1.0
 banxi1988,china,2,2.0,
+baoqchau,united kingdom,1,1.0,
 baptisteArnaud,france,1,,1.0
 baptistejamin,france,2,2.0,
 baranov1ch,united states,1,1.0,
 bardouni,morocco,1,1.0,
-barmanrajdeep,pakistan,1,,1.0
 barnjamin,united states,1,,1.0
 barretlee,china,1,1.0,
 barrymichaeldoyle,south africa,2,1.0,1.0
@@ -3334,7 +3328,6 @@ bartlomieju,poland,3,1.0,2.0
 bartosh,finland,2,2.0,
 bartoszgrabski,poland,1,,1.0
 bartsanchez,spain,1,1.0,
-baruchvlz,germany,5,1.0,4.0
 barun511,india,1,1.0,
 bary822,japan,1,,1.0
 basarat,australia,11,3.0,8.0
@@ -3368,13 +3361,11 @@ bbashy,united kingdom,5,,5.0
 bbenko,united states,2,1.0,1.0
 bbenoist,france,2,1.0,1.0
 bblarney,canada,1,,1.0
-bbogdanov,bulgaria,2,2.0,
 bbroeksema,netherlands,1,1.0,
 bbroerman30,united states,4,1.0,3.0
 bbrooks,united states,1,,1.0
 bbshih,united states,1,,1.0
 bburns,united states,1,,1.0
-bcabanes,canada,2,2.0,
 bcalik,turkey,1,1.0,
 bcap,brazil,1,,1.0
 bcarroll22,united states,4,4.0,
@@ -3384,6 +3375,7 @@ bchu,united states,1,1.0,
 bclau,romania,1,1.0,
 bcomnes,denmark,1,1.0,
 bcoppens,belgium,1,,1.0
+bcroq,france,1,1.0,
 bcye,germany,1,,1.0
 bdash,united states,3,,3.0
 bdedardel,french polynesia,1,1.0,
@@ -3417,8 +3409,8 @@ belak,united states,1,1.0,
 belemaire,philippines,4,4.0,
 belev,bulgaria,2,,2.0
 bellaj,morocco,1,1.0,
+belozi,united states,2,2.0,
 beltran,united states,2,2.0,
-ben-barbier,france,1,,1.0
 ben-manes,united states,1,,1.0
 ben-ng,united states,3,1.0,2.0
 ben519,united states,1,1.0,
@@ -3463,6 +3455,7 @@ benmccann,united states,1,1.0,
 benmills,united states,1,1.0,
 benmoss,united states,1,,1.0
 bennett39,united states,1,1.0,
+benneyman,india,1,1.0,
 bennyhobart,australia,1,1.0,
 benoitbryon,united states,1,1.0,
 benoitvallon,united states,1,1.0,
@@ -3501,7 +3494,6 @@ bgaechter,switzerland,1,1.0,
 bgashler1,united states,14,5.0,9.0
 bgianfo,united states,1,1.0,
 bgord,poland,1,,1.0
-bgotink,belgium,1,,1.0
 bgriffith,united kingdom,1,1.0,
 bgse,germany,2,1.0,1.0
 bgw,united states,1,,1.0
@@ -3512,7 +3504,6 @@ bhaveshpraveen,india,1,1.0,
 bhavnapanchal,japan,1,1.0,
 bhavya9107,india,1,1.0,
 bhelx,united states,1,1.0,
-bhenav,turkey,1,1.0,
 bianchimro,italy,2,1.0,1.0
 bicycle1885,japan,1,,1.0
 biesbjerg,denmark,1,1.0,
@@ -3539,7 +3530,7 @@ bintang007,indonesia,1,1.0,
 biomassives,united states,1,1.0,
 birkir,united states,1,1.0,
 birthdaysgift,russia,1,1.0,
-bitjson,united states,3,3.0,
+bitjson,united states,2,2.0,
 bitshadow,germany,1,,1.0
 bixuehujin,china,2,1.0,1.0
 bjhomer,united states,2,1.0,1.0
@@ -3552,7 +3543,6 @@ bkuri,mexico,1,1.0,
 bkvirendra,united kingdom,3,3.0,
 bkw,germany,1,,1.0
 bkyarger,united states,2,2.0,
-bl4y,hungary,1,1.0,
 black3r,slovakia,2,2.0,
 blackPantherOS,united kingdom,1,1.0,
 blackbing,taiwan,4,4.0,
@@ -3570,7 +3560,6 @@ blar,germany,14,12.0,2.0
 blastup,cyprus,1,,1.0
 blaubaer,germany,1,1.0,
 blaues0cke,germany,1,1.0,
-blaugold,germany,2,2.0,
 blaze33,france,1,1.0,
 blemaire,switzerland,1,1.0,
 blinkofaneye,madagascar,1,1.0,
@@ -3599,6 +3588,7 @@ bmeck,united states,2,,2.0
 bmeurer,germany,2,,2.0
 bmihelac,slovenia,8,7.0,1.0
 bmitch,canada,1,,1.0
+bmorg,germany,2,2.0,
 bnaul,united states,3,,3.0
 bnekolny,united states,3,3.0,
 bnns,united states,1,1.0,
@@ -3619,11 +3609,9 @@ bogatyy,united states,1,,1.0
 bogdal,poland,1,,1.0
 bogdan-kulynych,switzerland,1,,1.0
 bogdanandone,romania,9,7.0,2.0
-bogdancar,canada,1,1.0,
 bogdanvlviv,ukraine,1,1.0,
 bohwaz,new zealand,11,10.0,1.0
 bokri,france,2,2.0,
-bolasblack,china,1,,1.0
 bolshedvorsky,united kingdom,1,1.0,
 bombs-kim,south korea,4,1.0,3.0
 bondehagen,norway,1,1.0,
@@ -3681,10 +3669,12 @@ bradleyboy,united states,3,2.0,1.0
 bradlygreen,united states,4,4.0,
 bradmsmith,united states,5,5.0,
 bradmwalker,united states,1,1.0,
+bradsimantel,united states,1,1.0,
 bradvogel,united states,1,,1.0
 bradymholt,united states,1,,1.0
 bradyz,cuba,1,,1.0
 brainmaniac,sweden,1,,1.0
+brainwane,united states,41,32.0,9.0
 bram-atmire,belgium,1,1.0,
 bramus,belgium,5,5.0,
 brandisher,united states,1,1.0,
@@ -3735,7 +3725,6 @@ brianleroux,united states,1,1.0,
 brianlheim,united states,2,,2.0
 brianmorton,canada,1,,1.0
 briannemsick,united states,3,1.0,2.0
-brianpilati,united states,3,1.0,2.0
 brianreavis,united states,2,1.0,1.0
 brianwozeniak,united states,1,1.0,
 brickspert,china,1,,1.0
@@ -3745,11 +3734,11 @@ brightvision,pakistan,1,1.0,
 brikou,france,1,1.0,
 brillout,germany,2,1.0,1.0
 bringtree,china,2,,2.0
-brinkt,united states,3,,3.0
 bripkens,germany,3,,3.0
 brixen,united states,1,,1.0
 broadwaylamb,united states,7,1.0,6.0
 broccolii,china,1,1.0,
+brockwhittaker,united states,411,345.0,66.0
 brookr,united states,1,,1.0
 brookslyrette,canada,1,1.0,
 brotskydotcom,united states,1,1.0,
@@ -3788,7 +3777,7 @@ bryzaguy,united states,1,1.0,
 brzuchal,poland,2,2.0,
 bschlenk,united states,3,1.0,2.0
 bschreck,united states,1,1.0,
-bsdfzzzy,china,2,1.0,1.0
+bsdfzzzy,china,1,1.0,
 bsh314,spain,2,2.0,
 bshaffer,united states,2,1.0,1.0
 bsheikh,united states,1,1.0,
@@ -3808,12 +3797,11 @@ btholt,united states,1,,1.0
 btkulka,united states,1,1.0,
 btoueg,france,1,1.0,
 btrd,france,1,1.0,
-btroncone,united states,2,1.0,1.0
+btroncone,united states,1,,1.0
 btsiders,united states,1,1.0,
 buaaliyi,china,3,2.0,1.0
 buba447,united states,1,1.0,
 buchanora,nigeria,1,1.0,
-buchslava,ukraine,1,1.0,
 budavarimark,hungary,1,1.0,
 buddylindsey,united states,3,3.0,
 budzinski,poland,2,2.0,
@@ -3823,12 +3811,13 @@ bugzPDX,united states,1,,1.0
 buhiirekeneth,uganda,1,1.0,
 buhrmi,japan,1,1.0,
 bukzor,united states,4,,4.0
+bulat22101,russia,4,4.0,
 buma,slovenia,2,,2.0
-bumba5341,india,1,1.0,
 bunnyc1986,united states,2,2.0,
 buo,south korea,2,1.0,1.0
 burakcan,bulgaria,1,,1.0
 burakolgun,turkey,1,1.0,
+burek967,poland,2,2.0,
 buremba,turkey,1,1.0,
 burhan,kuwait,5,5.0,
 burhanloey,malaysia,1,,1.0
@@ -3836,6 +3825,7 @@ burknator,germany,2,,2.0
 burrbull,ukraine,5,,5.0
 butane,india,2,2.0,
 butchmarshall,canada,2,2.0,
+butchyyyy,czechia,2,2.0,
 buymeasoda,australia,2,2.0,
 buyology,sweden,1,,1.0
 bval,united states,1,1.0,
@@ -3855,6 +3845,7 @@ byordereurope,netherlands,1,1.0,
 byronluk,united states,1,1.0,
 byronyi,china,32,10.0,22.0
 byroot,france,1,1.0,
+bytebacon,india,2,2.0,
 byungjune,south korea,1,1.0,
 bzick,united states,2,2.0,
 bzmw,canada,2,1.0,1.0
@@ -3868,7 +3859,6 @@ c9n,china,4,2.0,2.0
 c9s,taiwan,14,12.0,2.0
 cHaLkdusT,philippines,2,2.0,
 cNikolaou,new zealand,1,,1.0
-cRAN-cg,india,2,2.0,
 ca057,spain,1,1.0,
 ca136,united states,1,,1.0
 cacheflow,united states,2,,2.0
@@ -3893,7 +3883,6 @@ caleblogan,united states,2,,2.0
 calebmarchent,new zealand,1,,1.0
 calebsmith,united states,1,,1.0
 callmephilip,portugal,1,1.0,
-callmepills,united states,1,,1.0
 callofdutyops,china,2,,2.0
 callumacrae,united kingdom,1,1.0,
 callumisitt,united kingdom,1,,1.0
@@ -3952,7 +3941,6 @@ carlosasj,brazil,1,1.0,
 carlosbaraza,united kingdom,2,1.0,1.0
 carlosdagos,australia,1,,1.0
 carlosedp,brazil,1,,1.0
-carlosfaria94,portugal,1,1.0,
 carlosmtrinidad,mexico,1,,1.0
 carlosrberto,brazil,1,1.0,
 carlsverre,united states,1,1.0,
@@ -3967,6 +3955,7 @@ carpedm20,united states,2,1.0,1.0
 carrillo,united states,2,1.0,1.0
 carsongee,united states,1,1.0,
 carsonmcdonald,united states,6,5.0,1.0
+carsonyl,canada,1,1.0,
 carstenbaumhoegger,germany,2,,2.0
 carusogabriel,netherlands,9,6.0,3.0
 carusyte,china,1,,1.0
@@ -3980,6 +3969,7 @@ catalanojuan,argentina,6,4.0,2.0
 catalinmiron,czechia,2,2.0,
 catamphetamine,russia,2,1.0,1.0
 catherinedevlin,united states,1,1.0,
+cathmer,netherlands,2,2.0,
 cathoderay,norway,2,1.0,1.0
 cathydeng,united states,1,1.0,
 cauchywei,china,1,1.0,
@@ -3996,7 +3986,6 @@ cbrandolino,united kingdom,1,,1.0
 cbrevik,norway,8,8.0,
 cbrnr,austria,4,2.0,2.0
 cbrummitt,new zealand,6,1.0,5.0
-cburgdorf,germany,1,,1.0
 ccannon94,united states,2,2.0,
 ccardinaux,united states,1,1.0,
 cchyung,united states,1,1.0,
@@ -4015,7 +4004,7 @@ cdoco,china,2,2.0,
 cdoremus,united states,1,1.0,
 cdrice,united states,1,1.0,
 cebe,germany,1,1.0,
-cebor,germany,9,8.0,1.0
+cebor,germany,7,7.0,
 cecetaca,venezuela,1,,1.0
 cecilialiao,united kingdom,1,1.0,
 cedarmora,united states,1,1.0,
@@ -4024,13 +4013,13 @@ cedric05,pakistan,8,6.0,2.0
 cedriclombardot,france,2,2.0,
 cedrics,germany,1,,1.0
 ceeK,united kingdom,1,1.0,
+ceefour,indonesia,1,1.0,
 ceesco53,united states,1,1.0,
 ceh,sweden,1,,1.0
 cem2ran,denmark,1,1.0,
 cemoody,united states,1,1.0,
 cenh,denmark,1,,1.0
 ceosion,united states,2,,2.0
-ceottaki,isle of man,1,,1.0
 cerkiner,australia,1,1.0,
 cesalberca,spain,1,1.0,
 cesaramirez,el salvador,1,,1.0
@@ -4045,6 +4034,7 @@ cf-jola,denmark,1,1.0,
 cfaris459,united states,1,1.0,
 cfbolz,germany,2,,2.0
 cfc4n,china,1,1.0,
+cg-cnu,australia,5,4.0,1.0
 cg31,china,9,9.0,
 cgarnier,france,1,1.0,
 cgarvis,united states,1,1.0,
@@ -4054,7 +4044,6 @@ cgel,canada,1,1.0,
 cgl,united kingdom,1,,1.0
 cglantschnig,austria,1,,1.0
 cglewis,united states,1,,1.0
-cgmartin,united states,7,3.0,4.0
 cgrail,germany,1,,1.0
 cgreening,united kingdom,1,1.0,
 ch000,germany,1,1.0,
@@ -4066,7 +4055,6 @@ chadlinden,united states,1,1.0,
 chadly,united states,1,1.0,
 chadwhitman,united states,1,,1.0
 chadykamar,canada,1,,1.0
-chaeusler,switzerland,1,1.0,
 chaffeqa,united states,6,4.0,2.0
 chaihua483,china,2,2.0,
 chaintng,thailand,1,1.0,
@@ -4074,13 +4062,14 @@ chalmerlowe,united states,1,,1.0
 chamby,united states,1,1.0,
 championswimmer,india,2,2.0,
 chancegarcia,united states,3,3.0,
+chandan5,pakistan,1,1.0,
 chandu0101,india,1,1.0,
 chang,united states,5,,5.0
-changLiuUNSW,australia,4,2.0,2.0
 changeworld,japan,1,,1.0
 changkun,germany,1,,1.0
 changyy,taiwan,2,2.0,
 chantastic,united states,3,1.0,2.0
+chao1995,singapore,1,1.0,
 chapeupreto,brazil,2,1.0,1.0
 char101,indonesia,2,,2.0
 charismafight,china,1,1.0,
@@ -4113,7 +4102,7 @@ chernysh,ukraine,1,,1.0
 chexex,russia,3,1.0,2.0
 chezou,japan,1,,1.0
 chfritz,united states,2,2.0,
-chgc,taiwan,4,2.0,2.0
+chgc,taiwan,1,1.0,
 chhantyal,germany,1,,1.0
 chi-hung,taiwan,1,,1.0
 chibby0ne,germany,1,,1.0
@@ -4134,11 +4123,10 @@ chittunoo,singapore,1,1.0,
 chivitli,belgium,2,2.0,
 chmarr,united states,6,5.0,1.0
 chmodas,united kingdom,1,1.0,
-choeller,germany,5,3.0,2.0
+choeller,germany,4,2.0,2.0
 chofchof,south korea,2,1.0,1.0
 choldgraf,united states,1,,1.0
 chollier,united states,1,1.0,
-chongkong,south korea,1,1.0,
 chonthu,united states,1,1.0,
 chorig9,poland,1,,1.0
 chosak,south africa,3,1.0,2.0
@@ -4157,7 +4145,6 @@ chrisblackwell,canada,1,1.0,
 chriscct7,united states,6,6.0,
 chrisclark,united states,1,1.0,
 chriseidhof,germany,7,3.0,4.0
-chrisfitz,united states,2,2.0,
 chrisfosterelli,malta,1,,1.0
 chrisfrederickson,united states,1,,1.0
 chrisglass,switzerland,1,1.0,
@@ -4182,11 +4169,11 @@ chrispecoraro,united states,5,5.0,
 chrisse27,switzerland,3,1.0,2.0
 chrisspankroy,united states,1,1.0,
 chrisspen,united states,1,1.0,
+christi3k,united states,19,18.0,1.0
 christian-bromann,germany,1,1.0,
 christianalfoni,norway,4,2.0,2.0
 christianbraune79,germany,2,,2.0
 christianroman,mexico,1,,1.0
-christianscharr,switzerland,1,,1.0
 christiansyl,netherlands,1,1.0,
 christianztamayo,philippines,4,3.0,1.0
 christkv,spain,7,7.0,
@@ -4221,12 +4208,10 @@ chunghe,taiwan,1,1.0,
 chunjy92,united states,1,,1.0
 chunshengster,china,3,3.0,
 chyikwei,united states,8,3.0,5.0
-ciesielskico,poland,1,1.0,
 cihadturhan,turkey,1,1.0,
 cihank,turkey,1,1.0,
 cijianzy,china,1,,1.0
 cimitan,united kingdom,1,1.0,
-cipchk,china,1,,1.0
 ciriarte,united states,2,2.0,
 cirocosta,canada,2,2.0,
 citxx,germany,1,,1.0
@@ -4252,7 +4237,7 @@ cleberzavadniak,brazil,1,1.0,
 cleidigh,united states,59,27.0,32.0
 clemblanco,united kingdom,1,,1.0
 clemens-schulz,germany,1,,1.0
-clemens-tolboom,netherlands,2,1.0,1.0
+clemens-tolboom,netherlands,1,1.0,
 clementmangin,canada,1,,1.0
 clemir,venezuela,1,,1.0
 clemkoa,france,2,,2.0
@@ -4283,9 +4268,9 @@ cmfcmf,germany,1,,1.0
 cmorbitzer,united states,1,,1.0
 cmrigney,united states,1,1.0,
 cmwall,united states,1,,1.0
-cmwebby,united kingdom,1,1.0,
 cn007b,ukraine,2,1.0,1.0
 cnchanning,china,1,1.0,
+cnguye11,united states,1,1.0,
 coady,united states,3,3.0,
 coagulant,russia,2,2.0,
 cobbweb,australia,1,,1.0
@@ -4294,11 +4279,9 @@ cocoatomo,japan,21,1.0,20.0
 cocuh,japan,1,1.0,
 codarrenvelvindron,mauritius,2,2.0,
 code-tree,australia,2,1.0,1.0
-code1line,austria,2,2.0,
 codeape2,norway,1,,1.0
 codebutler,united states,1,1.0,
 codediodeio,united states,1,1.0,
-codef0rmer,india,1,1.0,
 codegefluester,germany,1,1.0,
 codeguy,united states,1,1.0,
 codehakase,nigeria,1,1.0,
@@ -4312,7 +4295,7 @@ codepotato,united kingdom,1,,1.0
 codepriya,india,1,1.0,
 coder3101,india,4,3.0,1.0
 coder9042,india,40,38.0,2.0
-codermarcos,brazil,2,1.0,1.0
+coderkoala,nepal,3,3.0,
 codescv,china,2,2.0,
 codesuki,japan,1,1.0,
 codingbelief,china,1,1.0,
@@ -4347,7 +4330,6 @@ collink,united states,1,1.0,
 collinmsn,china,1,1.0,
 colllin,united states,2,1.0,1.0
 coloradobum,united states,1,1.0,
-comewalk,japan,2,2.0,
 commadelimited,united states,1,1.0,
 commodo,romania,2,,2.0
 commonstarling,united states,1,,1.0
@@ -4358,7 +4340,6 @@ concerttttt,singapore,1,,1.0
 conf,uzbekistan,1,1.0,
 congxu-ml,united states,2,,2.0
 connectkushal,india,3,2.0,1.0
-connor4312,united states,1,1.0,
 connorshea,united states,4,,4.0
 connorwyatt,united kingdom,2,,2.0
 connorzg,united states,1,1.0,
@@ -4368,7 +4349,6 @@ conormcd,ireland,1,1.0,
 conradev,united states,1,1.0,
 conradkdotcom,france,1,1.0,
 conradlee,austria,5,2.0,3.0
-conspicuousClockwork,united states,2,1.0,1.0
 constb,russia,1,1.0,
 conterno,uruguay,1,1.0,
 contra,united states,3,2.0,1.0
@@ -4387,11 +4367,12 @@ corbt,united states,18,14.0,4.0
 coredumperror,united states,1,,1.0
 coreylindsey,bulgaria,1,,1.0
 coreywho,united states,1,1.0,
-corinna000,united states,1,,1.0
 cormaclong,australia,1,1.0,
 cornedor,netherlands,3,3.0,
 corradio,denmark,1,1.0,
+cory2067,united states,42,24.0,18.0
 coryhouse,united states,3,2.0,1.0
+corykitchens,united states,1,1.0,
 corymsmith,canada,1,1.0,
 cos,united states,1,1.0,
 cosmicvibes,united kingdom,1,1.0,
@@ -4405,10 +4386,12 @@ coypoop,israel,1,,1.0
 cpa,france,1,,1.0
 cpb,canada,1,1.0,
 cpcallen,united kingdom,1,1.0,
+cpdean,united states,5,5.0,
 cperales,spain,1,1.0,
 cpriest,united states,2,1.0,1.0
 cpunion,china,6,6.0,
 cpwhidden,united kingdom,1,,1.0
+cr4zyafrican,united states,1,1.0,
 cracki,iran,1,1.0,
 craffel,united states,2,,2.0
 craigdanj,india,1,1.0,
@@ -4451,6 +4434,7 @@ css459,united states,1,,1.0
 cssherry,united states,1,,1.0
 cstyles,united states,1,,1.0
 csvn,sweden,1,,1.0
+csvoss,united states,1,1.0,
 ctava,united states,7,2.0,5.0
 ctbarna,united states,1,,1.0
 cthom055,united kingdom,1,,1.0
@@ -4460,7 +4444,6 @@ ctz,new zealand,1,1.0,
 cuihaoleo,china,1,1.0,
 cuitianze,china,1,1.0,
 cuixiaom,cuba,9,2.0,7.0
-culli,united states,1,,1.0
 cup,united states,2,2.0,
 curana,switzerland,1,1.0,
 cutPicturesMan,china,1,1.0,
@@ -4488,7 +4471,7 @@ cydonia99,japan,2,2.0,
 cydonia999,japan,1,1.0,
 cykustcc,united states,1,,1.0
 cypher-naman,india,1,1.0,
-cyrilletuzi,france,21,13.0,8.0
+cyrilletuzi,france,5,5.0,
 czajkowski,poland,2,,2.0
 czpython,united kingdom,18,3.0,15.0
 czterocyty,poland,1,1.0,
@@ -4497,13 +4480,12 @@ d-date,japan,1,,1.0
 d-pollard,united states,1,,1.0
 d-ronnqvist,sweden,5,,5.0
 d-vine,germany,1,1.0,
-d0vi,spain,2,1.0,1.0
+d0vi,spain,1,1.0,
 d0znpp,united states,1,1.0,
 d1manson,united kingdom,3,3.0,
 d2s,finland,2,1.0,1.0
 d4l3k,canada,5,,5.0
 d4rky-pl,poland,2,,2.0
-daaashley,united states,1,1.0,
 daavve,united states,1,1.0,
 dab0bby,germany,1,1.0,
 dabbott,united states,6,6.0,
@@ -4529,7 +4511,6 @@ dakrauth,united states,1,1.0,
 dakusan,united states,2,2.0,
 dalance,japan,2,,2.0
 dalcib,brazil,1,1.0,
-daliyajohn,india,1,1.0,
 dallascard,united states,1,,1.0
 dallgoot,france,1,1.0,
 dallonf,united states,1,1.0,
@@ -4550,7 +4531,7 @@ damusnet,united states,3,3.0,
 dan-blanchard,united kingdom,2,1.0,1.0
 danReynolds,united states,1,1.0,
 danbovey,united kingdom,1,,1.0
-danbucholtz,united states,4,4.0,
+danbucholtz,united states,3,3.0,
 dancek,finland,1,1.0,
 dancryer,united kingdom,1,1.0,
 dandouthit,united states,2,1.0,1.0
@@ -4591,11 +4572,10 @@ danielmartin,spain,13,1.0,12.0
 danielphillips,united kingdom,1,,1.0
 danielpunkass,united states,1,,1.0
 danielrasmuson,united states,3,3.0,
-danielronnkvist,sweden,1,,1.0
 danielroseman,united kingdom,10,5.0,5.0
 danielrussellLA,italy,1,1.0,
 danielsamuels,new zealand,1,1.0,
-danielsogl,germany,91,45.0,46.0
+danielsogl,germany,87,42.0,45.0
 danielsokolowski,norfolk island,4,4.0,
 danielstern,canada,1,1.0,
 danielsu,germany,1,1.0,
@@ -4612,6 +4592,7 @@ danishprakash,india,6,2.0,4.0
 danisyellis,united states,1,1.0,
 danizen,united states,7,6.0,1.0
 dankram,united states,1,1.0,
+danlaudk,netherlands,1,1.0,
 danmilon,greece,1,,1.0
 dann95,brazil,1,1.0,
 dannenberg,united states,30,25.0,5.0
@@ -4637,7 +4618,6 @@ danscan,united states,3,2.0,1.0
 danseethaler,united kingdom,1,1.0,
 dantaex,mexico,2,2.0,
 danthedaniel,united states,1,,1.0
-dantheman999301,united kingdom,1,,1.0
 dantimofte,romania,1,1.0,
 dantkz,united kingdom,2,1.0,1.0
 dantman,canada,12,11.0,1.0
@@ -4651,8 +4631,10 @@ daquexian,china,1,1.0,
 darcyadams,united states,3,2.0,1.0
 dargmuesli,germany,1,1.0,
 dargor,france,1,1.0,
+dariaphoebe,united states,1,,1.0
 dariocazzani,united states,1,1.0,
 dariocravero,ireland,1,,1.0
+darius,united states,1,1.0,
 darjeeling,south korea,2,1.0,1.0
 darkain,united states,2,2.0,
 darkrishabh,united states,3,2.0,1.0
@@ -4663,12 +4645,13 @@ darquro,japan,1,,1.0
 darrengarvey,new zealand,11,4.0,7.0
 darrinhenein,canada,4,1.0,3.0
 darryldecode,philippines,2,2.0,
+darshanM,united states,1,1.0,
+darshanime,india,4,3.0,1.0
 darthdeus,czechia,1,1.0,
 darul75,united kingdom,1,1.0,
 darzaccaro,united states,1,,1.0
 dasdachs,slovenia,1,,1.0
 dashawk,philippines,1,1.0,
-dashkan,united kingdom,2,2.0,
 dashtinejad,sweden,4,3.0,1.0
 datajanko,germany,1,,1.0
 datajockey,united states,1,1.0,
@@ -4700,7 +4683,7 @@ davidarmstronglewis,united states,1,1.0,
 davidblurton,iceland,1,1.0,
 davidbrai,israel,2,,2.0
 davidchall,united states,1,,1.0
-davidcraddock,australia,3,1.0,2.0
+davidcraddock,australia,2,1.0,1.0
 daviddao,switzerland,1,,1.0
 daviddiazvico,spain,1,1.0,
 davide-ceretti,spain,2,2.0,
@@ -4731,10 +4714,11 @@ davidrobles,united states,4,1.0,3.0
 davidrsfalcao,portugal,1,,1.0
 davidstockwell,united kingdom,1,1.0,
 davidtadams,united states,1,,1.0
+davidtaylorhq,united kingdom,2,1.0,1.0
 davidthaler,united states,2,,2.0
+davidtwco,united kingdom,8,7.0,1.0
 davidwilemski,united states,1,,1.0
 davidyaha,israel,1,1.0,
-davinkevin,france,1,,1.0
 davisjam,united states,2,,2.0
 daviskoh,united states,2,1.0,1.0
 daviwil,united states,12,6.0,6.0
@@ -4763,13 +4747,13 @@ dbrugne,france,1,1.0,
 dbuades,canada,1,1.0,
 dbudwin,united states,1,,1.0
 dbworku,united states,1,1.0,
-dcalsky,china,1,,1.0
 dcarrith,united states,2,2.0,
 dcastro9,united states,4,,4.0
 dccarmo,brazil,1,1.0,
 dcelasun,united kingdom,3,,3.0
 dcestari,spain,3,3.0,
 dcferreira,austria,1,,1.0
+dcfix,united states,1,1.0,
 dchest,montenegro,1,,1.0
 dchetwynd,united kingdom,1,1.0,
 dchevell,australia,1,,1.0
@@ -4790,7 +4774,6 @@ deadalusai,new zealand,2,2.0,
 deadlyicon,united states,1,1.0,
 deadwater88,united states,1,1.0,
 deafgoat,united states,7,6.0,1.0
-dealloc,belgium,2,2.0,
 deanbrophy,united states,2,,2.0
 deanmalmgren,united states,2,1.0,1.0
 deanmcpherson,australia,2,1.0,1.0
@@ -4798,6 +4781,7 @@ debby1,italy,1,1.0,
 debnet,france,1,1.0,
 debugger22,india,2,1.0,1.0
 debugmodedotnet,india,2,2.0,
+decached,united states,6,6.0,
 decadef20,china,1,,1.0
 decademoon,australia,1,,1.0
 decadence,russia,1,,1.0
@@ -4805,11 +4789,11 @@ decaz,russia,1,,1.0
 decentral1se,netherlands,1,,1.0
 decibelcooper,united states,3,3.0,
 deddysetyadi,indonesia,1,1.0,
-deebloo,united states,11,7.0,4.0
+deebloo,united states,1,1.0,
 deecewan,australia,4,4.0,
 deefour,australia,1,1.0,
 deepcoldy,china,1,,1.0
-deerawan,australia,2,,2.0
+deerawan,australia,1,,1.0
 deflomu,germany,5,3.0,2.0
 deframe,united kingdom,4,4.0,
 degouville,france,2,2.0,
@@ -4818,7 +4802,6 @@ deinok,spain,1,1.0,
 deisterhold,united states,2,2.0,
 dekkers,netherlands,5,2.0,3.0
 dekomote,macedonia,4,4.0,
-delasteve,united states,31,11.0,20.0
 delcioPHP,angola,1,1.0,
 deleugpn,netherlands,1,1.0,
 delgiudices,dominican republic,3,3.0,
@@ -4834,7 +4817,6 @@ demonno,estonia,1,,1.0
 demonshreder,india,1,1.0,
 demsey2,australia,1,,1.0
 demsking,france,1,1.0,
-demus,united states,1,,1.0
 denar50,sweden,1,1.0,
 denex,russia,1,1.0,
 dengemann,france,16,5.0,11.0
@@ -4880,7 +4862,6 @@ desmond1121,china,3,3.0,
 despairblue,germany,1,1.0,
 dested,united states,1,1.0,
 dev-zero,switzerland,2,2.0,
-devCrossNet,germany,4,3.0,1.0
 devanshhu,india,1,1.0,
 devbis,russia,1,1.0,
 developers-youcong,china,2,2.0,
@@ -4895,7 +4876,7 @@ devmeyster,united states,1,1.0,
 devoncarew,united states,2,,2.0
 devongovett,united states,1,1.0,
 devonharvey,united states,1,,1.0
-devoto13,sweden,11,2.0,9.0
+devoto13,sweden,3,2.0,1.0
 devpranoy,india,1,1.0,
 devrchancay,ecuador,1,,1.0
 devtanc,united states,1,,1.0
@@ -4916,11 +4897,12 @@ dgladkov,united states,8,7.0,1.0
 dgm34,united kingdom,1,,1.0
 dgyesbreghs,belgium,1,1.0,
 dhananjaypuglia,india,1,1.0,
-dhanus,united states,2,1.0,1.0
+dhanus,united states,4,3.0,1.0
 dhanushkac,sri lanka,1,1.0,
 dhanvi,india,2,2.0,
 dhawaljoh,philippines,1,1.0,
 dhcar,united states,1,,1.0
+dhcrzf,united states,5,4.0,1.0
 dhdavvie,united kingdom,4,,4.0
 dheerajram13,india,1,1.0,
 dhepper,germany,7,2.0,5.0
@@ -4936,7 +4918,6 @@ dhrrgn,united states,4,2.0,2.0
 dhruvikn,india,1,1.0,
 dhyey35,india,3,1.0,2.0
 di,united states,1,1.0,
-diagramatics,australia,1,1.0,
 dianlujitao,china,2,,2.0
 diasbruno,brazil,1,1.0,
 dickeylth,china,2,2.0,
@@ -4954,6 +4935,7 @@ diestrin,philippines,2,1.0,1.0
 dietmar,austria,1,,1.0
 differentmatt,united states,1,,1.0
 dig22,india,1,1.0,
+digi0ps,india,8,6.0,2.0
 digi604,switzerland,1,1.0,
 digismack,united states,1,1.0,
 dignite,sweden,1,1.0,
@@ -4965,7 +4947,6 @@ dillondaudert,united states,1,1.0,
 dimaqq,japan,2,,2.0
 dimaxano,belarus,1,,1.0
 dimazest,united states,1,,1.0
-dimitrovs,canada,1,1.0,
 dimpase,united kingdom,3,1.0,2.0
 dimtass,germany,1,1.0,
 dingbat,united states,2,2.0,
@@ -4976,9 +4957,10 @@ diogojc,netherlands,1,1.0,
 diogovazc,portugal,1,1.0,
 dionysiosarvanitis,greece,1,1.0,
 diox,france,1,1.0,
+dipu989,india,6,6.0,
 direvus,australia,1,,1.0
 dirk-thomas,united states,5,2.0,3.0
-dirkluijk,netherlands,2,2.0,
+dirkluijk,netherlands,1,1.0,
 dirn,united states,1,,1.0
 discoveredcheck,united kingdom,1,,1.0
 dissimiral,singapore,1,,1.0
@@ -4987,6 +4969,7 @@ dittaeva,norway,2,2.0,
 dittos,south korea,2,,2.0
 divadretlaw,austria,1,,1.0
 diverted247,united states,2,2.0,
+divyabaid16,india,4,4.0,
 divyenduz,india,1,,1.0
 diyews,china,2,2.0,
 dizballanze,russia,3,2.0,1.0
@@ -5011,7 +4994,6 @@ djwbrown,united states,6,2.0,4.0
 dkarzon,australia,1,,1.0
 dkaushik95,united kingdom,1,1.0,
 dkirkby,united kingdom,2,,2.0
-dkosasih,australia,1,,1.0
 dkristoffersson,sweden,1,,1.0
 dkro,germany,1,,1.0
 dktapps,united kingdom,5,5.0,
@@ -5029,7 +5011,6 @@ dlazzy,france,1,,1.0
 dlbuckley,united kingdom,1,,1.0
 dlech,united states,13,3.0,10.0
 dleitee,brazil,1,1.0,
-dlizarra,spain,1,,1.0
 dlo,united states,8,4.0,4.0
 dlpetrie,united states,8,5.0,3.0
 dlrice,new zealand,2,2.0,
@@ -5064,11 +5045,12 @@ dmwinslow,united kingdom,1,1.0,
 dmyerscough,united states,2,2.0,
 dmytrokyrychuk,ukraine,1,,1.0
 dmytrostriletskyi,ukraine,1,1.0,
-dmytroyarmak,ukraine,2,1.0,1.0
+dmytroyarmak,ukraine,1,,1.0
 dnadoba,germany,1,,1.0
 dnecho,china,2,2.0,
 dnerdy,united states,1,,1.0
 dneuhaeuser-zalando,germany,1,1.0,
+dnmfarrell,united states,3,3.0,
 dnouri,germany,4,2.0,2.0
 dnozay,united states,3,3.0,
 dnshi,canada,1,,1.0
@@ -5080,7 +5062,7 @@ doda,germany,1,1.0,
 doerwalter,germany,2,,2.0
 doganmeh,united states,1,1.0,
 dogeared,united states,1,1.0,
-doggy8088,taiwan,4,3.0,1.0
+doggy8088,taiwan,2,2.0,
 dohmatob,france,8,4.0,4.0
 dohvis,south korea,2,,2.0
 dojutsu-user,india,1,,1.0
@@ -5114,13 +5096,13 @@ donnemartin,united states,1,,1.0
 donnes,brazil,1,,1.0
 donnguyen,vietnam,1,1.0,
 donnut,netherlands,1,1.0,
+donosco98,india,1,1.0,
 donovanOng,singapore,1,,1.0
 donspaulding,united states,1,,1.0
 donwibier,netherlands,1,1.0,
 donwilson,united states,1,,1.0
 doochik,russia,10,9.0,1.0
 dookpham,united states,2,1.0,1.0
-dopry,united states,1,1.0,
 dorcoh,israel,1,,1.0
 dornsebastian,germany,1,1.0,
 dorontal,united states,1,,1.0
@@ -5128,7 +5110,6 @@ dorotka,united states,1,1.0,
 dortonway,russia,1,,1.0
 doshyt,sweden,3,,3.0
 dosten,argentina,1,1.0,
-dotDeeka,united states,1,1.0,
 dotku,united states,1,1.0,
 dotm,indonesia,1,1.0,
 dotramses,netherlands,1,,1.0
@@ -5136,7 +5117,7 @@ dotsdl,united states,2,,2.0
 double-y,japan,1,1.0,
 dougal,united kingdom,1,,1.0
 dougalsutherland,united kingdom,11,1.0,10.0
-douglasduteil,france,5,3.0,2.0
+douglasduteil,france,1,1.0,
 douglasgabriel,brazil,1,,1.0
 douglasgimli,brazil,1,,1.0
 douglaslinsmeyer,australia,2,2.0,
@@ -5191,7 +5172,6 @@ driskell,united kingdom,2,1.0,1.0
 drkibitz,united states,1,1.0,
 drodriguez,united states,68,5.0,63.0
 drojas,united states,1,1.0,
-drola,slovenia,1,,1.0
 drowe,united states,1,,1.0
 drslump,spain,1,1.0,
 drtangible,united states,1,1.0,
@@ -5219,7 +5199,6 @@ dsullivan7,mexico,14,7.0,7.0
 dsxack,russia,1,1.0,
 dsychin,brunei,1,1.0,
 dtao,united states,4,1.0,3.0
-dtarellano,united states,1,1.0,
 dtbartle,united states,1,1.0,
 dtinth,thailand,2,1.0,1.0
 dtorres,germany,1,,1.0
@@ -5279,10 +5258,8 @@ dyve,netherlands,3,1.0,2.0
 dzannotti,united kingdom,1,1.0,
 dzautner,finland,3,3.0,
 dzeban,russia,1,,1.0
-dzonatan,lithuania,9,6.0,3.0
 dzuelke,germany,9,7.0,2.0
 e-,south korea,1,,1.0
-e-cloud,china,5,3.0,2.0
 e-hein,germany,1,,1.0
 e-kwsm,japan,7,1.0,6.0
 e-lin,japan,3,,3.0
@@ -5312,6 +5289,7 @@ eavgerinos,greece,1,1.0,
 eavictor,taiwan,1,1.0,
 ebainville,united states,2,,2.0
 ebar0n,colombia,3,3.0,
+ebb-tide,united states,1,1.0,
 ebcagadas,philippines,1,1.0,
 ebertti,brazil,2,2.0,
 ebigelow,united states,1,,1.0
@@ -5357,12 +5335,12 @@ edvinerikson,sweden,14,5.0,9.0
 edward,canada,1,1.0,
 edward-greenaway,australia,1,,1.0
 edwinychu,united states,2,2.0,
-edysegura,brazil,2,1.0,1.0
+edysegura,brazil,1,1.0,
 eedwards-sk,united states,1,1.0,
 eeearl,japan,1,1.0,
 eehrhardt,germany,1,,1.0
 eek,romania,1,,1.0
-eestrada,united states,6,1.0,5.0
+eestrada,united states,7,2.0,5.0
 efagerho,finland,1,,1.0
 efidiles,united kingdom,1,1.0,
 efiop,ukraine,2,1.0,1.0
@@ -5405,17 +5383,18 @@ elainecrutchley,united states,2,2.0,
 elas7,germany,8,1.0,7.0
 elbywan,france,1,1.0,
 elcone,mexico,2,1.0,1.0
+eldios,italy,1,1.0,
 electroma,united states,1,,1.0
 elefthei,united states,1,,1.0
 elemongw,greece,3,1.0,2.0
 elena-sam,france,1,1.0,
 elena-sharova,united kingdom,1,,1.0
-elenaoat,united states,7,3.0,4.0
+elenaoat,united states,14,10.0,4.0
 elesdoar,colombia,2,2.0,
 elevatebart,united states,1,,1.0
 elfsternberg,united states,1,1.0,
 elgalu,germany,1,,1.0
-eliagrady,israel,2,2.0,
+eliagrady,israel,1,1.0,
 elias-winberg,sweden,2,1.0,1.0
 eliben,united states,1,1.0,
 elieteyssedou,france,1,1.0,
@@ -5436,7 +5415,6 @@ elliottsj,canada,2,2.0,
 ellisio,united states,11,8.0,3.0
 ellmetha,canada,4,1.0,3.0
 ellsclytn,australia,1,,1.0
-elmeerr,belgium,2,2.0,
 eloekset,norway,1,1.0,
 eloj,sweden,1,,1.0
 elopio,costa rica,1,,1.0
@@ -5444,14 +5422,14 @@ elprans,canada,19,1.0,18.0
 elquatro,russia,1,,1.0
 elritsch,austria,1,,1.0
 elrussord,dominican republic,1,1.0,
-elsander,united states,1,,1.0
+elsander,united states,3,2.0,1.0
 elsassph,united kingdom,1,,1.0
 elseagle,nigeria,1,1.0,
 elshadaghazade,azerbaijan,1,1.0,
 eltonlaice,mozambique,1,1.0,
 elusivenode,australia,1,1.0,
 elvinmakhmudov,azerbaijan,1,1.0,
-elvisbegovic,switzerland,4,2.0,2.0
+elvisbegovic,switzerland,2,2.0,
 elviswf,china,1,1.0,
 elyalvarado,venezuela,2,2.0,
 elynnaie,united states,1,1.0,
@@ -5469,7 +5447,8 @@ emgeebee,united kingdom,1,1.0,
 emiamar,india,1,1.0,
 emidln,united states,1,,1.0
 emilguareno,united states,1,1.0,
-emilio-martinez,united states,3,2.0,1.0
+emilio-aburto,panama,1,1.0,
+emilio-martinez,united states,2,2.0,
 emilioicai,spain,6,5.0,1.0
 emilsjolander,united kingdom,1,1.0,
 emilstahl,denmark,1,1.0,
@@ -5480,7 +5459,6 @@ emtudo,brazil,3,3.0,
 emulbreh,germany,2,2.0,
 enanox,uruguay,1,1.0,
 enapupe,brazil,1,,1.0
-endash,united states,1,1.0,
 endocrimes,germany,1,,1.0
 endyjasmi,malaysia,1,1.0,
 enedil,poland,2,2.0,
@@ -5558,14 +5536,12 @@ ermakovpetr,russia,2,2.0,
 ermauliks,united states,1,1.0,
 ernesto28,mexico,1,,1.0
 erodrago,kenya,1,,1.0
-eromano,united kingdom,1,1.0,
 eronisko,slovakia,1,1.0,
 errordeveloper,united kingdom,1,,1.0
 errx,russia,3,3.0,
 ersanserkan,turkey,1,1.0,
 ersentekin,turkey,1,1.0,
 ertanunver,turkey,1,1.0,
-eruan,china,4,2.0,2.0
 ervin210,united kingdom,2,2.0,
 es-kumagai,japan,3,,3.0
 esamelson,united states,3,3.0,
@@ -5594,7 +5570,7 @@ ethaizone,thailand,1,,1.0
 ethancaballero,canada,1,1.0,
 ethanent,united states,3,3.0,
 ethangk,united kingdom,1,1.0,
-ethanhs,united states,5,4.0,1.0
+ethanhs,united states,7,6.0,1.0
 ethanrose,united states,3,3.0,
 ethanve,united states,2,1.0,1.0
 etiennesegonzac,france,4,,4.0
@@ -5605,6 +5581,7 @@ eugenesaenko,ukraine,1,,1.0
 eukreign,australia,4,3.0,1.0
 eupharis,united states,1,1.0,
 euskadi31,france,2,2.0,
+eval,netherlands,1,1.0,
 evalphobia,japan,1,,1.0
 evanbleiweiss,united states,1,1.0,
 evanc,united states,1,,1.0
@@ -5616,7 +5593,6 @@ evanworley,united states,1,1.0,
 evcohen,united states,1,1.0,
 evdokimovm,russia,1,1.0,
 evereux,united kingdom,1,1.0,
-everflux,germany,1,1.0,
 evilbs,china,2,,2.0
 evildmp,united kingdom,26,20.0,6.0
 evolkmann,germany,1,1.0,
@@ -5634,11 +5610,11 @@ excitoon,russia,1,1.0,
 exe-dealer,kazakhstan,1,1.0,
 exentrich,united states,3,2.0,1.0
 exi,germany,1,1.0,
+existentialbunny,united states,1,1.0,
 existentialism,united states,1,,1.0
 exonian,united kingdom,4,4.0,
 exslim,ukraine,1,,1.0
 eyalsk,israel,1,1.0,
-eye0fra,switzerland,3,3.0,
 ezaquarii,united kingdom,1,1.0,
 ezeikel,united kingdom,1,,1.0
 ezephir,united states,26,4.0,22.0
@@ -5674,7 +5650,6 @@ fadils,indonesia,3,3.0,
 fadookie,united states,1,1.0,
 fahrradflucht,germany,1,1.0,
 faisaladlin,malaysia,1,1.0,
-faisalmuhammad,germany,1,,1.0
 falaktheoptimist,india,3,2.0,1.0
 falash143,france,1,1.0,
 falcondai,united states,2,,2.0
@@ -5697,7 +5672,6 @@ farizrahman4u,india,1,1.0,
 farjana4,bangladesh,1,1.0,
 farnabaz,iran,1,,1.0
 farwayer,belarus,2,2.0,
-fasfsfgs,brazil,2,1.0,1.0
 fassko,latvia,2,,2.0
 fastred,poland,1,,1.0
 fat-crocodile,russia,1,,1.0
@@ -5719,7 +5693,6 @@ fbricon,france,1,,1.0
 fcFn,israel,1,1.0,
 fcbruce,china,2,,2.0
 fcchou,united states,1,,1.0
-fcervantes2,united states,1,,1.0
 fchabanois,france,1,1.0,
 fckt,russia,1,,1.0
 fcomitani,canada,1,1.0,
@@ -5751,15 +5724,15 @@ felixangell,united kingdom,1,1.0,
 felixbuenemann,germany,3,,3.0
 felixfbecker,germany,15,4.0,11.0
 felixrieseberg,united states,2,1.0,1.0
-feloy,france,4,3.0,1.0
+feloy,france,2,1.0,1.0
 felquis,brazil,1,1.0,
 femesq,brazil,1,1.0,
 fengsi,philippines,2,2.0,
+fenimore,united states,1,1.0,
 fenrrir,brazil,1,,1.0
 fenrus75,united states,1,1.0,
 ferdaber,united states,1,,1.0
 ferdian26,indonesia,1,1.0,
-ferdis,south africa,1,1.0,
 ferhate,turkey,1,1.0,
 ferhatelmas,switzerland,1,1.0,
 ferlores,united states,1,,1.0
@@ -5811,6 +5784,7 @@ fisharebest,united kingdom,1,1.0,
 fishcorn,united states,1,,1.0
 fishercoder1534,united states,1,,1.0
 fisherspy,china,3,3.0,
+fishfred,united kingdom,5,2.0,3.0
 fishmwei,china,1,1.0,
 fitiskin,russia,2,1.0,1.0
 fitomad,spain,1,1.0,
@@ -5889,7 +5863,7 @@ flytreeleft,china,3,1.0,2.0
 flyyang,china,2,1.0,1.0
 fmaker,united states,1,1.0,
 fmal,poland,1,,1.0
-fmalcher,germany,5,3.0,2.0
+fmalcher,germany,4,3.0,1.0
 fmalina,united kingdom,2,2.0,
 fmannan,canada,1,1.0,
 fmanns,united states,1,1.0,
@@ -5906,13 +5880,14 @@ foolmoron,australia,1,1.0,
 fordhurley,united states,1,,1.0
 foresmac,united states,1,1.0,
 forgotter,india,1,1.0,
-forivall,canada,2,1.0,1.0
+forivall,canada,1,,1.0
 forki,germany,5,5.0,
 formath,china,9,5.0,4.0
 formigone,united states,2,,2.0
 forrestbice,united states,1,1.0,
 forslund,sweden,1,1.0,
 fortuin,switzerland,2,1.0,1.0
+fossbalaji,india,2,2.0,
 fourcolors,united states,1,,1.0
 fourlastor,united kingdom,2,2.0,
 foxmean,thailand,1,1.0,
@@ -5920,10 +5895,10 @@ foxted,canada,1,1.0,
 fp4code,france,3,3.0,
 fpoumian,mexico,3,1.0,2.0
 fractalwrench,united kingdom,1,1.0,
+fragm3,india,2,2.0,
 fraigo,canada,1,1.0,
 framp,united kingdom,2,2.0,
 fran6co,united kingdom,1,,1.0
-franciscocabral,brazil,1,1.0,
 franciscofsales,portugal,2,2.0,
 franciscolourenco,germany,1,,1.0
 franciscouzo,mexico,2,,2.0
@@ -5938,6 +5913,7 @@ frankstolle,germany,2,1.0,1.0
 frankwong,united states,2,1.0,1.0
 frankyjuang,taiwan,3,1.0,2.0
 franrios,spain,1,1.0,
+franziskagoltz,united states,3,3.0,
 franzliedke,germany,69,26.0,43.0
 franzwr,sweden,1,,1.0
 frasmage,canada,1,1.0,
@@ -5950,12 +5926,10 @@ freddyrangel,cuba,1,,1.0
 fredericmarx,germany,1,1.0,
 frederikbosch,netherlands,1,1.0,
 frederikprijck,belgium,6,5.0,1.0
-frederikschubert,germany,1,1.0,
 fredgate,france,1,1.0,
 fredicious,france,1,1.0,
 fredkelly,united kingdom,1,1.0,
 fredpi,germany,1,,1.0
-fredrik-lundin,sweden,1,,1.0
 fredrikaverpil,sweden,1,,1.0
 freedomcly,china,1,1.0,
 freedomtan,taiwan,66,22.0,44.0
@@ -5990,6 +5964,7 @@ fstiewitz,germany,3,,3.0
 fsx950223,china,3,2.0,1.0
 ftchirou,nigeria,1,,1.0
 fthomassy,united states,1,1.0,
+ftribrunn,austria,2,2.0,
 fuafa,china,2,1.0,1.0
 fujiyuu75,japan,2,,2.0
 fukatani,japan,1,,1.0
@@ -6008,9 +5983,7 @@ futurejones,japan,8,2.0,6.0
 futuyao,united states,1,1.0,
 fuzuyx,indonesia,1,1.0,
 fvetsper,israel,1,1.0,
-fvilers,belgium,1,1.0,
 fwartner,germany,4,3.0,1.0
-fwielstra,netherlands,1,,1.0
 fx86,india,1,,1.0
 fxbois,france,1,,1.0
 fxck,czechia,1,1.0,
@@ -6045,12 +6018,14 @@ gadtfly,canada,1,,1.0
 gaetansenn,france,1,,1.0
 gagern,ireland,1,,1.0
 gaguirre,argentina,2,1.0,1.0
+gaharavara,india,7,6.0,1.0
 gaiscioch,united states,1,1.0,
 gajimenezmaggiora,united states,1,1.0,
 gajus,united kingdom,1,,1.0
 gaker,united states,2,1.0,1.0
 galenandrew,united states,1,,1.0
 galenyuan,china,1,,1.0
+galexrt,germany,8,8.0,
 galtay,united states,1,,1.0
 galv,united states,1,1.0,
 gam-phon,saudi arabia,2,2.0,
@@ -6068,7 +6043,6 @@ garethbjohnson,united kingdom,1,1.0,
 garethnic,south africa,3,1.0,2.0
 garethrees,united kingdom,1,,1.0
 gareththackeray,united kingdom,1,1.0,
-garoyeri,united states,2,1.0,1.0
 garrensmith,south africa,1,,1.0
 garricn,united states,1,,1.0
 garriguv,germany,1,,1.0
@@ -6130,7 +6104,6 @@ georgepaw,united kingdom,17,2.0,15.0
 georgesterpu,ireland,6,3.0,3.0
 georgewilde,united kingdom,5,5.0,
 georgicodes,united states,2,,2.0
-georgmu,germany,1,,1.0
 geowa4,united kingdom,1,,1.0
 gep13,united kingdom,1,,1.0
 geranazavr555,russia,1,1.0,
@@ -6163,8 +6136,8 @@ ggupta01,india,1,1.0,
 ghedsouza,canada,1,1.0,
 ghego,united states,1,1.0,
 ghengeveld,netherlands,1,,1.0
-ghetolay,france,6,6.0,
-ghisvail,france,5,2.0,3.0
+ghetolay,france,5,5.0,
+ghisvail,france,6,3.0,3.0
 ghostthrone,colombia,1,1.0,
 gi097,netherlands,1,,1.0
 giamir,germany,1,,1.0
@@ -6174,6 +6147,7 @@ giantryansaul,united states,1,1.0,
 gideonite,united states,1,,1.0
 gido,switzerland,1,,1.0
 gielfeldt,denmark,2,2.0,
+gigawhitlocks,united states,1,1.0,
 giginet,japan,3,2.0,1.0
 giladno,israel,1,1.0,
 gilamran,israel,2,2.0,
@@ -6184,7 +6158,7 @@ gillessed,united states,1,1.0,
 ginamdar,united states,1,1.0,
 giodamelio,united states,1,,1.0
 gionkunz,switzerland,8,7.0,1.0
-gioragutt,israel,4,2.0,2.0
+gioragutt,israel,2,1.0,1.0
 giorgiofellipe,brazil,1,1.0,
 giorgiop,netherlands,18,4.0,14.0
 girishkumarkh,united kingdom,1,1.0,
@@ -6208,7 +6182,6 @@ gkalpak,greece,2,,2.0
 gkevinyen5418,taiwan,1,,1.0
 gklambauer,austria,1,,1.0
 gkmngrgn,germany,1,1.0,
-gkontokotsios,austria,1,1.0,
 gks,united states,1,1.0,
 glarrain,panama,2,2.0,
 glasser,united states,1,1.0,
@@ -6221,7 +6194,6 @@ glenjamin,united kingdom,6,2.0,4.0
 glennq,united states,2,1.0,1.0
 glenrobertson,united states,1,,1.0
 glessard,united states,26,3.0,23.0
-glipecki,poland,1,1.0,
 glittershark,united states,1,1.0,
 globin,germany,1,1.0,
 glock45,poland,1,1.0,
@@ -6247,6 +6219,7 @@ gnprice,united states,9,2.0,7.0
 gnsiva,united kingdom,1,1.0,
 go2sh,germany,1,,1.0
 goatslacker,philippines,2,,2.0
+goelakash,india,3,3.0,
 goenning,ireland,1,,1.0
 goetzb,united kingdom,1,1.0,
 goinnn,spain,4,4.0,
@@ -6265,7 +6238,6 @@ goodjack,taiwan,1,,1.0
 goodtune,australia,1,1.0,
 goodwin64,ukraine,2,1.0,1.0
 gooh,germany,2,1.0,1.0
-goorockey,china,1,1.0,
 goosman-lei,china,1,1.0,
 gor181,croatia,1,1.0,
 gorBaghdasaryan,armenia,3,2.0,1.0
@@ -6273,10 +6245,9 @@ gorangajic,serbia,2,2.0,
 gormanb,ireland,2,2.0,
 gormster,australia,1,1.0,
 gorvelyfab,congo (kinshasa),1,1.0,
-gotik,colombia,1,1.0,
 gouegd,new zealand,1,,1.0
 gowansg,united states,2,2.0,
-gparlakov,bulgaria,2,2.0,
+gparlakov,bulgaria,1,1.0,
 gpeal,united states,2,2.0,
 gpkc,sweden,1,,1.0
 gpoussel,france,3,1.0,2.0
@@ -6302,14 +6273,13 @@ gravejester,norway,1,,1.0
 graveto,united states,3,3.0,
 graydon,canada,114,14.0,100.0
 graykode,south korea,1,,1.0
-grbbabu,australia,1,1.0,
 gre,france,20,19.0,1.0
 gregallensworth,united states,3,2.0,1.0
 greggb,united states,2,2.0,
 greghe,united states,8,8.0,
 gregheo,united states,2,,2.0
 greglutz,united states,1,,1.0
-gregmagolan,canada,120,114.0,6.0
+gregmagolan,canada,119,114.0,5.0
 gregology,canada,2,2.0,
 gregomni,united states,72,17.0,55.0
 gregory-nisbet,united states,4,3.0,1.0
@@ -6328,7 +6298,6 @@ greyvugrin,united states,1,1.0,
 grfiv,united states,1,1.0,
 griffinmichl,united states,1,,1.0
 grigoryk,canada,1,1.0,
-grizzm0,sweden,4,2.0,2.0
 grobe0ba,united states,1,1.0,
 gronke,germany,2,1.0,1.0
 grromrell,united states,1,1.0,
@@ -6371,7 +6340,6 @@ guilhermesilveira,brazil,1,1.0,
 guillaumebarranco,france,1,1.0,
 guillaumebriday,france,2,2.0,
 guillaumekln,france,13,2.0,11.0
-guillaumeleone,france,2,2.0,
 guilliamxavier,france,5,5.0,
 guipas,france,1,1.0,
 guiruiz,brazil,1,,1.0
@@ -6399,6 +6367,7 @@ gustavodemari,brazil,2,,2.0
 gustavoguichard,brazil,1,1.0,
 gustavovnicius,sweden,1,1.0,
 guw,united states,1,,1.0
+guyandtheworld,india,6,5.0,1.0
 guybedford,south africa,2,,2.0
 guylyons,united states,1,1.0,
 guyrt,united states,1,1.0,
@@ -6456,7 +6425,6 @@ hamlim,united states,1,,1.0
 hamsal,united states,10,7.0,3.0
 hamzatekin,turkey,1,1.0,
 han41858,south korea,1,1.0,
-hand-dot,japan,1,1.0,
 handipriyono,indonesia,1,1.0,
 handoing,china,1,1.0,
 haneefdm,united states,1,,1.0
@@ -6464,7 +6432,7 @@ hangpark,south korea,1,,1.0
 hangyao,united states,1,1.0,
 hanmingliu2,united states,1,1.0,
 hannah2048,united states,1,1.0,
-hannahhoward,united states,8,3.0,5.0
+hannahhoward,united states,6,1.0,5.0
 hannawallach,united states,1,1.0,
 hannesa2,germany,1,,1.0
 hannesj,finland,1,1.0,
@@ -6472,7 +6440,7 @@ hannesstruss,germany,2,1.0,1.0
 hannesvdvreken,belgium,7,5.0,2.0
 hannw,united states,1,1.0,
 hansemannn,germany,2,2.0,
-hansl,united states,169,74.0,95.0
+hansl,united states,18,11.0,7.0
 hansrajdas,india,3,1.0,2.0
 hanumanthan,india,2,,2.0
 hanxiaomax,china,1,1.0,
@@ -6495,6 +6463,7 @@ harmands,india,4,,4.0
 harmankang,canada,1,1.0,
 haroonabbasi,pakistan,1,1.0,
 harry-g,germany,2,2.0,
+harry-hov,india,1,1.0,
 harrykiselev,russia,1,,1.0
 harrymvr,united states,2,,2.0
 harshnarang8,india,1,1.0,
@@ -6515,7 +6484,6 @@ hatched,canada,1,1.0,
 haught,united states,2,2.0,
 havenchyk,belarus,1,,1.0
 hawka,united states,11,10.0,1.0
-hawkgs,bulgaria,6,2.0,4.0
 hawkins,united states,1,,1.0
 haxoza,poland,3,3.0,
 haxpor,china,1,1.0,
@@ -6527,7 +6495,6 @@ hazzalove,bulgaria,1,1.0,
 hbertrand,canada,1,,1.0
 hbrammer,jamaica,1,,1.0
 hbredin,france,2,1.0,1.0
-hccampos,switzerland,2,2.0,
 hccde,china,1,1.0,
 hckuo,united states,2,2.0,
 hcn1519,south korea,1,1.0,
@@ -6543,6 +6510,7 @@ hedgerh,united states,3,2.0,1.0
 hedongya,china,1,1.0,
 hegdenaveen1,pakistan,5,5.0,
 heibor,china,2,2.0,
+heidid,united states,1,1.0,
 heiglandreas,germany,6,6.0,
 heinzbeinz,germany,1,,1.0
 hejld,czechia,5,,5.0
@@ -6598,6 +6566,7 @@ hikaru-light,japan,1,,1.0
 hikouki,japan,3,2.0,1.0
 hilkeheremans,belgium,4,4.0,
 him2him2,united states,6,1.0,5.0
+himanish-star,india,1,1.0,
 himankpathak,india,1,,1.0
 himanshupathakpwd,india,1,1.0,
 himynameisdave,canada,1,,1.0
@@ -6622,13 +6591,12 @@ hlsyounes,united states,1,,1.0
 hlynurf,iceland,1,1.0,
 hmarr,colombia,1,,1.0
 hmazter,sweden,1,,1.0
-hmbilal,united arab emirates,1,1.0,
 hmnd,canada,1,,1.0
 hnryjms,united states,3,3.0,
 hnw,japan,2,,2.0
 hoangpham95,united states,2,2.0,
 hoangsvit,vietnam,1,1.0,
-hobson,united states,1,,1.0
+hobson,united states,2,1.0,1.0
 hoffrocket,united states,1,,1.0
 hojberg,united states,2,1.0,1.0
 holdenweb,united states,1,1.0,
@@ -6681,7 +6649,7 @@ hsiaoyi0504,taiwan,1,,1.0
 hsldymq,china,1,1.0,
 hsorellana,panama,1,,1.0
 hsousa,portugal,1,1.0,
-hsuanxyz,china,2,,2.0
+hsuanxyz,china,1,,1.0
 hswolff,united states,4,2.0,2.0
 hswong3i,hong kong,6,6.0,
 html5cat,united states,2,1.0,1.0
@@ -6691,7 +6659,6 @@ huan,united states,5,3.0,2.0
 huang47,taiwan,1,,1.0
 huangenyan,hong kong,1,1.0,
 huangxinV587,china,2,1.0,1.0
-hudasyed,united states,2,1.0,1.0
 hudelgado,portugal,1,1.0,
 hudsontavares,brazil,2,2.0,
 huerlisi,switzerland,1,1.0,
@@ -6721,7 +6688,7 @@ hycner,united states,1,1.0,
 hydrogennz,new zealand,1,1.0,
 hyiso,china,1,1.0,
 hynekcer,czechia,1,1.0,
-hyunchel,united states,1,1.0,
+hyunchel,united states,6,6.0,
 hyunkim9123,south korea,1,1.0,
 hzoo,united states,10,4.0,6.0
 hzxiaosheng,china,1,1.0,
@@ -6748,6 +6715,7 @@ iamdanfox,united kingdom,1,,1.0
 iamdustan,united states,25,8.0,17.0
 iamgbayer,brazil,1,1.0,
 iamio87,united states,1,1.0,
+iamkroot,pakistan,1,1.0,
 iamnapo,greece,1,,1.0
 iampat,canada,1,,1.0
 iamprakashom,india,1,,1.0
@@ -6823,6 +6791,7 @@ ihalip,romania,7,2.0,5.0
 ihodes,taiwan,1,1.0,
 ihoru,thailand,1,1.0,
 ihsanberahim,malaysia,2,2.0,
+ihsavru,india,5,5.0,
 ihumanable,united states,2,2.0,
 iignatov,bulgaria,7,1.0,6.0
 iineva,china,1,1.0,
@@ -6830,6 +6799,7 @@ iivvoo,netherlands,1,1.0,
 ikamensh,germany,1,,1.0
 ikari7789,japan,1,,1.0
 ikarosilva,united kingdom,1,,1.0
+ikasumiwt,japan,1,1.0,
 ikesyo,japan,37,5.0,32.0
 ikks,colombia,2,2.0,
 iknite,spain,1,1.0,
@@ -6856,7 +6826,7 @@ imagentleman,colombia,4,1.0,3.0
 imaimiami,united kingdom,1,,1.0
 imanhodjaev,germany,2,1.0,1.0
 imbhargav5,pakistan,1,1.0,
-imcotton,china,7,5.0,2.0
+imcotton,china,6,5.0,1.0
 imduffy15,ireland,1,,1.0
 imhuay,china,1,,1.0
 imironhead,taiwan,2,1.0,1.0
@@ -6888,9 +6858,10 @@ insign,brazil,2,1.0,1.0
 insin,australia,1,1.0,
 insolite,ukraine,1,1.0,
 int-ua,ukraine,1,1.0,
-intellix,malta,11,7.0,4.0
+intellix,malta,2,1.0,1.0
 inverse,germany,1,,1.0
 invictusmaneo,india,1,1.0,
+invinciblycool,india,1,1.0,
 ioctaptceb,germany,2,2.0,
 iolson,united states,1,,1.0
 ionescu77,romania,1,1.0,
@@ -6900,6 +6871,7 @@ ioss,germany,1,,1.0
 ipalaus,spain,3,1.0,2.0
 ipeirotis,united states,1,,1.0
 ipetez,united states,1,,1.0
+irahulcse,india,1,1.0,
 irazasyed,india,2,1.0,1.0
 ircmaxell,united states,16,12.0,4.0
 ireade,nigeria,1,,1.0
@@ -6913,7 +6885,6 @@ irudoy,russia,1,1.0,
 is2ei,japan,3,2.0,1.0
 isaacl,united states,1,1.0,
 isaaclem,singapore,1,1.0,
-isaacplmann,united states,1,1.0,
 isage,united states,1,1.0,
 isaiah,germany,2,1.0,1.0
 isair,united kingdom,2,,2.0
@@ -6922,7 +6893,7 @@ isemantics,netherlands,1,1.0,
 isghe,italy,1,,1.0
 ishaan112233,india,1,1.0,
 ishanarora,india,1,,1.0
-ishitatsuyuki,japan,7,4.0,3.0
+ishankhare07,india,1,1.0,
 isidentical,turkey,16,8.0,8.0
 ismailarilik,turkey,6,2.0,4.0
 isnifer,russia,1,1.0,
@@ -6938,6 +6909,7 @@ istvanmakary,hungary,1,1.0,
 isundaylee,new zealand,1,,1.0
 isunkes,united states,2,2.0,
 isuruf,united states,2,1.0,1.0
+italo-batista,brazil,2,2.0,
 italomg,brazil,1,1.0,
 itamark,israel,10,3.0,7.0
 itay,united states,1,1.0,
@@ -6952,7 +6924,7 @@ itsallvoodoo,united states,2,2.0,
 itsananderson,united states,1,,1.0
 itsarbit,united states,1,,1.0
 itsazzad,bangladesh,1,1.0,
-itslenny,united states,3,2.0,1.0
+itslenny,united states,1,1.0,
 itsmeolivia,united states,3,1.0,2.0
 itsmichaelwang,united states,1,1.0,
 itsnauman,united states,1,1.0,
@@ -6987,13 +6959,14 @@ j-em,canada,1,,1.0
 j-min,united states,1,1.0,
 j00bar,united states,1,1.0,
 j1c,united states,1,,1.0
-j2L4e,germany,1,1.0,
 j2kenton,israel,1,1.0,
 j2kun,united states,1,1.0,
 j3ddesign,united kingdom,1,1.0,
 j42,united states,1,1.0,
 j4321,france,4,,4.0
+j831,philippines,2,2.0,
 jMyles,united states,2,2.0,
+jQwotos,canada,3,3.0,
 ja9harper,united states,1,,1.0
 jaaberg,norway,1,,1.0
 jaanauati,argentina,1,,1.0
@@ -7044,11 +7017,13 @@ jahvi,united kingdom,2,2.0,
 jaideepghosh,india,4,4.0,
 jaidevd,india,1,1.0,
 jaimeirurzun,united kingdom,1,,1.0
+jainaman224,india,2,2.0,
 jainanuj0812,india,8,8.0,
 jaingaurav,united states,13,2.0,11.0
 jainishshah17,united states,1,1.0,
 jainkuniya,india,8,8.0,
 jairtrejo,united states,1,1.0,
+jajodiaraghav,india,30,30.0,
 jake-jake-jake,united states,1,1.0,
 jakebathman,united states,1,,1.0
 jakebuhler,united states,2,2.0,
@@ -7074,7 +7049,7 @@ jamesblackburn,united kingdom,2,1.0,1.0
 jamescostian,united states,1,,1.0
 jamesfe,united states,1,,1.0
 jamesfzhang,united states,2,1.0,1.0
-jamesgeorge007,india,8,5.0,3.0
+jamesgeorge007,india,7,5.0,2.0
 jameshen17,china,3,3.0,
 jameshiew,united kingdom,1,1.0,
 jamesisaac,united kingdom,4,4.0,
@@ -7083,7 +7058,6 @@ jamesliu96,monaco,1,1.0,
 jamesmills,united arab emirates,1,,1.0
 jamesmishra,united states,1,,1.0
 jamesqo,united states,6,2.0,4.0
-jamesqquick,united states,1,1.0,
 jamesreggio,united states,12,11.0,1.0
 jamesroutley,united kingdom,1,,1.0
 jamestwebber,united states,3,2.0,1.0
@@ -7102,6 +7076,7 @@ jandrewstre,united states,4,,4.0
 jangsoopark,south korea,1,,1.0
 janhancic,united kingdom,2,1.0,1.0
 janicduplessis,canada,238,235.0,3.0
+janitanjaria23,india,1,1.0,
 janithl,sri lanka,1,1.0,
 janka,denmark,1,1.0,
 jankalfus,czechia,1,1.0,
@@ -7196,7 +7171,7 @@ jayvdb,indonesia,2,2.0,
 jaywalklabs,sweden,1,1.0,
 jaywink,finland,1,1.0,
 jbaiter,germany,1,,1.0
-jbandi,switzerland,3,3.0,
+jbandi,switzerland,2,2.0,
 jbarnette,united states,7,2.0,5.0
 jbaumbach,united states,1,1.0,
 jbboehr,united states,4,4.0,
@@ -7242,7 +7217,6 @@ jcusick13,united states,3,1.0,2.0
 jcwatson11,united states,3,3.0,
 jcyk,china,2,1.0,1.0
 jdaltonchilders,united states,1,,1.0
-jdavidls,spain,1,1.0,
 jdcaballerov,colombia,1,,1.0
 jdeherrera,united states,1,1.0,
 jdemeyer,belgium,76,17.0,59.0
@@ -7253,6 +7227,7 @@ jdlehman,united states,2,2.0,
 jdm79,united kingdom,2,,2.0
 jdmunro,united kingdom,1,1.0,
 jdoepfert,germany,2,,2.0
+jdong92,united states,1,1.0,
 jdorfman,united states,1,1.0,
 jdrago999,united states,1,1.0,
 jdswalker,canada,1,,1.0
@@ -7304,6 +7279,7 @@ jeremyfa,france,1,1.0,
 jeremygrace,united states,2,2.0,
 jeremyjumeau,france,1,1.0,
 jeremyong,united states,1,1.0,
+jeremyphilemon,united states,5,5.0,
 jereze,france,1,,1.0
 jergason,united states,4,,4.0
 jerguslejko,united kingdom,3,2.0,1.0
@@ -7317,7 +7293,7 @@ jerryyin,united states,27,6.0,21.0
 jerson,peru,1,1.0,
 jesperhag,sweden,1,1.0,
 jesperjohansson,sweden,1,1.0,
-jesperronn,denmark,5,5.0,
+jesperronn,denmark,2,2.0,
 jespersm,denmark,1,,1.0
 jessebenson,united states,1,,1.0
 jessegonzalez,chile,1,,1.0
@@ -7344,6 +7320,7 @@ jfigueroagama,mexico,2,2.0,
 jfigueruela,spain,1,,1.0
 jfilipe,canada,3,3.0,
 jfirebaugh,united states,5,3.0,2.0
+jfo,denmark,1,1.0,
 jfo84,netherlands,10,5.0,5.0
 jfoshee,united states,1,1.0,
 jfraj,canada,3,,3.0
@@ -7352,7 +7329,6 @@ jfsantos,canada,2,2.0,
 jfspencer,united kingdom,1,,1.0
 jfunez,germany,1,,1.0
 jgable,united states,3,2.0,1.0
-jgainfort,united states,1,1.0,
 jgasteiz,united kingdom,1,1.0,
 jgatjens,costa rica,1,1.0,
 jgavinray,united states,1,,1.0
@@ -7416,7 +7392,6 @@ jimeh,united kingdom,2,2.0,
 jimfleming,united states,2,1.0,1.0
 jimgong92,united states,1,1.0,
 jiminikiz,united states,1,,1.0
-jimitndiaye,united kingdom,1,1.0,
 jimjea,united states,2,1.0,1.0
 jimkang,united states,1,,1.0
 jimmydo,united states,1,1.0,
@@ -7424,7 +7399,7 @@ jimmystridh,sweden,1,1.0,
 jimmywan,united states,2,1.0,1.0
 jimoleary,ireland,1,1.0,
 jimpallomeni,united states,2,1.0,1.0
-jimthedev,united states,9,8.0,1.0
+jimthedev,united states,7,6.0,1.0
 jin,united states,2,1.0,1.0
 jinankjain,switzerland,1,,1.0
 jindasong,china,1,1.0,
@@ -7439,7 +7414,6 @@ jinzhubaofu,china,1,,1.0
 jirehstudios,uruguay,1,,1.0
 jisaacks,united states,3,2.0,1.0
 jishnujayakumar,india,1,1.0,
-jiverson,united states,4,,4.0
 jiwom,philippines,1,1.0,
 jjangsangy,united states,2,,2.0
 jjconti,argentina,2,2.0,
@@ -7454,12 +7428,13 @@ jkasun,sri lanka,1,1.0,
 jkimbo,united kingdom,4,4.0,
 jkinkead,united states,1,,1.0
 jkloth,united states,9,2.0,7.0
+jklydev,united kingdom,2,1.0,1.0
 jkmdev,canada,2,,2.0
 jkomyno,italy,2,2.0,
 jkrems,united states,1,,1.0
 jkschin,singapore,1,1.0,
 jkudish,canada,3,2.0,1.0
-jkuri,slovenia,33,19.0,14.0
+jkuri,slovenia,1,1.0,
 jl2922,united states,1,1.0,
 jlaine,belgium,2,1.0,1.0
 jlandon,united states,1,1.0,
@@ -7478,13 +7453,13 @@ jlmitch5,united states,2,2.0,
 jlord,united states,8,4.0,4.0
 jlucfarias,brazil,11,8.0,3.0
 jmalonzo,australia,1,,1.0
-jmandel,united states,1,1.0,
+jmandel,united states,13,12.0,1.0
 jmarcher,germany,2,2.0,
 jmargeta,france,1,,1.0
 jmarshall,united kingdom,1,,1.0
 jmartinsen,norway,1,1.0,
 jmatsushita,germany,1,1.0,
-jmbowman,new zealand,2,1.0,1.0
+jmbowman,new zealand,8,3.0,5.0
 jmcriffey,united states,1,1.0,
 jmehault,france,1,,1.0
 jmf-mordis,spain,1,,1.0
@@ -7499,7 +7474,6 @@ jmlipman,finland,1,1.0,
 jmmcd,ireland,1,1.0,
 jmolinski,poland,2,,2.0
 jmonma,philippines,2,1.0,1.0
-jmorrell,united states,1,1.0,
 jmoutte,spain,1,1.0,
 jmsdvl,united states,1,1.0,
 jmshal,new zealand,1,1.0,
@@ -7512,7 +7486,7 @@ jnelken,united states,1,1.0,
 jnettlet,denmark,1,1.0,
 jneuendorf,germany,1,,1.0
 jnferner,switzerland,1,1.0,
-jnizet,france,5,1.0,4.0
+jnizet,france,4,1.0,3.0
 jnordberg,italy,1,1.0,
 jnothman,australia,275,104.0,171.0
 jnsencha,united states,2,2.0,
@@ -7585,7 +7559,6 @@ john681611,united kingdom,1,1.0,
 johnamiahford,united states,1,1.0,
 johnantoni,canada,1,,1.0
 johnathanmdell,south africa,1,1.0,
-johnazre,united states,1,1.0,
 johnbillion,italy,1,,1.0
 johncblandii,united states,1,1.0,
 johnchourajr,united states,1,1.0,
@@ -7598,7 +7571,6 @@ johnhawkinson,new zealand,2,,2.0
 johnheroy,united states,1,,1.0
 johnjayasingh,india,1,1.0,
 johnjelinek,united states,1,1.0,
-johnlacr,united states,1,1.0,
 johnlinp,taiwan,3,1.0,2.0
 johnlinvc,taiwan,1,1.0,
 johnlonganecker,united states,1,,1.0
@@ -7606,7 +7578,7 @@ johnlui,china,3,2.0,1.0
 johnmcguin,united states,1,1.0,
 johnnye,norway,1,1.0,
 johnnygerard,belgium,2,1.0,1.0
-johnpapa,united states,14,11.0,3.0
+johnpapa,united states,4,4.0,
 johnraz,belgium,2,2.0,
 johnsardine,portugal,1,1.0,
 johnsonlin,australia,1,1.0,
@@ -7659,7 +7631,6 @@ jonkofee,ukraine,1,,1.0
 jonmast,united states,1,,1.0
 jonnyhsu,philippines,1,,1.0
 jonnykira,canada,1,1.0,
-jonnysamps,united states,1,,1.0
 jonoleson,united states,1,1.0,
 jonsadka,united states,2,2.0,
 jonscottclark,canada,1,,1.0
@@ -7691,7 +7662,6 @@ josebailo,spain,1,1.0,
 josegonzalez,united states,3,3.0,
 josenicomaia,brazil,1,,1.0
 joseortiz3,united states,1,,1.0
-joseph-ortiz,georgia,1,1.0,
 josephlin55555,united states,5,3.0,2.0
 josephsalmon,france,7,,7.0
 josericardo,brazil,1,,1.0
@@ -7700,7 +7670,6 @@ josh-,australia,1,1.0,
 josh-parris,australia,1,1.0,
 josharian,united states,1,,1.0
 joshbalfour,united kingdom,1,1.0,
-joshbeitler,south africa,1,1.0,
 joshbetz,united states,1,,1.0
 joshbuchea,united states,3,3.0,
 joshburkart,united states,1,1.0,
@@ -7740,13 +7709,13 @@ joual,canada,1,,1.0
 jowagner,ireland,1,1.0,
 joyalbin,india,36,13.0,23.0
 joybhallaa,india,1,1.0,
+joyhchen,united states,7,5.0,2.0
 jozan,finland,2,1.0,1.0
 jpadilla,united states,3,3.0,
 jparishy,united states,2,2.0,
 jpauwels,united kingdom,1,1.0,
 jpavon,spain,4,3.0,1.0
 jpayoung,new zealand,1,,1.0
-jpdonaghy,united states,1,1.0,
 jpdriver,united kingdom,1,1.0,
 jpelgrom,netherlands,1,,1.0
 jperelli,argentina,1,1.0,
@@ -7789,26 +7758,25 @@ jrings,united states,2,2.0,
 jrmlhermitte,united states,1,1.0,
 jrodiger,united states,3,3.0,
 jrouly,united states,1,,1.0
+jrowan,new zealand,18,13.0,5.0
 jrowny,united states,2,2.0,
 jrpool,united states,2,2.0,
 jrsconfitto,united kingdom,4,1.0,3.0
 jrseliga,united states,1,,1.0
 jrwdunham,canada,1,1.0,
 jsamr,canada,1,1.0,
-jsanchezgarcia,united states,4,3.0,1.0
 jsaporta,philippines,1,1.0,
 jsatt,united states,3,1.0,2.0
 jsayol,spain,6,3.0,3.0
 jsbattig,uruguay,4,4.0,
 jschendel,united states,2,,2.0
 jschneier,united states,25,6.0,19.0
-jschwarty,united states,4,3.0,1.0
+jschwarty,united states,2,2.0,
 jscissr,switzerland,1,,1.0
 jsdevel,united states,3,3.0,
 jseabold,united states,5,3.0,2.0
 jseppi,united states,1,1.0,
 jsfu,china,2,2.0,
-jshamley,united states,1,1.0,
 jshanley,united states,1,1.0,
 jshap70,united states,1,,1.0
 jshawl,united states,1,1.0,
@@ -7820,7 +7788,7 @@ jsma,united states,3,1.0,2.0
 jsmits,netherlands,1,1.0,
 jsomers,united states,1,,1.0
 jsonkey,china,1,1.0,
-jsoref,canada,7,4.0,3.0
+jsoref,canada,6,3.0,3.0
 jspekken,netherlands,1,,1.0
 jspringe,united states,1,,1.0
 jstheoriginal,canada,1,1.0,
@@ -7855,6 +7823,7 @@ julen,switzerland,6,1.0,5.0
 julesjulian,united states,1,,1.0
 juliadolgova,russia,1,1.0,
 julian-klode,germany,1,,1.0
+julianasobreira,brazil,2,2.0,
 julianlconnor,united states,1,1.0,
 julianobez,brazil,1,1.0,
 julianwachholz,switzerland,1,1.0,
@@ -7868,13 +7837,14 @@ julioxavierr,brazil,1,1.0,
 julp,france,1,1.0,
 julyzergcn,china,1,1.0,
 jumilla,japan,4,2.0,2.0
+jumperskirt,united states,2,2.0,
 jungle-cat,china,2,2.0,
 jungpilyu,south korea,1,1.0,
 junhaoyap,singapore,1,1.0,
 junluan,china,1,,1.0
 junpenglao,switzerland,2,,2.0
 junquera,spain,1,1.0,
-juristr,italy,11,7.0,4.0
+juristr,italy,5,5.0,
 jurito,italy,2,2.0,
 jusjusjus,united states,4,1.0,3.0
 jussi-kalliokoski,finland,2,1.0,1.0
@@ -7892,7 +7862,6 @@ justinfreitag,australia,1,1.0,
 justingrant,united states,2,,2.0
 justingreenberg,united states,1,1.0,
 justinj,united states,1,,1.0
-justinkurtz,united states,1,,1.0
 justinmcp,australia,1,1.0,
 justinshenk,germany,3,1.0,2.0
 justinvf-zz,united states,5,4.0,1.0
@@ -7901,6 +7870,7 @@ justmarkham,united states,1,,1.0
 jutaz,lithuania,8,2.0,6.0
 juukie,netherlands,6,2.0,4.0
 jvalente,portugal,1,,1.0
+jvalentini,australia,1,1.0,
 jvandemo,belgium,2,2.0,
 jvc26,united kingdom,1,1.0,
 jvcjunior,brazil,1,1.0,
@@ -7923,6 +7893,7 @@ jyeg,united states,1,,1.0
 jyu-theartofml,united states,1,1.0,
 jzhangdev,china,3,3.0,
 jzuern,germany,1,1.0,
+k0nsl,denmark,1,1.0,
 k0pernicus,france,1,,1.0
 k4r4koyun,turkey,2,2.0,
 k8stone,philippines,1,1.0,
@@ -7955,7 +7926,7 @@ kalombos,russia,1,,1.0
 kaloyan-raev,bulgaria,2,1.0,1.0
 kamaroly,rwanda,2,1.0,1.0
 kamazee,belarus,3,3.0,
-kambleaa007,india,2,2.0,
+kambleaa007,india,1,1.0,
 kamcpp,netherlands,2,1.0,1.0
 kami93,south korea,1,1.0,
 kamidox,china,1,1.0,
@@ -7973,6 +7944,7 @@ kangfend,indonesia,1,1.0,
 kanielc,canada,3,2.0,1.0
 kanitw,united states,1,,1.0
 kantorkel,germany,1,1.0,
+kao-ny,japan,2,1.0,1.0
 kaorun343,japan,12,3.0,9.0
 kapilepatel,india,1,1.0,
 kapilgarg1996,india,5,1.0,4.0
@@ -7980,13 +7952,13 @@ kappataumu,united kingdom,1,,1.0
 kapunahelewong,united states,87,74.0,13.0
 kapv89,india,16,12.0,4.0
 kara71,france,1,1.0,
+karambir,india,1,1.0,
 karanisverma,india,2,,2.0
 karanjthakkar,united kingdom,6,6.0,
 karankaw,india,1,,1.0
 karanlyons,united states,1,1.0,
 karansthr,india,1,1.0,
 karczk,poland,1,,1.0
-kareemkibue,canada,1,1.0,
 kareman,norway,1,,1.0
 karfly,russia,1,1.0,
 kargnas,south korea,1,1.0,
@@ -8001,7 +7973,6 @@ karptonite,united states,3,2.0,1.0
 karthick-manoharan,india,3,3.0,
 karthikb351,india,1,,1.0
 karthikchintapalli,india,1,,1.0
-kartik-budhiraja,canada,2,2.0,
 kartikanand,united states,1,,1.0
 kartiklad,australia,1,,1.0
 karwa,germany,23,8.0,15.0
@@ -8053,7 +8024,6 @@ kdawgwilk,united states,1,1.0,
 kdemoya,dominican republic,1,1.0,
 kdexd,united states,7,3.0,4.0
 kdhingra307,india,1,1.0,
-kdimatteo,united states,1,1.0,
 kdinev,bulgaria,3,3.0,
 kdmu,spain,1,,1.0
 keatongreve,united states,1,1.0,
@@ -8106,7 +8076,7 @@ kerryguard,united states,1,,1.0
 kesha-antonov,united states,4,4.0,
 kesjien,ukraine,1,1.0,
 kesun421,united states,2,1.0,1.0
-kevcha,france,1,1.0,
+kevchentw,taiwan,1,1.0,
 keven425,united states,1,,1.0
 kevgathuku,kenya,1,1.0,
 kevhuang,united states,2,1.0,1.0
@@ -8126,6 +8096,7 @@ kevinluvian,indonesia,1,1.0,
 kevinmarsh,canada,2,1.0,1.0
 kevinold,united states,3,1.0,2.0
 kevinpCroat,united states,1,,1.0
+kevinr,united states,1,1.0,
 kevinresol,hong kong,2,2.0,
 kevinschaul,united states,1,1.0,
 kevinsimard,canada,3,2.0,1.0
@@ -8145,6 +8116,7 @@ keyur9,united states,1,1.0,
 keyurdg,united states,13,9.0,4.0
 kezabelle,united kingdom,7,7.0,
 kf6nux,united states,1,,1.0
+kfdm,japan,1,1.0,
 kfrncs,canada,2,,2.0
 kfuchs,united states,1,1.0,
 kgashok,india,4,4.0,
@@ -8182,12 +8154,9 @@ kidwm,taiwan,1,1.0,
 kieferrm,united states,15,2.0,13.0
 kiendang,singapore,4,,4.0
 kieranju,canada,1,1.0,
-kieronqtran,vietnam,1,1.0,
-kikar,united kingdom,1,1.0,
 kikolio,united states,1,1.0,
 kikyous,china,1,,1.0
 killercup,sweden,1,1.0,
-killrazor,united states,2,1.0,1.0
 killthekitten,germany,2,1.0,1.0
 kilowu,china,1,,1.0
 kinablelieselot,belgium,1,1.0,
@@ -8220,13 +8189,14 @@ kjarnet,norway,1,1.0,
 kjin,united states,1,1.0,
 kjirou,japan,1,1.0,
 kjslag,united states,1,,1.0
+kkanahin,russia,38,37.0,1.0
 kkarich,united states,2,,2.0
 kke,finland,1,,1.0
 kkoroviev,ukraine,1,1.0,
 klamping,united kingdom,2,1.0,1.0
 klangner,poland,2,2.0,
 klarkc,brazil,1,1.0,
-klauskpm,brazil,1,,1.0
+kleidieski,albania,1,,1.0
 kleinmatic,united states,1,,1.0
 kloy,united states,3,1.0,2.0
 kluangkote,united states,3,,3.0
@@ -8264,6 +8234,7 @@ koistya,united states,1,,1.0
 kojoidrissa,united states,4,,4.0
 kokardy,japan,1,1.0,
 koke,spain,1,,1.0
+kokeshii,united states,1,1.0,
 kolisergej,united states,5,5.0,
 kolju,russia,1,,1.0
 kolodny,united states,1,,1.0
@@ -8299,6 +8270,7 @@ kphed,united states,1,,1.0
 kpsroka,poland,1,1.0,
 kpysniak,poland,5,5.0,
 kr-ish,united states,4,2.0,2.0
+kracekumar,india,3,3.0,
 kraenhansen,denmark,1,1.0,
 krainboltgreene,united states,1,1.0,
 kralf,switzerland,1,1.0,
@@ -8315,14 +8287,14 @@ kremuwa,poland,1,1.0,
 krenor,germany,1,1.0,
 krienow,germany,5,1.0,4.0
 kriscarle,united states,1,1.0,
-krishnaanaril,india,1,,1.0
 krishnakatyal,india,3,2.0,1.0
 krishnanm86,germany,2,2.0,
 krishnasingh87,india,1,1.0,
 kristjanr,estonia,1,1.0,
 kristofclaes,belgium,1,1.0,
 krisys,united states,4,4.0,
-krizalys,france,1,,1.0
+kriti21,pakistan,1,1.0,
+kritkaran94,india,3,3.0,
 krizzdewizz,switzerland,1,,1.0
 krmboya,kenya,1,,1.0
 krmroland,uganda,1,1.0,
@@ -8331,7 +8303,7 @@ krnsripati,india,4,4.0,
 krolow,brazil,1,1.0,
 kronion,united states,1,,1.0
 kronosapiens,israel,1,,1.0
-krotscheck,united states,1,1.0,
+krotovkk,russia,2,2.0,
 krszwsk,poland,1,1.0,
 krtek4,switzerland,2,2.0,
 krunalsshah,united states,1,1.0,
@@ -8369,10 +8341,13 @@ kulek1,poland,1,,1.0
 kumarharsh,india,9,7.0,2.0
 kumarnabin,nepal,1,1.0,
 kumasento,united kingdom,8,4.0,4.0
+kunal-mohta,india,3,3.0,
 kunalgrover05,india,1,1.0,
-kuncevic,australia,4,,4.0
+kunall17,india,12,11.0,1.0
+kuncevic,australia,3,,3.0
 kunukn,denmark,4,2.0,2.0
 kurapikats,philippines,1,1.0,
+kurianbenoy,india,1,,1.0
 kuroi,united kingdom,1,,1.0
 kurthong,south korea,3,2.0,1.0
 kushalchauhan98,india,1,,1.0
@@ -8394,7 +8369,6 @@ kwotsin,new zealand,1,,1.0
 kwshoemaker2,united states,1,1.0,
 kyle116,united states,2,2.0,
 kyleabeauchamp,united states,8,5.0,3.0
-kylecannon,united states,3,3.0,
 kylecordes,united states,1,1.0,
 kylef,united kingdom,2,1.0,1.0
 kylekatarnls,france,1,1.0,
@@ -8407,7 +8381,7 @@ kyu999,japan,1,1.0,
 labrute974,australia,1,,1.0
 lachilles,united states,1,1.0,
 lacker,italy,33,30.0,3.0
-lacolaco,japan,70,48.0,22.0
+lacolaco,japan,56,42.0,14.0
 laddng,united states,1,1.0,
 ladekar,united states,1,1.0,
 lagelalegal,china,1,1.0,
@@ -8450,11 +8424,12 @@ lattas,united kingdom,1,,1.0
 lattner,united states,27,11.0,16.0
 laudrup,denmark,1,,1.0
 laughedelic,norway,1,,1.0
-laumair,pakistan,5,4.0,1.0
+laumair,pakistan,4,4.0,
 laurent22,united kingdom,1,,1.0
 laurentlb,germany,1,,1.0
 laurentluce,united states,1,,1.0
 laurentperroteau,france,1,,1.0
+laurenzlong,united states,1,1.0,
 laurilehmijoki,finland,2,2.0,
 lauterry,france,1,1.0,
 lawrence858,united states,1,1.0,
@@ -8475,7 +8450,6 @@ lcy0321,taiwan,1,1.0,
 ldirer,france,8,3.0,5.0
 le0pard,ukraine,1,,1.0
 le6o,united kingdom,2,2.0,
-leader80,switzerland,1,1.0,
 leandroBorgesFerreira,brazil,1,1.0,
 leandrobrunner,argentina,1,1.0,
 leaxoy,china,3,3.0,
@@ -8507,7 +8481,6 @@ lemonlaug,united states,3,2.0,1.0
 lemonzi,switzerland,1,,1.0
 lennynyktyk,united states,1,1.0,
 leo108,china,1,1.0,
-leoaraujocosta,brazil,1,1.0,
 leobalter,united states,1,1.0,
 leobetosouza,brazil,1,,1.0
 leochen0818,taiwan,1,1.0,
@@ -8515,7 +8488,6 @@ leodutra,brazil,3,,3.0
 leofeyer,germany,1,1.0,
 leomao,taiwan,1,,1.0
 leomeloxp,jersey,1,1.0,
-leon,sweden,2,2.0,
 leon-matthews,new zealand,1,1.0,
 leonardseymore,south africa,1,1.0,
 leonm1,united states,1,,1.0
@@ -8540,6 +8512,7 @@ levibuzolic,australia,5,3.0,2.0
 levidyrek,united states,3,2.0,1.0
 levigross,united states,2,,2.0
 levsero,united states,1,1.0,
+levthedev,united states,1,1.0,
 levy5674,united states,1,,1.0
 lew18,united states,1,,1.0
 lewis500,united states,1,1.0,
@@ -8563,6 +8536,7 @@ lherman-cs,united states,1,,1.0
 lhlmgr,switzerland,3,1.0,2.0
 lhoward,australia,6,3.0,3.0
 li-ch,china,1,,1.0
+liamim,united states,1,1.0,
 lianguan,china,1,,1.0
 liaohuqiu,china,1,1.0,
 liaolushen,china,1,,1.0
@@ -8599,13 +8573,11 @@ linmic,japan,3,3.0,
 linnenschmidt,germany,1,1.0,
 linnett,united kingdom,1,1.0,
 linusodenring,sweden,2,2.0,
-lioman,germany,1,1.0,
 lioncash,canada,4,1.0,3.0
 lioutasb,canada,1,,1.0
 lipis,denmark,6,3.0,3.0
 liqiang311,china,1,1.0,
 liqichao,china,1,1.0,
-lirantal,israel,1,1.0,
 lisachenko,russia,1,,1.0
 lisongx,united kingdom,1,1.0,
 lissom,united states,4,4.0,
@@ -8614,6 +8586,7 @@ listenloop,united states,1,1.0,
 litchfield,australia,2,2.0,
 litespeedtech,united states,6,5.0,1.0
 littke,united states,1,1.0,
+littldr,germany,1,,1.0
 liubko,ukraine,1,,1.0
 liuderchi,taiwan,2,1.0,1.0
 liuggio,united kingdom,1,,1.0
@@ -8623,7 +8596,6 @@ liutongxuan,china,6,2.0,4.0
 liuxiong332,china,4,3.0,1.0
 liuzjmike,united kingdom,1,1.0,
 livelazily,china,1,,1.0
-livoras,china,1,1.0,
 livthomas,czechia,1,1.0,
 liyinhgqw,china,2,1.0,1.0
 lizlemon,united states,2,2.0,
@@ -8655,8 +8627,8 @@ localheinz,germany,2,1.0,1.0
 lofye,united kingdom,1,1.0,
 loganhenson,united states,2,2.0,
 loganlinn,united states,1,1.0,
-loganmzz,france,1,,1.0
 loganrosen,united states,1,,1.0
+loganwilliams,united states,1,,1.0
 logc,sweden,1,,1.0
 logston,united states,1,1.0,
 loiane,united states,3,3.0,
@@ -8682,7 +8654,7 @@ lostick,united kingdom,1,,1.0
 louib,canada,1,,1.0
 louiehelm,united states,2,,2.0
 louisdh,belgium,3,,3.0
-louislarry,indonesia,3,1.0,2.0
+louislarry,indonesia,1,1.0,
 louridas,greece,1,,1.0
 lovato,brazil,2,2.0,
 lovelangy,australia,1,1.0,
@@ -8714,7 +8686,6 @@ ltearno,france,1,1.0,
 ltiao,germany,5,1.0,4.0
 lu1ssuarez,venezuela,2,2.0,
 luancurti,brazil,1,1.0,
-luankevinferreira,brazil,2,2.0,
 lubomirhadziev,bulgaria,1,1.0,
 luca-moser,switzerland,1,,1.0
 lucadegasperi,italy,1,,1.0
@@ -8726,7 +8697,6 @@ lucasloisp,uruguay,1,,1.0
 lucaslra,netherlands,3,,3.0
 lucasmichot,germany,23,18.0,5.0
 lucasmoura,brazil,3,,3.0
-lucasvfventura,canada,1,1.0,
 lucaswiman,united states,2,1.0,1.0
 lucianmarin,romania,1,1.0,
 lucianocrt,united kingdom,1,1.0,
@@ -8758,14 +8728,12 @@ luixaviles,bolivia,1,1.0,
 luizguilhermefr,brazil,1,1.0,
 luizhenriquesoares,brazil,1,,1.0
 lujakob,germany,3,2.0,1.0
-lukaselmer,switzerland,3,1.0,2.0
 lukasklein,germany,1,1.0,
 lukasweber,switzerland,1,1.0,
 lukaszb,poland,3,3.0,
 lukeb,united states,1,,1.0
 lukebayes,uruguay,1,1.0,
 lukebelliveau,united states,1,,1.0
-lukechatton,united states,1,,1.0
 lukechilds,thailand,1,1.0,
 lukehoban,united states,1,,1.0
 lukeiwanski,united kingdom,57,4.0,53.0
@@ -8775,6 +8743,7 @@ lukeparkinson,united kingdom,1,1.0,
 lukereichold,united states,1,,1.0
 lukertty,china,1,,1.0
 lum4chi,italy,1,1.0,
+lunacodes,united states,1,1.0,
 lunetics,germany,1,1.0,
 luqmaan,united states,1,1.0,
 luqmanrom,malaysia,1,,1.0
@@ -8796,7 +8765,6 @@ lxsk,germany,1,1.0,
 ly0,china,2,1.0,1.0
 lyair1,united states,1,1.0,
 lyandrew,united states,1,1.0,
-lygaret,united states,1,1.0,
 lygztq,china,1,,1.0
 lyhper,china,4,2.0,2.0
 lyip1992,united states,7,1.0,6.0
@@ -8832,7 +8800,6 @@ maasencioh,colombia,2,2.0,
 mabels,germany,1,1.0,
 mabelvj,spain,3,,3.0
 mablue,iran,1,1.0,
-mac2000,ukraine,3,2.0,1.0
 machadogj,argentina,1,1.0,
 machineloop,united states,7,4.0,3.0
 machuga,united states,2,,2.0
@@ -8856,7 +8823,7 @@ madorin,moldova,8,8.0,
 madphysicist,united states,2,1.0,1.0
 madskonradsen,denmark,5,4.0,1.0
 madslundholmdk,denmark,1,1.0,
-maedewiza,poland,3,3.0,
+maedewiza,poland,2,2.0,
 maerteijn,netherlands,1,,1.0
 maftabali,united kingdom,1,,1.0
 maftieu,france,1,1.0,
@@ -8900,7 +8867,6 @@ malekpour,united states,1,1.0,
 malept,united states,2,1.0,1.0
 malexanderboyd,united states,1,1.0,
 malhal,united kingdom,1,1.0,
-maliq,mexico,1,,1.0
 malliwi88,colombia,22,14.0,8.0
 mallowigi,israel,2,,2.0
 malstoun,russia,1,1.0,
@@ -8920,13 +8886,12 @@ mandroid6,india,4,3.0,1.0
 manelclos,spain,1,1.0,
 manevant,russia,1,1.0,
 manfre,united states,30,23.0,7.0
-manfredsteyer,austria,7,3.0,4.0
 mangogogos,canada,2,2.0,
 mani2106,india,2,,2.0
 manikos,greece,1,,1.0
 manipopopo,taiwan,3,2.0,1.0
 maniramezan,united states,2,,2.0
-manishbansal8843,india,3,3.0,
+manishbansal8843,india,2,2.0,
 maniteja123,india,20,9.0,11.0
 manixate,singapore,1,,1.0
 manjrekarom,india,1,,1.0
@@ -8939,7 +8904,6 @@ manosim,united kingdom,4,4.0,
 manrajgrover,india,2,,2.0
 mansenfranzen,germany,1,,1.0
 mansimarkaur,india,12,2.0,10.0
-mantyz,united states,1,,1.0
 manu-chroma,india,4,,4.0
 manuelm,austria,7,4.0,3.0
 manumiranda,spain,1,1.0,
@@ -8958,10 +8922,9 @@ maraisr,australia,2,1.0,1.0
 maraujop,spain,1,1.0,
 marazmiki,russia,1,,1.0
 marc-mabe,germany,11,10.0,1.0
-marc-sensenich,united states,4,4.0,
 marcanuy,uruguay,1,,1.0
 marcaurele,switzerland,2,2.0,
-marcbachmann,switzerland,2,,2.0
+marcbachmann,switzerland,1,,1.0
 marcelaraujo,portugal,1,1.0,
 marcelganczak,united kingdom,1,1.0,
 marceljar,canada,1,1.0,
@@ -9016,7 +8979,6 @@ mariano,united states,2,1.0,1.0
 marianoguerra,germany,1,1.0,
 marians,germany,1,1.0,
 marianvlad,romania,1,1.0,
-marinalimeira,brazil,1,1.0,
 marine0131,china,1,1.0,
 marinintim,united states,1,,1.0
 mariodu,china,1,,1.0
@@ -9033,7 +8995,7 @@ mark-adams,united states,1,1.0,
 markbao,united states,1,,1.0
 markbrouch,united states,1,,1.0
 markburns,united kingdom,1,1.0,
-markgoho,united kingdom,6,6.0,
+markgoho,united kingdom,3,3.0,
 markhannel,united states,1,,1.0
 markhellewell,australia,1,1.0,
 markhuot,united states,4,3.0,1.0
@@ -9081,7 +9043,6 @@ martinvol,argentina,1,,1.0
 martomi,germany,1,,1.0
 martonbognar,belgium,1,,1.0
 martoranod,venezuela,1,1.0,
-martzcodes,united states,1,,1.0
 marufhasan1,bangladesh,1,1.0,
 marvin08,india,1,,1.0
 marvinhagemeister,germany,1,,1.0
@@ -9102,7 +9063,6 @@ masterfung,united states,3,3.0,
 masters3d,united states,2,1.0,1.0
 matadon,japan,1,1.0,
 matchai,canada,1,,1.0
-matdryz,poland,1,1.0,
 matei-radu,germany,2,2.0,
 matej21,czechia,1,1.0,
 matejcik,czechia,2,1.0,1.0
@@ -9171,14 +9131,13 @@ matthewshirley,canada,1,,1.0
 matthewvermaak,united states,1,,1.0
 matthewwithanm,united states,3,2.0,1.0
 matthiask,switzerland,13,2.0,11.0
-matthiaslischka,austria,1,,1.0
 matthiasnagel,germany,1,1.0,
 matthijskooijman,netherlands,1,,1.0
 mattkwiecien,united states,2,,2.0
 mattlavallee,united states,1,,1.0
 mattleff,united states,2,2.0,
-mattlewis92,united kingdom,14,10.0,4.0
-mattma,united states,1,1.0,
+mattlewis92,united kingdom,5,5.0,
+mattlong210,united states,1,1.0,
 mattmcdonald-uk,united kingdom,2,,2.0
 mattmo,united states,1,1.0,
 mattn,japan,13,4.0,9.0
@@ -9213,12 +9172,13 @@ maxiee,china,2,2.0,
 maxigimenez,denmark,1,1.0,
 maxim-belkin,united states,49,17.0,32.0
 maxime-allex,france,2,2.0,
-maxime1992,united kingdom,3,2.0,1.0
+maxime1992,united kingdom,1,1.0,
 maximsch2,united states,1,,1.0
 maxisme,united kingdom,1,,1.0
 maxkrivich,ukraine,1,1.0,
 maxmert,germany,1,1.0,
 maxnordlund,sweden,4,2.0,2.0
+maxnuss,united states,20,17.0,3.0
 maxschmeling,united states,1,,1.0
 maxstrobel,germany,1,1.0,
 maxweldsouza,india,1,,1.0
@@ -9242,7 +9202,6 @@ mbcooper,united states,1,,1.0
 mbeccati,italy,9,5.0,4.0
 mbeijen,netherlands,4,1.0,3.0
 mbelsky,russia,2,2.0,
-mbenzenhoefer,germany,3,2.0,1.0
 mbertheau,germany,3,3.0,
 mbillingr,austria,3,1.0,2.0
 mblahay,united states,2,,2.0
@@ -9258,7 +9217,6 @@ mburger81,italy,6,1.0,5.0
 mburst,united states,2,,2.0
 mbyrnepr2,netherlands,1,1.0,
 mc-zone,china,1,1.0,
-mcabreradev,argentina,2,1.0,1.0
 mcarbonneaux,france,6,5.0,1.0
 mcardillo55,united states,1,1.0,
 mcattarinussi,united kingdom,1,,1.0
@@ -9313,6 +9271,7 @@ meettyj,united states,2,,2.0
 megawac,united states,1,1.0,
 meggamind,united states,1,1.0,
 meghprkh,pakistan,1,1.0,
+mehanig,norway,3,3.0,
 mehcode,united states,7,5.0,2.0
 mehdidc,france,3,3.0,
 mehmetakyuz,netherlands,2,2.0,
@@ -9329,7 +9288,6 @@ meli-lewis,united states,1,,1.0
 melihmucuk,turkey,2,1.0,1.0
 melikyan-a,armenia,1,1.0,
 melinath,united states,7,7.0,
-melinda-schmitz,united states,1,1.0,
 melindabernrdo,united states,1,1.0,
 meloie,iran,1,,1.0
 melsyt,united states,1,,1.0
@@ -9395,13 +9353,11 @@ mgrinspan,united states,1,1.0,
 mgrouchy,canada,3,1.0,2.0
 mgsmus,turkey,1,1.0,
 mguidotto,italy,1,,1.0
-mhadaily,norway,2,,2.0
 mhaligowski,united states,3,3.0,
 mhall1,canada,5,4.0,1.0
-mham,slovakia,2,1.0,1.0
-mhamel06,united states,3,2.0,1.0
+mhamel06,united states,1,1.0,
 mhameon,france,1,1.0,
-mhartington,united states,3,2.0,1.0
+mhartington,united states,2,2.0,
 mhchia,taiwan,1,,1.0
 mhegazy,united states,2,2.0,
 mhei,germany,5,5.0,
@@ -9416,7 +9372,6 @@ mhmardani,iran,1,1.0,
 mhmoodlan,syria,2,1.0,1.0
 mhofman,united states,1,1.0,
 mhollweck,germany,1,1.0,
-mhoyer,germany,1,1.0,
 mhuggins,united states,1,,1.0
 mhw,united kingdom,1,,1.0
 miadz,iran,1,1.0,
@@ -9449,7 +9404,6 @@ michaelshiyu,united states,1,,1.0
 michalchudziak,poland,12,12.0,
 michalkrupa,united states,1,1.0,
 michalsnik,poland,1,1.0,
-michalvichy,poland,1,1.0,
 michax,poland,2,2.0,
 michelkaporin,switzerland,17,1.0,16.0
 michi88,netherlands,1,1.0,
@@ -9512,12 +9466,10 @@ mikeotoole,united kingdom,1,,1.0
 mikeroyal,united states,1,1.0,
 mikestek,united states,1,1.0,
 miketheman,united states,1,,1.0
-mikeumus,united states,2,2.0,
 mikevrind,netherlands,1,1.0,
-mikeybyker,united kingdom,3,1.0,2.0
+mikeybyker,united kingdom,2,1.0,1.0
 mikield,poland,1,1.0,
 mikkelam,denmark,1,1.0,
-mikkeldamm,denmark,1,1.0,
 mikker,denmark,1,1.0,
 miklernout,canada,1,1.0,
 mikofski,united states,1,,1.0
@@ -9529,7 +9481,6 @@ milon,germany,2,2.0,
 milorojas,panama,1,,1.0
 milose,montenegro,1,1.0,
 milroyfraser,netherlands,1,1.0,
-miltador,ukraine,2,2.0,
 minamijoyo,japan,1,,1.0
 mindsocket,australia,2,2.0,
 minggli,united kingdom,7,1.0,6.0
@@ -9551,7 +9502,7 @@ mircowidmer,switzerland,1,1.0,
 mirko77,united kingdom,1,1.0,
 mironiasty,poland,1,1.0,
 misaku,brazil,4,4.0,
-mischah,germany,2,1.0,1.0
+mischah,germany,1,1.0,
 misenhower,united states,1,,1.0
 misg,canada,1,,1.0
 mishan,united states,2,1.0,1.0
@@ -9560,11 +9511,11 @@ mislavcimpersak,croatia,1,1.0,
 misoguy,south korea,11,1.0,10.0
 missjojo,china,1,,1.0
 mistenkt,norway,2,2.0,
+misteraverin,russia,9,9.0,
 mistydemeo,canada,28,17.0,11.0
 mitchelldm,australia,1,1.0,
 mitchellrj,united kingdom,1,1.0,
 mitchellvanw,netherlands,1,,1.0
-mithun-daa,united states,2,1.0,1.0
 mitnk,china,2,1.0,1.0
 mitogh,mexico,1,1.0,
 mitsuo0114,japan,1,1.0,
@@ -9598,6 +9549,7 @@ mkaply,united states,12,6.0,6.0
 mkaschenko,thailand,1,1.0,
 mkchoi212,united states,1,,1.0
 mkennedy3000,united states,1,1.0,
+mketiku,united states,1,1.0,
 mkneierV,united states,1,1.0,
 mkoczka,slovakia,1,1.0,
 mkonicek,united kingdom,82,81.0,1.0
@@ -9634,10 +9586,9 @@ mmkjony,bangladesh,1,1.0,
 mmnaderi,iran,1,1.0,
 mmollick,united states,1,1.0,
 mmoss,united states,2,1.0,1.0
-mmrath,australia,5,4.0,1.0
+mmrath,australia,2,2.0,
 mnabialek,poland,4,4.0,
 mnach,russia,2,2.0,
-mnahkies,new zealand,1,,1.0
 mniess,germany,1,,1.0
 mnikn,china,1,,1.0
 mnishihan,bangladesh,1,1.0,
@@ -9650,6 +9601,7 @@ mnspodrska,serbia,1,1.0,
 mnvr,finland,3,,3.0
 mo22,germany,1,1.0,
 moacirosa,brazil,1,,1.0
+moagstar,netherlands,2,2.0,
 moas,france,1,1.0,
 moatom,japan,2,1.0,1.0
 moaxaca,united states,1,1.0,
@@ -9657,6 +9609,7 @@ mobeigi,australia,1,,1.0
 mobitar,united states,1,1.0,
 mociepka,poland,1,1.0,
 modelorganism,united states,2,1.0,1.0
+modestfool,united states,1,1.0,
 modocache,united states,141,33.0,108.0
 modulitos,united states,1,1.0,
 mofo37,united states,2,2.0,
@@ -9668,7 +9621,7 @@ mohamedz10,belgium,1,1.0,
 mohammedsabi,united arab emirates,2,2.0,
 mohammedzamakhan,united states,3,3.0,
 mohi-ir,iran,1,1.0,
-mohitbhatia1994,united states,3,3.0,
+mohitbhatia1994,united states,2,2.0,
 mohitmamoria,india,1,1.0,
 mohitnatoo,pakistan,1,1.0,
 mohsen1,united states,1,1.0,
@@ -9686,10 +9639,8 @@ momr,canada,1,,1.0
 monalighosh,australia,1,1.0,
 mondaychen,united states,1,,1.0
 mondwan,hong kong,1,,1.0
-monfa-red,canada,1,1.0,
 monkindey,china,6,1.0,5.0
 monklof,china,1,,1.0
-monojack,romania,4,2.0,2.0
 monotv,germany,1,1.0,
 monque,china,2,1.0,1.0
 montanalow,united states,1,1.0,
@@ -9744,7 +9695,6 @@ mpjlu,china,4,2.0,2.0
 mpmont,portugal,1,1.0,
 mpociot,germany,1,,1.0
 mpppk,japan,1,,1.0
-mprahl,united states,1,1.0,
 mprelude,united kingdom,1,1.0,
 mptap,united states,1,,1.0
 mputkowski,poland,1,,1.0
@@ -9760,6 +9710,7 @@ mrcasals,spain,1,,1.0
 mrdavey,netherlands,1,,1.0
 mrdejong,netherlands,1,1.0,
 mrdrogdrog,germany,1,,1.0
+mrdrozdov,united states,2,2.0,
 mre,germany,1,1.0,
 mrecachinas,united states,2,1.0,1.0
 mrene,canada,1,1.0,
@@ -9768,6 +9719,7 @@ mrfuxi,united kingdom,1,1.0,
 mrginglymus,new zealand,1,,1.0
 mrgix,netherlands,1,1.0,
 mrh1997,germany,1,,1.0
+mrijke,netherlands,1,1.0,
 mrj0,united states,2,1.0,1.0
 mrjoema,united states,1,1.0,
 mrkev,united states,1,,1.0
@@ -9829,7 +9781,7 @@ mtorromeo,italy,2,2.0,
 mtostenson,united states,3,3.0,
 mtoujiline,united states,1,1.0,
 mtourne,united states,1,1.0,
-mtraynham,united states,3,2.0,1.0
+mtraynham,united states,1,1.0,
 mtscout6,united states,1,1.0,
 mtsyganov,germany,3,3.0,
 mtunique,china,1,1.0,
@@ -9845,6 +9797,7 @@ muellermarkus,germany,1,,1.0
 muescha,germany,1,,1.0
 mufeedvh,india,1,1.0,
 muhammadfaizan,pakistan,1,1.0,
+mukul09,india,1,1.0,
 mundaym,united kingdom,21,4.0,17.0
 munificent,united states,3,3.0,
 munisisazade,azerbaijan,1,1.0,
@@ -9878,12 +9831,10 @@ mwiley,united states,1,1.0,
 mwillbanks,united states,2,2.0,
 mwmahlberg,germany,1,1.0,
 mwouts,france,1,1.0,
-mxii,germany,2,1.0,1.0
 mxl,russia,1,,1.0
 mxlian,germany,1,1.0,
 mxmerz,germany,1,1.0,
 mxschmitt,germany,5,,5.0
-mxstbr,austria,1,,1.0
 mxswd,new zealand,14,1.0,13.0
 my9074,china,1,1.0,
 myl0204,china,1,1.0,
@@ -9934,7 +9885,9 @@ naktinis,lithuania,3,3.0,
 nakulgulati,india,1,1.0,
 nakulpathak3,canada,1,1.0,
 nalepae,france,1,,1.0
+nalinbhardwaj,india,1,1.0,
 nalsil,south korea,1,,1.0
+namit9,india,1,1.0,
 namse,united states,3,3.0,
 namuol,united states,1,1.0,
 nanexcool,argentina,1,,1.0
@@ -9942,7 +9895,6 @@ nanjekyejoannah,uganda,22,8.0,14.0
 nantunes,portugal,1,1.0,
 naoyashiga,japan,1,,1.0
 naprelsky,russia,1,1.0,
-narainsagar,pakistan,2,1.0,1.0
 narendasan,united states,1,,1.0
 narfbg,bulgaria,6,6.0,
 narma,united states,1,1.0,
@@ -9965,6 +9917,7 @@ nathanlschneider,united states,1,1.0,
 nathanmarks,canada,1,1.0,
 nathantypanski,united states,1,1.0,
 nativedone,australia,1,1.0,
+natsukagami,canada,1,1.0,
 natsukium,japan,1,,1.0
 natthu,united states,1,,1.0
 naturegirl,united states,2,1.0,1.0
@@ -9990,6 +9943,7 @@ ncoghlan,australia,12,5.0,7.0
 ncordier,france,1,1.0,
 ncuillery,canada,12,12.0,
 nd-02110114,japan,36,36.0,
+ndarilek,united states,2,2.0,
 ndawe,canada,16,9.0,7.0
 ndingwall,united states,2,2.0,
 ndresx,austria,1,,1.0
@@ -10009,7 +9963,8 @@ negativetwelve,united states,7,5.0,2.0
 nehayward,united states,1,1.0,
 neilguangzhou,china,1,,1.0
 neilhan,malta,3,2.0,1.0
-neilhem,kazakhstan,3,1.0,2.0
+neilhem,kazakhstan,1,,1.0
+neiljp,united states,77,60.0,17.0
 neilkimmett,united states,1,,1.0
 neilmb,united states,1,1.0,
 neilsarkar,united states,6,6.0,
@@ -10017,22 +9972,24 @@ neko,australia,1,1.0,
 nelson-liu,united states,54,10.0,44.0
 nem035,united states,1,1.0,
 nemoDreamer,united kingdom,1,1.0,
-neo,china,5,3.0,2.0
+neo,china,1,1.0,
 neo01124,united kingdom,1,,1.0
 neoform,cuba,1,1.0,
 neogermi,germany,1,1.0,
 neoighodaro,nigeria,2,1.0,1.0
 neokt,united states,1,1.0,
+neonowy,poland,2,2.0,
 nerdoc,austria,1,1.0,
 nerdrew,united states,1,,1.0
 nertzy,united states,1,1.0,
+neruson,united states,3,3.0,
 nervgh,russia,2,,2.0
 nesk,france,3,1.0,2.0
 nestle1993,united states,7,7.0,
 nesukun,united kingdom,2,,2.0
 netergart,ukraine,1,1.0,
 netflash,australia,1,1.0,
-nethulap,australia,1,1.0,
+netoxico,mexico,1,1.0,
 netputer,china,2,1.0,1.0
 netskink,united kingdom,2,2.0,
 neurosnap,united states,1,,1.0
@@ -10058,7 +10015,6 @@ nghiattran,united states,2,,2.0
 ngocbv,vietnam,1,1.0,
 ngoix,france,11,2.0,9.0
 ngsw,japan,1,,1.0
-nguyenletan,vietnam,1,1.0,
 ngzhian,singapore,2,1.0,1.0
 nhagen,united states,1,1.0,
 nhancv,vietnam,1,1.0,
@@ -10077,7 +10033,7 @@ niallobrien,ireland,1,,1.0
 niborb,netherlands,2,2.0,
 nibytes,ukraine,1,1.0,
 nicanor-b,united states,1,1.0,
-nicholasbs,united states,1,,1.0
+nicholasbs,united states,3,2.0,1.0
 nicholasbutlin,united kingdom,1,,1.0
 nicholaslee119,japan,4,4.0,
 nicholasserra,united states,1,1.0,
@@ -10101,7 +10057,7 @@ nickvdyck,belgium,2,2.0,
 nickypie,united states,1,,1.0
 niclas-ahden,sweden,2,1.0,1.0
 niclashedam,denmark,1,1.0,
-nicmitchell,philippines,2,1.0,1.0
+nicmitchell,philippines,1,1.0,
 nicoddemus,brazil,1,,1.0
 nicodh,germany,1,1.0,
 nicodv,united states,1,,1.0
@@ -10117,7 +10073,7 @@ niconorsk,australia,1,,1.0
 nicosommi,argentina,1,,1.0
 nicwest,united kingdom,1,1.0,
 niedakh,poland,2,1.0,1.0
-niilante,ghana,2,2.0,
+niilante,ghana,1,1.0,
 nijel,czechia,8,6.0,2.0
 nijikon,poland,1,1.0,
 nik-garmash,germany,1,,1.0
@@ -10136,12 +10092,11 @@ nikitasingh981,united states,3,1.0,2.0
 nikki93,united states,4,4.0,
 nikkobautista,united states,1,1.0,
 niklabh,germany,1,1.0,
-niklas-dahl,germany,2,1.0,1.0
 niklasf,germany,3,1.0,2.0
 nikmahes,united arab emirates,1,,1.0
 nikmartin,united states,1,1.0,
 nikolai-katkov,netherlands,1,1.0,
-nikolasleblanc,canada,2,1.0,1.0
+nikolasleblanc,canada,1,,1.0
 nikolaynizruhin,ukraine,6,2.0,4.0
 nikonso,portugal,1,,1.0
 nikriek,germany,1,1.0,
@@ -10170,23 +10125,23 @@ njbmartin,united kingdom,2,1.0,1.0
 njkevlani,india,5,1.0,4.0
 njleonzhang,china,1,1.0,
 njovin,united states,2,1.0,1.0
+njvrzm,united states,1,1.0,
 njzjz,china,1,1.0,
 nk412,united kingdom,2,1.0,1.0
 nkabrown,united states,1,1.0,
 nkconnor,united states,1,,1.0
+nkmishra1997,india,10,10.0,
 nkprince007,pakistan,1,1.0,
 nkreeger,nicaragua,2,,2.0
 nkt,russia,1,,1.0
 nlindroos,finland,1,1.0,
 nlopezgi,united states,3,1.0,2.0
-nlubisch,germany,1,1.0,
 nluehr,cuba,21,3.0,18.0
 nlw0,netherlands,2,1.0,1.0
 nmayorov,russia,8,5.0,3.0
 nmfzone,indonesia,3,3.0,
 nmolkeri,united states,1,1.0,
 nmoran,ireland,1,,1.0
-nmorenor,mexico,3,3.0,
 nmundar,croatia,3,2.0,1.0
 nnadeau,canada,4,,4.0
 nnasirzada,azerbaijan,1,1.0,
@@ -10198,7 +10153,6 @@ noahjg,united states,1,,1.0
 noamkush,israel,1,1.0,
 noamyogev84,israel,1,,1.0
 nocategory,portugal,1,,1.0
-noelmace,france,11,6.0,5.0
 noerK,germany,3,3.0,
 nofeet,united states,1,1.0,
 noherczeg,hungary,2,1.0,1.0
@@ -10221,7 +10175,7 @@ nordicio,sweden,5,,5.0
 norio-nomura,japan,5,1.0,4.0
 normanheckscher,australia,1,,1.0
 normanyahq,united states,1,1.0,
-nosachamos,united states,2,2.0,
+nosachamos,united states,1,1.0,
 nosamanuel,united states,1,1.0,
 nosh,united states,2,1.0,1.0
 nosovk,ukraine,1,1.0,
@@ -10230,8 +10184,8 @@ nossila,mexico,1,1.0,
 nostalgiaz,italy,1,1.0,
 not-for-me,south korea,3,3.0,
 not-implemented,germany,1,,1.0
-not-only-code,spain,2,1.0,1.0
 notZaki,canada,1,1.0,
+note35,japan,2,1.0,1.0
 noteScript,china,1,1.0,
 nothingismagick,france,1,,1.0
 notjosh,germany,4,4.0,
@@ -10261,6 +10215,7 @@ nsriram13,united states,1,,1.0
 nstanke,austria,1,,1.0
 nstraub,chile,1,,1.0
 nsuke,japan,3,,3.0
+nsurampu,pakistan,1,1.0,
 nticaric,croatia,1,1.0,
 ntkme,united states,2,,2.0
 ntovas,greece,2,1.0,1.0
@@ -10289,7 +10244,8 @@ nwellnhof,germany,1,,1.0
 nyamsprod,belgium,2,2.0,
 nyanlynnhtut,burma,1,1.0,
 nzw0301,japan,1,,1.0
-oBusk,sweden,3,3.0,
+o3dwade,united states,1,1.0,
+oBusk,sweden,2,2.0,
 oNaiPs,united states,1,1.0,
 oafridi,united states,1,1.0,
 oanise93,united states,1,1.0,
@@ -10298,11 +10254,11 @@ obb12,finland,2,2.0,
 obeattie,united kingdom,2,2.0,
 obipawan,india,1,1.0,
 oblador,sweden,7,7.0,
-oburakevych,australia,5,5.0,
+oburakevych,australia,1,1.0,
 oc666,israel,1,1.0,
 ocie,united kingdom,1,1.0,
 ocjosen,japan,4,,4.0
-ocombe,france,198,167.0,31.0
+ocombe,france,187,166.0,21.0
 oconnor663,united states,1,,1.0
 octamois,india,1,1.0,
 octopitus,singapore,1,1.0,
@@ -10314,7 +10270,6 @@ odoucet,france,1,1.0,
 oesgalha,brazil,1,,1.0
 ofavre,france,1,1.0,
 ofercoq,france,1,1.0,
-oferze,australia,1,1.0,
 offbye,china,2,2.0,
 oggy,united states,7,2.0,5.0
 ogmios-voice,australia,3,3.0,
@@ -10334,6 +10289,7 @@ ojacquemart,france,1,,1.0
 ojhaujjwal,nepal,1,,1.0
 ojkelly,australia,2,2.0,
 okbalefthanded,algeria,1,,1.0
+okkez,japan,1,1.0,
 okoala,china,1,1.0,
 okonet,austria,1,,1.0
 okonomiyaki3000,japan,1,1.0,
@@ -10360,7 +10316,6 @@ olingern,japan,2,1.0,1.0
 olipayne,netherlands,1,,1.0
 olitomas,iceland,1,1.0,
 oliveirabc,portugal,1,1.0,
-olivercs,united states,1,1.0,
 olivergeorge,australia,1,1.0,
 olivergs,spain,2,2.0,
 oliversalzburg,jamaica,2,1.0,1.0
@@ -10389,11 +10344,13 @@ onstash,india,2,1.0,1.0
 onurersel,sweden,1,1.0,
 onyb,france,1,,1.0
 onyxmaster,russia,1,1.0,
-oocx,germany,3,2.0,1.0
+oocx,germany,2,2.0,
 oodavid,australia,1,1.0,
 ooflorent,france,1,1.0,
+oolofsson,sweden,1,1.0,
 oori,israel,5,4.0,1.0
 openjck,united kingdom,1,,1.0
+opensource21,germany,1,1.0,
 operatino,united kingdom,4,,4.0
 oranav,israel,2,1.0,1.0
 orausch,switzerland,2,1.0,1.0
@@ -10402,7 +10359,6 @@ orf,portugal,63,18.0,45.0
 oriash93,israel,7,3.0,4.0
 originerd,south korea,2,2.0,
 orionr,united states,1,,1.0
-orizens,israel,1,1.0,
 orktes,finland,1,1.0,
 orlitzky,united states,8,6.0,2.0
 ornithocoder,germany,2,1.0,1.0
@@ -10434,6 +10390,7 @@ ovangle,australia,3,3.0,
 ovanschie,netherlands,1,,1.0
 oveddan,united states,1,1.0,
 ovelindstrom,sweden,1,1.0,
+overide,india,6,4.0,2.0
 overridesh,panama,1,,1.0
 overtrue,china,5,4.0,1.0
 owenauch,united states,1,1.0,
@@ -10448,7 +10405,7 @@ ozberkctn,turkey,1,1.0,
 ozgyal,turkey,1,,1.0
 ozyx,united states,2,,2.0
 p-jackson,new zealand,1,,1.0
-p3x-robot,hungary,3,3.0,
+pR0Ps,canada,1,1.0,
 pablinos,united kingdom,1,1.0,
 pablolazaro,spain,1,1.0,
 pabloleone,spain,1,1.0,
@@ -10456,6 +10413,7 @@ pablolmiranda,brazil,1,,1.0
 pablomaurer,switzerland,5,5.0,
 pablomayobre,argentina,2,1.0,1.0
 pablorecio,united kingdom,6,4.0,2.0
+pacopablo,united states,1,1.0,
 paderijk,netherlands,1,,1.0
 pagrawl3,india,1,,1.0
 pahko,united states,1,1.0,
@@ -10469,7 +10427,7 @@ palexs,ukraine,2,2.0,
 palfrey,united kingdom,1,,1.0
 palimarrao,united states,2,1.0,1.0
 palimondo,slovakia,55,7.0,48.0
-palmerev,united states,1,1.0,
+palmerev,united states,4,4.0,
 palnabarun,india,1,,1.0
 pambot,united states,2,2.0,
 panakour,cyprus,2,2.0,
@@ -10554,7 +10512,6 @@ pavopax,united states,3,,3.0
 pawelwe,poland,1,1.0,
 pawurb,poland,1,1.0,
 payden,united states,1,1.0,
-paynoattn,united states,1,1.0,
 pbakondy,hungary,1,,1.0
 pbanavara,canada,2,1.0,1.0
 pberkes,switzerland,2,1.0,1.0
@@ -10577,8 +10534,6 @@ peat-psuwit,thailand,2,2.0,
 pecheriere,united states,1,1.0,
 pedpess,finland,1,1.0,
 pedro,united states,3,2.0,1.0
-pedro-mass,united states,1,1.0,
-pedroapy,spain,1,1.0,
 pedroborges,brazil,8,3.0,5.0
 pedroduartecosta,portugal,2,2.0,
 pedrofurtado,brazil,4,4.0,
@@ -10609,7 +10564,6 @@ person594,germany,2,,2.0
 pespantelis,greece,9,4.0,5.0
 pesterhazy,germany,1,1.0,
 pestrickland,united kingdom,1,,1.0
-petarblazevski,macedonia,1,1.0,
 petdance,united states,1,,1.0
 petebachant,united states,2,1.0,1.0
 peteboere,united kingdom,1,1.0,
@@ -10618,9 +10572,8 @@ petekp,united states,1,1.0,
 peter279k,taiwan,9,9.0,
 peter6888,philippines,1,1.0,
 peterbakonyi05,malta,1,1.0,
-peterblazejewicz,poland,3,1.0,2.0
+peterblazejewicz,poland,2,,2.0
 peterbraden,switzerland,1,1.0,
-peterbsmith2,united states,2,1.0,1.0
 peterchibunna,nigeria,1,1.0,
 petercoles,united kingdom,3,3.0,
 peterfarrell,united states,1,1.0,
@@ -10675,7 +10628,7 @@ phantummm,united states,1,,1.0
 phausamann,germany,3,,3.0
 phaza,norway,2,1.0,1.0
 phdowling,germany,1,1.0,
-phenomnomnominal,new zealand,3,2.0,1.0
+phenomnomnominal,new zealand,1,1.0,
 phil-davis,nepal,1,1.0,
 philbates35,united kingdom,2,1.0,1.0
 philharpoon,united kingdom,1,1.0,
@@ -10694,7 +10647,6 @@ philium,united states,2,,2.0
 philix,sweden,1,,1.0
 phill-tornroth,united states,1,1.0,
 phillfarrugia,united states,1,,1.0
-phillip-haydon,singapore,1,,1.0
 phillipj,norway,4,1.0,3.0
 philokey,china,1,,1.0
 philquinn,ireland,1,,1.0
@@ -10712,6 +10664,7 @@ phvu,vietnam,4,2.0,2.0
 phynalle,south korea,1,1.0,
 pianomania,taiwan,3,,3.0
 piascikj,united states,1,1.0,
+picapi,united kingdom,10,5.0,5.0
 pickhardt,united states,1,1.0,
 pierredup,south africa,1,,1.0
 pierreglaser,france,19,1.0,18.0
@@ -10741,7 +10694,7 @@ piq9117,united states,3,3.0,
 piraces,spain,2,,2.0
 piranha,ukraine,6,3.0,3.0
 piranna,spain,2,2.0,
-pirate,canada,3,2.0,1.0
+pirate,canada,5,4.0,1.0
 pirj,russia,1,1.0,
 pitiphong-p,thailand,4,1.0,3.0
 pivalig,moldova,1,1.0,
@@ -10768,7 +10721,6 @@ pkuczynski,germany,2,2.0,
 pl2476,china,1,1.0,
 plagree,france,1,,1.0
 plan8studios,united states,1,1.0,
-platosha,finland,1,1.0,
 plaxdan,united states,1,1.0,
 playadust,united states,1,,1.0
 pletcher,united states,3,3.0,
@@ -10811,10 +10763,11 @@ poppybank,united states,3,3.0,
 porglezomp,united states,3,,3.0
 pori,united states,2,2.0,
 porsager,denmark,1,1.0,
+porterjamesj,united states,2,2.0,
 poschi3,germany,1,1.0,
 positlabs,united states,1,1.0,
 postBG,south korea,1,,1.0
-potato4d,japan,2,,2.0
+potato4d,japan,1,,1.0
 potiuk,poland,1,1.0,
 pouete,switzerland,2,2.0,
 poulad,canada,1,1.0,
@@ -10835,20 +10788,24 @@ pr-yemibedu,united kingdom,3,1.0,2.0
 pra85,india,10,4.0,6.0
 prabakarviji,india,3,3.0,
 prabh-62,canada,1,1.0,
+prabhakar267,india,1,1.0,
+prabod,singapore,2,2.0,
+pradeepgangwar,india,4,3.0,1.0
 pradeepmurugesan,united kingdom,8,1.0,7.0
 prajjwol,united states,1,1.0,
-prakhar1989,united states,1,,1.0
 pranav656,netherlands,3,3.0,
 pranayaryal,united states,4,2.0,2.0
 pranaygp,united states,5,5.0,
 praneetrohida,india,1,1.0,
 pranjal-goswami,india,1,,1.0
+pranjaypatil,united states,1,1.0,
 pranshuchittora,india,1,1.0,
 prasadpilla,india,1,1.0,
 prashant-andani,india,4,4.0,
 prasook-jain,india,1,1.0,
 prasoon2211,india,1,1.0,
 pratapvardhan,india,1,,1.0
+prateekj117,india,2,2.0,
 prathamesh-sonpatki,india,7,4.0,3.0
 prathik,india,4,4.0,
 praths007,india,4,1.0,3.0
@@ -10856,8 +10813,8 @@ pravarmahajan,philippines,2,,2.0
 prayerslayer,germany,1,1.0,
 preethamvishy,united states,3,3.0,
 premasagar,portugal,1,1.0,
+prestonhansen,united states,10,10.0,
 prestontimmons,united states,34,32.0,2.0
-prestonvanloon,united states,3,2.0,1.0
 prezine,nigeria,1,1.0,
 pricco,uruguay,2,2.0,
 prigara,germany,1,1.0,
@@ -10890,8 +10847,8 @@ prsevero,brazil,1,1.0,
 prudvinit,pakistan,1,1.0,
 przemub,australia,1,,1.0
 ps0305,india,2,2.0,
-psantos10,portugal,1,,1.0
 psendyk,united states,1,,1.0
+psg0796,india,4,4.0,
 psibi,india,1,,1.0
 psingl,pakistan,2,2.0,
 pslacerda,brazil,2,1.0,1.0
@@ -10899,6 +10856,7 @@ psorianom,france,1,,1.0
 psteinb,germany,1,1.0,
 pstjohn,united states,3,2.0,1.0
 psy2k,greece,1,,1.0
+psycho-valker,india,1,1.0,
 ptakopysk,czechia,1,,1.0
 ptgamr,vietnam,1,1.0,
 pthrasher,united states,1,1.0,
@@ -10907,7 +10865,6 @@ ptitjes,france,3,2.0,1.0
 ptomasroos,sweden,10,10.0,
 ptrocki,poland,1,1.0,
 puf,united states,2,1.0,1.0
-puku0x,japan,1,,1.0
 pulkitjalan,united kingdom,2,,2.0
 pulkitmaloo,united states,1,,1.0
 puls,united states,2,2.0,
@@ -10926,6 +10883,7 @@ push0ebp,south korea,4,3.0,1.0
 putsjoe,united kingdom,1,,1.0
 pvnguyen,united states,1,,1.0
 pvorona,belarus,2,1.0,1.0
+pweaver,new zealand,18,16.0,2.0
 pwgerman,united states,1,,1.0
 pwmckenna,united states,4,3.0,1.0
 pwnall,united states,6,2.0,4.0
@@ -10938,7 +10896,6 @@ pyrtsa,finland,1,,1.0
 pzins,canada,1,,1.0
 pzrq,australia,4,4.0,
 qagren,france,3,,3.0
-qaisjp,united kingdom,1,,1.0
 qasim,canada,1,,1.0
 qbaty,china,1,1.0,
 qbig,singapore,15,9.0,6.0
@@ -10964,12 +10921,11 @@ quaeler,united states,3,,3.0
 quamilek,poland,1,1.0,
 quaspas,canada,1,1.0,
 quelledanielle,canada,1,,1.0
-quentint,france,1,1.0,
 queqichao,united states,2,,2.0
 quilligana,ireland,3,3.0,
 qwhex,hungary,1,,1.0
 qzmfranklin,china,1,1.0,
-r0fls,united states,1,1.0,
+r0fls,united states,4,4.0,
 r3plica,united kingdom,1,1.0,
 r4vi,united kingdom,1,1.0,
 raamana,canada,2,1.0,1.0
@@ -10977,7 +10933,6 @@ rabidaudio,united states,1,1.0,
 rach,united states,1,1.0,
 rachelmyers,united states,1,,1.0
 racklin,taiwan,7,4.0,3.0
-racso1aleman,costa rica,1,1.0,
 radazzouz,canada,1,1.0,
 radebrecht,germany,1,1.0,
 radeno,slovakia,5,5.0,
@@ -10989,7 +10944,6 @@ radotzki,israel,2,2.0,
 raelyard,united states,6,4.0,2.0
 rafaduran,spain,3,3.0,
 rafaeleyng,brazil,1,1.0,
-rafaelfernandesnet,canada,1,1.0,
 rafaellincoln,brazil,5,5.0,
 rafales,poland,2,1.0,1.0
 rafalp,poland,1,1.0,
@@ -11002,13 +10956,12 @@ raghuariga,united states,1,1.0,
 raghunat,united states,1,1.0,
 ragingdave,united states,3,2.0,1.0
 ragnerok,india,2,1.0,1.0
+ragsagar,united arab emirates,3,3.0,
 rahatarmanahmed,united states,3,2.0,1.0
 rahiel,netherlands,1,,1.0
 rahul-malik,united states,1,,1.0
 rahul003,united states,2,2.0,
 rahulbakshee,india,1,1.0,
-rahulbhooteshwar,india,1,,1.0
-rahuljayaraman,india,1,1.0,
 rahuljiresal,united states,3,3.0,
 raiderrobert,united states,3,3.0,
 railto,united states,2,2.0,
@@ -11054,13 +11007,11 @@ ramon-wsg,netherlands,2,1.0,1.0
 ramonornela,brazil,33,15.0,18.0
 ramonsaraiva,brazil,1,,1.0
 ramsey,united states,7,6.0,1.0
-ramsrib,united states,1,,1.0
 ramuta,slovenia,1,1.0,
 ramwin,china,1,1.0,
 randallpittman,united states,2,,2.0
 randallsquared,united states,1,,1.0
 rande,france,1,1.0,
-randombk,united states,1,1.0,
 randomite,united states,1,1.0,
 randylien,taiwan,1,1.0,
 ranjithnori,pakistan,1,1.0,
@@ -11073,7 +11024,6 @@ raphaelkross,brazil,1,1.0,
 raphaelpor,brazil,1,1.0,
 raphamorim,brazil,23,7.0,16.0
 raratiru,greece,3,2.0,1.0
-rarmatei,united kingdom,1,,1.0
 rasbt,united states,22,1.0,21.0
 rashmangi,russia,1,1.0,
 raskr,japan,1,,1.0
@@ -11112,10 +11062,11 @@ rcchen,united states,1,1.0,
 rcjsuen,canada,3,,3.0
 rcmdnk,japan,2,2.0,
 rcoup,united kingdom,2,1.0,1.0
+rcsm,brazil,1,1.0,
 rcullito,united states,2,1.0,1.0
 rdb,netherlands,1,1.0,
 rdixonbhw,united states,1,1.0,
-rdlabo,japan,11,8.0,3.0
+rdlabo,japan,10,8.0,2.0
 rdonnelly,united states,1,1.0,
 rdosanjh,united kingdom,1,1.0,
 rdrubis,philippines,1,1.0,
@@ -11143,7 +11094,6 @@ reedloden,united states,2,1.0,1.0
 reedyrm,united states,1,1.0,
 reekris,sweden,1,1.0,
 reficul31,india,5,3.0,2.0
-reflexdemon,united states,1,1.0,
 reflog,israel,1,1.0,
 refluster,united states,1,1.0,
 regexident,germany,2,1.0,1.0
@@ -11203,7 +11153,6 @@ reyalpsirc,portugal,1,1.0,
 reynoldsnlp,united states,1,1.0,
 reyronald,dominican republic,1,,1.0
 reza-ebrahimi,turkey,1,1.0,
-rezonant,united states,1,,1.0
 rf-,united states,1,,1.0
 rfkm,japan,1,1.0,
 rfleschenberg,germany,6,4.0,2.0
@@ -11228,6 +11177,7 @@ rhwood,united states,1,,1.0
 rhyzx,china,6,,6.0
 ricard-pons,japan,1,,1.0
 ricardosasilva,brazil,1,1.0,
+ricardoteixeiraduarte,portugal,1,1.0,
 richardcornish,united states,1,,1.0
 richardfickling,united states,2,2.0,
 richardhyatt,canada,1,1.0,
@@ -11242,7 +11192,6 @@ richardsun-voyager,singapore,1,1.0,
 richardtin,taiwan,1,1.0,
 richardxyx,germany,1,,1.0
 richford,united states,3,1.0,2.0
-richie,united kingdom,1,1.0,
 richiethomas,united states,6,3.0,3.0
 richizo,brazil,1,1.0,
 richthegeek,united kingdom,2,2.0,
@@ -11264,13 +11213,13 @@ riophae,china,1,1.0,
 rise2semi,ukraine,1,1.0,
 risenforces,russia,1,,1.0
 rish-16,singapore,1,1.0,
+rishig,united states,353,260.0,93.0
 rishikksh20,japan,14,4.0,10.0
 rishimukherjee,india,1,1.0,
 riso,italy,1,1.0,
 ristomatti,finland,1,,1.0
 rittme,singapore,1,,1.0
 ritwickdey,india,1,,1.0
-ritz078,india,1,1.0,
 rivajunior,brazil,1,1.0,
 rivenhk,hong kong,1,,1.0
 rivertam,united states,1,,1.0
@@ -11322,18 +11271,16 @@ rnarkk,japan,1,1.0,
 rnrn,russia,1,1.0,
 ro-savage,new zealand,2,2.0,
 ro5k0,netherlands,1,1.0,
-rob-balfre,australia,2,2.0,
 robb-brown,canada,1,1.0,
 robbanl,sweden,2,2.0,
 robbertbrak,netherlands,1,1.0,
 robbiemccorkell,united kingdom,1,1.0,
 robbyrice,united states,3,3.0,
 robclancy,australia,1,1.0,
-robert-claypool,united states,1,1.0,
 robert-j-engdahl,denmark,1,1.0,
 robert780612,taiwan,2,1.0,1.0
 robertcoopercode,canada,1,1.0,
-roberthoenig,new zealand,1,1.0,
+roberthoenig,new zealand,149,98.0,51.0
 robertjpayne,new zealand,4,3.0,1.0
 robertknight,united kingdom,3,1.0,2.0
 robertlayton,australia,23,16.0,7.0
@@ -11359,6 +11306,7 @@ robmeijer,united kingdom,2,,2.0
 robobenklein,united states,1,1.0,
 robocoder,canada,1,,1.0
 roboslone,russia,1,,1.0
+robot-dreams,united states,28,24.0,4.0
 robtimp,united states,1,,1.0
 robvdl,new zealand,1,1.0,
 rochestb,united states,1,,1.0
@@ -11374,15 +11322,15 @@ rodolfo2488,united states,1,1.0,
 rodrigob,switzerland,1,1.0,
 rodrigobdz,singapore,1,,1.0
 rodrigooler,brazil,2,2.0,
-rodrigopandini,brazil,1,1.0,
 rodrigopmatias,brazil,2,2.0,
-rodyhaddad,lebanon,4,3.0,1.0
+rodyhaddad,lebanon,2,1.0,1.0
 rodzevich,russia,2,2.0,
 roebuk,argentina,1,1.0,
 roffel,netherlands,1,,1.0
 rogalski,poland,2,,2.0
 rogchap,australia,1,1.0,
 rogeliog,united states,1,1.0,
+rogeredthat,pakistan,3,3.0,
 rogergzou,united states,4,,4.0
 rogerin,brazil,1,1.0,
 rogeriopradoj,brazil,14,7.0,7.0
@@ -11392,6 +11340,7 @@ rohan-varma,united states,2,,2.0
 rohannair,canada,1,,1.0
 rohanp,united states,1,1.0,
 rohith,india,4,2.0,2.0
+rohithasrk,pakistan,2,1.0,1.0
 rohitverma007,canada,1,,1.0
 rohmanhm,indonesia,5,3.0,2.0
 roine,france,1,1.0,
@@ -11414,6 +11363,7 @@ romulo1984,brazil,1,,1.0
 romulocintra,portugal,3,1.0,2.0
 romulocollopy,brazil,2,2.0,
 romulorosa,germany,1,,1.0
+ron-s,united states,2,2.0,
 ronal2do,netherlands,4,4.0,
 ronalddas,india,1,1.0,
 ronaldheft,united states,1,1.0,
@@ -11430,6 +11380,7 @@ rops,united kingdom,1,1.0,
 roques,switzerland,1,,1.0
 rory-pickering,united kingdom,1,1.0,
 roryqueue,united states,1,,1.0
+rosehosting,united states,1,1.0,
 roseman,malta,2,,2.0
 rosenfeld,brazil,1,1.0,
 roshandelpoor,iran,2,2.0,
@@ -11437,6 +11388,7 @@ rosscdh,germany,1,1.0,
 rossholdway,united kingdom,2,1.0,1.0
 rosslaird,canada,1,1.0,
 rossmartin,united states,1,1.0,
+rossoskull,india,1,1.0,
 rosston,united states,1,,1.0
 rosun82,united states,1,1.0,
 rotemmiz,israel,2,2.0,
@@ -11452,7 +11404,7 @@ royalbhati,india,1,1.0,
 royallthefourth,united states,1,,1.0
 royduin,netherlands,1,1.0,
 royge,philippines,1,1.0,
-royling,china,3,1.0,2.0
+royling,china,2,1.0,1.0
 royopa,brazil,33,32.0,1.0
 roytang,philippines,1,,1.0
 royxue,united states,1,,1.0
@@ -11472,12 +11424,12 @@ rragundez,netherlands,5,4.0,1.0
 rralian,united states,1,,1.0
 rrehbein,united states,2,2.0,
 rreinold,united states,1,,1.0
+rrhythmsharma,india,5,5.0,
 rricard,united states,8,3.0,5.0
 rrkarim,russia,3,1.0,2.0
 rrrene,germany,1,1.0,
 rrricharrrd,japan,1,1.0,
 rrylee,china,1,1.0,
-rsarky,india,3,1.0,2.0
 rscnt,el salvador,1,1.0,
 rsdel2007,india,1,1.0,
 rseemann,germany,1,1.0,
@@ -11515,14 +11467,14 @@ rtpg,japan,2,,2.0
 rtreffer,germany,1,,1.0
 rubenv,belgium,1,1.0,
 rubenvereecken,united kingdom,3,1.0,2.0
-ruchit2801,india,1,,1.0
+ruchit2801,india,13,10.0,3.0
 rudSarkar,bangladesh,1,1.0,
 rudi-c,united states,1,,1.0
 rudolfolah,canada,1,1.0,
 rudolphfroger,netherlands,1,1.0,
 rueberger,united states,1,1.0,
 rueckstiess,australia,3,3.0,
-ruffiem,switzerland,2,1.0,1.0
+ruffiem,switzerland,1,1.0,
 ruhul0,bangladesh,3,3.0,
 ruiaraujo,germany,2,1.0,1.0
 runar-rkmedia,norway,1,1.0,
@@ -11542,11 +11494,11 @@ rustyconover,united states,1,1.0,
 ruurdadema,netherlands,1,1.0,
 ruxandraburtica,romania,1,1.0,
 rvanbaalen,cura袯,5,3.0,2.0
+rvantonder,united states,1,1.0,
 rvavruch,south africa,1,1.0,
 rwanyoike,kenya,1,,1.0
 rweas,united kingdom,2,2.0,
 rwillert,germany,1,1.0,
-rwoloszyn,poland,1,,1.0
 rwoodnz,cyprus,2,,2.0
 rwwarren,united states,1,1.0,
 ry,united states,3,,3.0
@@ -11554,13 +11506,12 @@ ryan0822,south korea,2,2.0,
 ryanabrams,united states,3,3.0,
 ryanahall,united states,2,2.0,
 ryanall,united kingdom,2,2.0,
-ryanclark,ireland,3,1.0,2.0
+ryanclark,ireland,2,,2.0
 ryanclarke,united states,1,,1.0
 ryanflorence,united states,4,3.0,1.0
 ryangallen,united states,10,10.0,
 ryangomba,united states,19,19.0,
 ryangreenberg,united states,1,,1.0
-ryani33,united states,2,1.0,1.0
 ryanisnan,canada,1,,1.0
 ryankask,united kingdom,8,7.0,1.0
 ryanleary,united states,1,1.0,
@@ -11570,6 +11521,7 @@ ryanpeach,united states,1,1.0,
 ryanrhee,united states,1,,1.0
 ryanseamons,united states,1,,1.0
 ryanseddon,australia,2,1.0,1.0
+ryansnowboarder,united states,7,7.0,
 ryantimjohn,united states,1,,1.0
 ryanwinchester,canada,1,,1.0
 ryanwolhuter,south africa,1,1.0,
@@ -11588,6 +11540,7 @@ s-gbz,germany,3,3.0,
 s-hfarooq,united states,1,,1.0
 s-weigand,germany,1,,1.0
 s0b0lev,kyrgyzstan,1,1.0,
+s0nskar,india,2,2.0,
 s4uron,germany,2,2.0,
 saadq,united states,1,,1.0
 saagarjha,united states,1,,1.0
@@ -11605,6 +11558,8 @@ sadiqful,nigeria,1,1.0,
 saevarb,denmark,1,1.0,
 saevarom,iceland,2,1.0,1.0
 safu9,japan,1,,1.0
+safwanrahman,bangladesh,1,1.0,
+sagar-kalra,india,1,1.0,
 sagarkar10,india,1,1.0,
 saghul,netherlands,1,1.0,
 saginadir,israel,1,,1.0
@@ -11614,7 +11569,8 @@ sagnibak,united states,1,,1.0
 sahanh,sri lanka,3,3.0,
 sahat,united states,3,1.0,2.0
 sahilbadyal,india,2,1.0,1.0
-sahildua2305,netherlands,1,,1.0
+sahildua2305,netherlands,2,1.0,1.0
+sahiljajodia01,india,1,1.0,
 saidbakr,egypt,1,1.0,
 saifelse,united states,2,1.0,1.0
 saighost,china,3,2.0,1.0
@@ -11650,6 +11606,7 @@ sambev,united states,1,,1.0
 sambrightman,united kingdom,1,1.0,
 samcorcos,united states,1,1.0,
 samedhaa,united states,1,1.0,
+sameerchoubey,india,12,7.0,5.0
 sameertulshyan,united states,1,1.0,
 samelhusseini,united states,2,,2.0
 samermurad,germany,1,1.0,
@@ -11669,6 +11626,7 @@ sampsonli,china,1,1.0,
 samselikoff,united states,2,,2.0
 samuelcolvin,united kingdom,2,2.0,
 samueljamesbell,new zealand,1,,1.0
+samueljsb,united kingdom,2,2.0,
 samuelkraft,sweden,1,1.0,
 samuelmullin,canada,2,2.0,
 samuelsonbrito,brazil,3,3.0,
@@ -11680,6 +11638,7 @@ samwaterbury,united states,4,,4.0
 sanbornsen,india,1,1.0,
 sandangel,japan,2,2.0,
 sandeep1995,india,1,1.0,
+sandeepsajan0,india,1,1.0,
 sandeepsh3090,india,1,1.0,
 sandersn,united states,1,,1.0
 sandipmgiri,india,9,2.0,7.0
@@ -11694,13 +11653,12 @@ sanketh95,pakistan,1,1.0,
 sanketsaurav,united states,1,,1.0
 sankhaKarunasekara,sri lanka,1,,1.0
 sanran4u,india,1,1.0,
-sanspace,australia,2,2.0,
 santagada,netherlands,1,1.0,
 santiagobasulto,argentina,2,1.0,1.0
 santialbo,spain,1,1.0,
 santiph,germany,2,1.0,1.0
 santoshbanda,united states,3,3.0,
-santoshyadav198613,india,19,17.0,2.0
+santoshyadav198613,india,18,17.0,1.0
 santtu,finland,1,1.0,
 sanxiyn,south korea,2,,2.0
 saoirse-zee,united states,1,,1.0
@@ -11709,16 +11667,17 @@ sapics,japan,1,,1.0
 sappharx,united states,1,,1.0
 saqibns,india,1,,1.0
 saracmert,turkey,1,1.0,
+sarahcstringer,united states,24,21.0,3.0
 sarahedkins,united states,1,,1.0
 sarahmaddox,australia,2,,2.0
 saranshmanu,india,2,2.0,
+sarawallebo,sweden,1,1.0,
 sarbot,germany,2,1.0,1.0
-sarbull,romania,2,1.0,1.0
 sarciszewski,united states,6,6.0,
 sardemff7,france,1,1.0,
 sarkartanzil,bangladesh,1,1.0,
 sarthakmeh03,india,6,6.0,
-sarunint,thailand,27,18.0,9.0
+sarunint,thailand,14,14.0,
 sarvaje,united states,1,1.0,
 saschpe,germany,6,6.0,
 sasezaki,japan,1,1.0,
@@ -11738,8 +11697,10 @@ sauercrowd,united kingdom,1,,1.0
 saul,united kingdom,1,,1.0
 sauln,united states,1,,1.0
 saurabhg476,india,1,,1.0
+sauravpratihar,india,2,2.0,
 save-buffer,united states,4,2.0,2.0
 savelichalex,russia,1,1.0,
+sawant,germany,1,1.0,
 sayanchowdhury,india,2,1.0,1.0
 sayhiben,united states,1,,1.0
 sb2nov,united states,36,30.0,6.0
@@ -11770,20 +11731,18 @@ schmitch,germany,6,5.0,1.0
 schmitzt3,united states,1,,1.0
 schmuell,united states,3,3.0,
 schneems,united states,1,,1.0
+scholaronroad,india,16,12.0,4.0
 scholarsmate,liberia,1,1.0,
 schtr4jh,slovenia,1,,1.0
-schuchard,united states,1,1.0,
 schwolf,germany,1,1.0,
 scihacker,china,1,1.0,
 sciunto,france,3,1.0,2.0
 sclausen,germany,1,,1.0
 scmsystm,indonesia,1,,1.0
-scmx,sweden,1,,1.0
 scooterman751,canada,1,1.0,
 scop,finland,28,6.0,22.0
 scorphus,germany,2,,2.0
 scotchka,united states,3,1.0,2.0
-scott-phillips-sp,united states,1,1.0,
 scottamain,united states,1,,1.0
 scottburch,canada,1,,1.0
 scottcheng,united states,1,1.0,
@@ -11795,13 +11754,13 @@ scottdomes,canada,1,,1.0
 scottfits,united states,1,,1.0
 scottfoster,united states,1,1.0,
 scottgigante,united states,2,,2.0
+scottilee,united states,3,3.0,
 scottmmjackson,united states,1,1.0,
 scottsexton,united states,1,1.0,
 scottymcraig,united states,3,1.0,2.0
 scripterkaran,india,1,1.0,
 scrubmx,mexico,11,8.0,3.0
 scrx,ireland,1,1.0,
-scttcper,united states,4,2.0,2.0
 scttl,united states,1,,1.0
 scttnlsn,united states,1,1.0,
 scv119,united states,4,,4.0
@@ -11828,7 +11787,6 @@ sean9keenan,united states,1,1.0,
 seanbrant,united states,1,1.0,
 seanfagan,united states,1,,1.0
 seangransee,united states,1,,1.0
-seangwright,united states,1,,1.0
 seano314,united states,1,,1.0
 seanpavlov,sweden,1,1.0,
 seanpoulter,canada,1,,1.0
@@ -11841,7 +11799,6 @@ sebasmagri,italy,3,3.0,
 sebastian-schlecht,germany,1,,1.0
 sebastianbergmann,germany,1,1.0,
 sebastiandedeyne,belgium,2,,2.0
-sebastianhaeni,switzerland,1,,1.0
 sebastianseilund,united states,1,1.0,
 sebastieno,france,2,2.0,
 sebbarg,denmark,1,1.0,
@@ -11879,7 +11836,7 @@ selcukitmis,turkey,1,1.0,
 selik,united states,4,1.0,3.0
 seliver,portugal,1,1.0,
 senden9,austria,1,,1.0
-sendilkumarn,netherlands,2,,2.0
+sendilkumarn,netherlands,1,,1.0
 senko,croatia,4,2.0,2.0
 senolakkas,turkey,1,1.0,
 senthilcodr,india,1,,1.0
@@ -11910,7 +11867,6 @@ sergiopasra,spain,3,1.0,2.0
 sergioramos,portugal,1,1.0,
 sergulaydore,united states,5,,5.0
 serhalp,united states,2,2.0,
-serhiisol,germany,1,,1.0
 sericaia,portugal,1,,1.0
 serima,japan,3,1.0,2.0
 seronal,united states,2,2.0,
@@ -11941,10 +11897,11 @@ sguermond,united states,1,,1.0
 sguillia,france,1,1.0,
 sgzsh269,united states,1,1.0,
 shaansharma,united states,1,1.0,
+shaddu,united kingdom,1,1.0,
 shadowm2,iran,2,2.0,
 shafreeck,china,3,1.0,2.0
 shagunsodhani,canada,1,,1.0
-shahata,israel,3,3.0,
+shahata,israel,2,2.0,
 shahen94,armenia,1,1.0,
 shahkeyur,canada,1,,1.0
 shahmirn,united states,1,,1.0
@@ -11976,7 +11933,7 @@ sharnik,germany,5,5.0,
 shashvatshahi1998,india,21,17.0,4.0
 shastakr,south korea,1,,1.0
 shaundon,united kingdom,2,2.0,
-shaungrady,united states,2,2.0,
+shaungrady,united states,1,1.0,
 shauns,united kingdom,1,1.0,
 shawnce,mexico,24,8.0,16.0
 shawnhuang2015,united states,3,3.0,
@@ -11987,6 +11944,7 @@ shbht,india,1,1.0,
 sheerun,poland,1,,1.0
 shehi,germany,4,4.0,
 sheikalthaf,india,2,2.0,
+shekhirin,russia,1,1.0,
 shekkizh,united states,1,,1.0
 sheldonbaker,canada,1,,1.0
 sheldonbarnes,united states,1,1.0,
@@ -12013,6 +11971,7 @@ shindakioku,ukraine,1,1.0,
 shingt,japan,1,1.0,
 shinnn,japan,4,1.0,3.0
 shinok01,philippines,1,1.0,
+shinytang6,china,1,1.0,
 shireenrao,united states,3,1.0,2.0
 shirshak55,nepal,1,,1.0
 shishaochen,china,2,1.0,1.0
@@ -12026,9 +11985,8 @@ shivanand217,india,1,1.0,
 shivbaijal,canada,1,,1.0
 shixu,germany,1,1.0,
 shizengzhou,china,3,2.0,1.0
-shlangus,poland,1,,1.0
 shlee322,south korea,1,1.0,
-shlomiassaf,israel,4,4.0,
+shlomiassaf,israel,3,3.0,
 shlomiatar,israel,1,1.0,
 shlomif,israel,1,,1.0
 shmooth,united states,1,1.0,
@@ -12042,13 +12000,13 @@ shortdiv,united states,1,,1.0
 shostelet,france,1,1.0,
 shotat,japan,3,,3.0
 shouc,united states,1,1.0,
-shouichi,japan,1,1.0,
 shouze,france,1,1.0,
 shovanmandal,pakistan,1,1.0,
 shprink,france,4,1.0,3.0
 shravankumar147,pakistan,2,2.0,
 shredding,germany,1,1.0,
 shreeshbhat,united states,1,,1.0
+shreyanshdwivedi,india,8,5.0,3.0
 shrft,japan,3,3.0,
 shrimpwagon,united states,1,1.0,
 shrugs,united states,2,2.0,
@@ -12063,9 +12021,10 @@ shubheksha,united kingdom,2,,2.0
 shuboc,taiwan,2,2.0,
 shuhei,germany,3,2.0,1.0
 shulard,france,1,1.0,
+shumbashi,libya,3,3.0,
 shunwen,taiwan,1,1.0,
 shwetasrivastava,india,1,1.0,
-sibiraj-s,india,7,5.0,2.0
+sibiraj-s,india,3,3.0,
 sicarrots,poland,4,3.0,1.0
 sicsol,canada,2,2.0,
 sid-kap,united states,2,,2.0
@@ -12096,7 +12055,6 @@ silvestrijonathan,united states,1,,1.0
 sim1234,poland,1,1.0,
 simPod,czechia,1,1.0,
 simaodeveloper,brazil,1,1.0,
-sime,germany,1,1.0,
 simenbrekken,norway,1,1.0,
 simeonkr,canada,1,,1.0
 simi,czechia,1,1.0,
@@ -12117,12 +12075,14 @@ simonwhitaker,united kingdom,2,2.0,
 simpulton,united states,2,2.0,
 simsicon,china,1,,1.0
 sindbach,australia,3,3.0,
-sinedied,france,4,3.0,1.0
+sinedied,france,2,2.0,
 sineld,turkey,5,3.0,2.0
 sinevar,poland,1,1.0,
+singh1114,india,3,3.0,
 singingwolfboy,netherlands,2,2.0,
 sinhrks,japan,2,,2.0
 sinkcup,china,3,3.0,
+sinwar,india,38,29.0,9.0
 sioanis,united states,1,1.0,
 sir-sigurd,russia,47,11.0,36.0
 sirctseb,united states,1,1.0,
@@ -12130,7 +12090,7 @@ sirlancelot,united states,1,,1.0
 sirlantis,germany,2,1.0,1.0
 sirmmo,italy,1,1.0,
 sirn,thailand,1,,1.0
-sis0k0,bulgaria,4,2.0,2.0
+sis0k0,bulgaria,3,2.0,1.0
 siturra,chile,1,1.0,
 siuying,hong kong,1,1.0,
 sivaprasadreddynooli,united states,1,1.0,
@@ -12141,7 +12101,7 @@ sjaensch,germany,1,1.0,
 sjberry,united states,1,1.0,
 sjelin,united states,4,1.0,3.0
 sjsyrek,germany,2,1.0,1.0
-sjtrimble,united states,93,28.0,65.0
+sjtrimble,united states,91,28.0,63.0
 sjtrny,australia,4,2.0,2.0
 skahack,japan,1,,1.0
 skardach,poland,2,1.0,1.0
@@ -12204,10 +12164,10 @@ smikes,canada,1,,1.0
 smilu97,south korea,1,,1.0
 smistad,norway,5,,5.0
 smitshilu,united states,6,3.0,3.0
-smnbbrv,germany,3,2.0,1.0
+smnbbrv,germany,1,1.0,
 smockle,liberia,1,,1.0
 smoitra87,united states,1,1.0,
-smoke,bulgaria,3,2.0,1.0
+smoke,bulgaria,1,1.0,
 smolinari,germany,1,1.0,
 smoogipoo,japan,1,1.0,
 smopucilowski,australia,2,1.0,1.0
@@ -12220,6 +12180,7 @@ snatchev,united states,1,,1.0
 snehalbaghel,india,1,1.0,
 snoble,canada,2,2.0,
 snood1205,united states,2,2.0,
+snowe2010,united states,2,2.0,
 snsn,south korea,1,1.0,
 snyff,australia,1,1.0,
 socram8888,venezuela,1,1.0,
@@ -12229,7 +12190,6 @@ sohamt09,india,1,1.0,
 sohnishi,japan,10,3.0,7.0
 soitif,china,1,1.0,
 sokki,germany,1,1.0,
-sokolovstas,russia,1,1.0,
 solderjs,united states,1,1.0,
 soleo,united states,1,1.0,
 solkaz,germany,1,1.0,
@@ -12258,11 +12218,13 @@ sotojuan,united states,1,,1.0
 sotozaki,japan,1,,1.0
 sottar,japan,1,,1.0
 sotte,germany,2,,2.0
+soudy,netherlands,1,1.0,
 soufyanekaddouri,netherlands,1,1.0,
 soujiro86,italy,1,,1.0
 soullivaneuh,france,3,3.0,
 souly1,israel,1,1.0,
 soumak77,united states,8,4.0,4.0
+souravbadami,india,3,3.0,
 souvikbasu,india,1,1.0,
 soyzamudio,united states,4,3.0,1.0
 sp1rs,india,4,1.0,3.0
@@ -12299,7 +12261,6 @@ spyric,russia,2,1.0,1.0
 spywhere,thailand,1,,1.0
 squgeim,nepal,1,,1.0
 squidsoup,new zealand,2,1.0,1.0
-sravikiran,pakistan,1,1.0,
 srcmake,united states,2,,2.0
 srcole,united states,1,,1.0
 sreckosmodis,slovenia,3,3.0,
@@ -12317,6 +12278,7 @@ sriranganathan,india,1,1.0,
 srittau,germany,5,,5.0
 srivatsan-ramesh,india,5,1.0,4.0
 srmklive,pakistan,1,1.0,
+sroy8091,india,3,3.0,
 srph,philippines,1,,1.0
 srvanrell,argentina,2,1.0,1.0
 ss18,netherlands,6,3.0,3.0
@@ -12354,6 +12316,7 @@ stam,netherlands,2,2.0,
 standy66,russia,1,,1.0
 stanfieldr,united states,1,,1.0
 stanparker,united states,1,1.0,
+stanzheng,united states,3,3.0,
 starkwang,china,1,1.0,
 start,united states,1,1.0,
 staticfloat,united states,3,,3.0
@@ -12425,12 +12388,12 @@ stewx,canada,1,1.0,
 stianjensen,norway,1,,1.0
 stianleroux,south africa,2,2.0,
 stigi,germany,1,1.0,
+stijlist,united states,1,1.0,
 stinoga,united states,1,1.0,
 stionic,vietnam,1,1.0,
 stkrp,russia,2,1.0,1.0
 stmoreau,united kingdom,1,1.0,
 stochris,romania,1,1.0,
-stockmind,italy,1,,1.0
 stockulus,germany,1,1.0,
 stodorovic,serbia,1,1.0,
 stoksc,united states,2,1.0,1.0
@@ -12445,6 +12408,7 @@ storymode7,india,3,,3.0
 stowball,australia,1,,1.0
 stoyan,united states,2,,2.0
 stpdenis,israel,1,1.0,
+str610,dominican republic,2,1.0,1.0
 stramel,united states,1,,1.0
 strangemonad,united states,1,1.0,
 stranger26,malaysia,1,1.0,
@@ -12485,11 +12449,11 @@ sudomann,united states,1,1.0,
 suffrage,russia,1,1.0,
 sugarshin,japan,1,,1.0
 sugyan,japan,3,,3.0
-suhasdeshpande,united states,2,,2.0
+suhasdeshpande,united states,1,,1.0
 suhearsawho,united states,2,,2.0
 suiyuan2009,japan,15,3.0,12.0
+sumanthvrao,india,7,6.0,1.0
 sumbach,united states,1,1.0,
-sumitarora,canada,58,14.0,44.0
 sumitbinnani,united states,1,1.0,
 sumitpathak92-zz,india,1,1.0,
 sumityadav,india,1,1.0,
@@ -12504,6 +12468,7 @@ sunny,france,1,,1.0
 sunrize531,australia,1,1.0,
 sunshineo,united states,2,2.0,
 sunweiyang,united states,1,1.0,
+sup95,india,4,4.0,
 superDross,united kingdom,1,1.0,
 supergoat,united kingdom,1,1.0,
 superhighfives,united kingdom,1,1.0,
@@ -12516,7 +12481,6 @@ surajpoddar16,india,1,1.0,
 sushabhardy,india,1,1.0,
 suside,poland,1,1.0,
 suvhradipghosh07,india,1,1.0,
-svallory,brazil,1,1.0,
 svanharmelen,netherlands,14,4.0,10.0
 svanimpe,belgium,1,,1.0
 svartalf,united states,1,1.0,
@@ -12539,6 +12503,7 @@ swaroopsm,germany,1,,1.0
 swashcap,united states,3,3.0,
 sweep3092,japan,1,1.0,
 sweggersen,norway,2,2.0,
+swekshajha12,india,3,3.0,
 swestwood,united states,2,1.0,1.0
 swissmanu,switzerland,1,1.0,
 swook,switzerland,1,1.0,
@@ -12631,14 +12596,12 @@ tano297,germany,1,,1.0
 taoufik07,france,2,1.0,1.0
 tapakund,india,1,1.0,
 tapanprakasht,india,1,,1.0
-tapas4java,singapore,3,1.0,2.0
 tapos007,bangladesh,1,1.0,
 tapthaker,india,3,,3.0
-taranjeet,india,2,1.0,1.0
+taranjeet,india,24,23.0,1.0
 taras-sereda,ukraine,1,,1.0
 tarcisiojr,brazil,1,1.0,
 tarcisiozf,brazil,1,1.0,
-tarekis,austria,1,,1.0
 targeter21,united states,2,2.0,
 tarioch,switzerland,1,1.0,
 tarjei,norway,1,1.0,
@@ -12685,7 +12648,6 @@ tcrammond,united kingdom,1,1.0,
 tcsorrel,france,2,2.0,
 tcyrus,united states,1,,1.0
 tdekoning,united states,1,1.0,
-tdesmet,belgium,1,,1.0
 tdhopper,united states,4,1.0,3.0
 tdimeco,france,1,,1.0
 tdsmith,canada,17,13.0,4.0
@@ -12707,11 +12669,11 @@ tegon,brazil,2,2.0,
 tehp,canada,1,1.0,
 tejesh95,pakistan,1,,1.0
 tejitak,thailand,2,,2.0
+tejpochiraju,india,1,1.0,
 teleaziz,united states,3,,3.0
 telic,malta,1,1.0,
 templth,france,7,7.0,
 tendant,united states,2,1.0,1.0
-tengis,australia,1,1.0,
 tenodi,croatia,4,4.0,
 teohhanhui,france,1,1.0,
 terabaud,germany,1,,1.0
@@ -12724,7 +12686,6 @@ terrycojones,new zealand,1,,1.0
 terryky,japan,3,2.0,1.0
 terrysahaidak,ukraine,1,1.0,
 terrytangyuan,united states,1,1.0,
-texel,united states,2,1.0,1.0
 textbook,united kingdom,4,4.0,
 tfolkman,united states,1,,1.0
 tfriem,germany,1,,1.0
@@ -12740,6 +12701,7 @@ th317erd,united states,1,1.0,
 thaggie,malta,1,1.0,
 thagikura,japan,1,1.0,
 thaiat,israel,4,4.0,
+thallada,new zealand,2,2.0,
 than,united states,1,1.0,
 thanhpd,vietnam,2,2.0,
 thanhrossi,vietnam,1,1.0,
@@ -12756,6 +12718,7 @@ theJohnnyBrown,united states,1,1.0,
 theKashey,australia,2,1.0,1.0
 thePsguy,united states,1,1.0,
 theavey,united states,1,,1.0
+thebaron,united states,3,3.0,
 theblixguy,united kingdom,55,2.0,53.0
 thecalvinchan,united states,3,3.0,
 thechargedneutron,india,14,2.0,12.0
@@ -12766,16 +12729,16 @@ thedch,united states,2,1.0,1.0
 thedrow,israel,5,4.0,1.0
 theely,switzerland,1,,1.0
 theflofly,france,8,1.0,7.0
-thehashrocket,united states,2,2.0,
 thehesiod,philippines,1,,1.0
 thejchap,united states,1,1.0,
 thejessma,united states,1,1.0,
 thejonan,bulgaria,1,1.0,
 theju,india,1,1.0,
 thekevinbrown,australia,2,2.0,
-thekiba,russia,2,1.0,1.0
+thekiba,russia,1,1.0,
 thekid,germany,6,6.0,
 thelinuxlich,brazil,1,1.0,
+thelittlewonder,india,2,1.0,1.0
 themasch,germany,1,1.0,
 themastersoda,lithuania,1,1.0,
 themightyoarfish,germany,4,2.0,2.0
@@ -12790,6 +12753,7 @@ thepelkus,united states,1,,1.0
 therealbnut,australia,7,2.0,5.0
 therealmarv,cyprus,1,1.0,
 therealpecus,italy,1,,1.0
+theredcap,nepal,1,1.0,
 therefromhere,new zealand,1,1.0,
 therickli,china,1,1.0,
 therustydev,ghana,1,1.0,
@@ -12822,7 +12786,7 @@ thnee,sweden,1,1.0,
 thngkaiyuan,singapore,1,1.0,
 thoamsy,china,1,1.0,
 thoas,france,1,1.0,
-thomasboyt,united states,3,2.0,1.0
+thomasboyt,united states,4,3.0,1.0
 thomasjpfan,united states,100,16.0,84.0
 thomasleplus,united states,1,1.0,
 thomasmichaelwallace,united kingdom,1,,1.0
@@ -12860,11 +12824,10 @@ tiagoantao,united states,1,1.0,
 tiagofernandez,spain,1,,1.0
 tiagofrepereira2012,switzerland,2,,2.0
 tiagomartinho,spain,2,1.0,1.0
-tiaguinho,portugal,6,3.0,3.0
+tiaguinho,portugal,2,2.0,
 tian-yi,ireland,5,4.0,1.0
 tiangolo,united arab emirates,4,2.0,2.0
 tianhe1986,china,2,1.0,1.0
-tianhuil,united states,1,1.0,
 tianyong90,china,1,1.0,
 tich,germany,3,,3.0
 ticky,australia,1,1.0,
@@ -12883,6 +12846,7 @@ tillsanders,germany,4,3.0,1.0
 tim-blair,united states,2,2.0,
 tim-schilling,united states,3,1.0,2.0
 timacdonald,australia,2,1.0,1.0
+timapril,united states,1,1.0,
 timb07,australia,3,2.0,1.0
 timbenniks,france,1,,1.0
 timbicker,germany,1,,1.0
@@ -12898,7 +12862,6 @@ timheap,australia,4,3.0,1.0
 timhoffm,germany,18,,18.0
 timip,hong kong,1,1.0,
 timkindberg,united states,1,1.0,
-timmyg,united states,1,,1.0
 timmywil,united states,1,1.0,
 timn,germany,2,2.0,
 timotheecour,united states,3,2.0,1.0
@@ -12932,7 +12895,6 @@ tkh44,united states,1,1.0,
 tkhyn,new zealand,2,1.0,1.0
 tkjaergaard,denmark,1,,1.0
 tkrajacic,austria,1,1.0,
-tkrugg,france,1,1.0,
 tkrupers,netherlands,1,,1.0
 tkuichooseyou,japan,1,1.0,
 tkunic,canada,2,,2.0
@@ -12954,12 +12916,11 @@ tntnatbry,canada,2,1.0,1.0
 tnunes,portugal,3,,3.0
 tnylea,united states,1,1.0,
 to4iki,japan,1,,1.0
-toanant,india,2,1.0,1.0
+toanant,india,3,2.0,1.0
 toastdriven,united states,3,3.0,
 tobegit3hub,china,4,3.0,1.0
 tobgu,sweden,1,1.0,
 tobiasandersen,sweden,1,1.0,
-tobiasviehweger,germany,1,1.0,
 tobiasvl,norway,2,1.0,1.0
 tobika,france,1,,1.0
 tobinibot,united states,1,1.0,
@@ -12984,7 +12945,7 @@ tomByrer,united states,1,1.0,
 tomMoral,france,14,1.0,13.0
 tomap,france,1,1.0,
 tomasreimers,united states,1,,1.0
-tomastrajan,switzerland,6,5.0,1.0
+tomastrajan,switzerland,1,1.0,
 tomasz-szymanek,poland,1,1.0,
 tomasz-tomczyk,united kingdom,1,,1.0
 tomauty,united states,1,,1.0
@@ -12992,7 +12953,6 @@ tomazc,slovenia,1,1.0,
 tombasche,australia,2,1.0,1.0
 tombenton,united states,1,1.0,
 tombigel,israel,1,1.0,
-tomblachut,poland,1,1.0,
 tomboruta,united states,1,1.0,
 tomcastleman,united kingdom,3,1.0,2.0
 tomchristie,united kingdom,1,,1.0
@@ -13058,7 +13018,6 @@ tpape,french guiana,1,1.0,
 tpazderka,czechia,1,1.0,
 tpetazzoni,france,3,3.0,
 tplaner,united states,1,1.0,
-tplk,russia,1,,1.0
 tpreusse,switzerland,1,1.0,
 tqc,australia,3,3.0,
 tracer0tong,japan,1,,1.0
@@ -13081,7 +13040,6 @@ trel,united states,1,,1.0
 tremby,canada,2,2.0,
 trentrand,united states,1,1.0,
 trentxintong,united states,41,34.0,7.0
-trestletech,united states,1,1.0,
 trevnorris,united states,1,,1.0
 trevor-m,united states,54,4.0,50.0
 trevorade,united states,3,2.0,1.0
@@ -13100,7 +13058,7 @@ tristanbbq,canada,1,1.0,
 trivikr,united states,1,,1.0
 troeggla,netherlands,1,,1.0
 trongrg,vietnam,1,,1.0
-trotyl,china,74,60.0,14.0
+trotyl,china,72,60.0,12.0
 troutowicz,united states,2,,2.0
 trowski,united states,7,4.0,3.0
 troyanskiy,switzerland,6,6.0,
@@ -13114,7 +13072,6 @@ trumbitta,italy,1,,1.0
 truongduy134,united states,1,,1.0
 truthdoug,united states,1,1.0,
 trzecieu,sweden,1,1.0,
-tsabirgaliev,kazakhstan,3,1.0,2.0
 tsamridh86,india,1,1.0,
 tsangint,china,4,3.0,1.0
 tsantero,united states,1,1.0,
@@ -13133,6 +13090,7 @@ tsunammis,france,1,1.0,
 tsuyukimakoto,japan,1,1.0,
 tswr,russia,1,1.0,
 ttowncompiled,united states,13,13.0,
+ttpcodes,new zealand,1,1.0,
 tttthomasssss,united kingdom,3,,3.0
 tubaman,united states,2,1.0,1.0
 tucan9389,south korea,2,,2.0
@@ -13169,7 +13127,7 @@ twostraws,united kingdom,3,,3.0
 twz915,china,4,3.0,1.0
 tyage,japan,2,1.0,1.0
 tyao1,united states,1,1.0,
-tycho01,netherlands,6,5.0,1.0
+tycho01,netherlands,4,3.0,1.0
 tychota,france,3,3.0,
 tyfkda,japan,7,1.0,6.0
 tyiu,united states,1,,1.0
@@ -13268,10 +13226,10 @@ vaal-,russia,1,1.0,
 vadimeremeev,thailand,2,2.0,
 vafada,united states,1,1.0,
 vaibhavpandeyvpz,india,1,1.0,
+vaibhavsagar,united states,1,,1.0
 vaibhavsood,india,1,,1.0
-vaidd4,france,2,1.0,1.0
 vajahath,india,1,1.0,
-vakrilov,bulgaria,2,1.0,1.0
+vakrilov,bulgaria,1,1.0,
 valera-rozuvan,ukraine,1,,1.0
 valeriyvan,germany,2,,2.0
 valscion,finland,2,1.0,1.0
@@ -13341,10 +13299,9 @@ vicky002,india,5,3.0,2.0
 vickychijwani,india,1,,1.0
 vicould,united states,2,2.0,
 victor-o-silva,brazil,2,1.0,1.0
-victorboissiere,france,1,,1.0
 victorgama,brazil,2,2.0,
 victormejia,united kingdom,1,1.0,
-victornoel,france,2,2.0,
+victornoel,france,1,1.0,
 vidartf,norway,1,,1.0
 viddo,united states,2,,2.0
 vidyarani-dg,australia,1,1.0,
@@ -13354,6 +13311,8 @@ vigneshpy,india,1,1.0,
 vigzmv,india,1,1.0,
 vijaykramesh,united states,1,,1.0
 vijithassar,united states,1,1.0,
+vikas-parashar,india,2,2.0,
+vikasvmads,india,2,2.0,
 vikeri,sweden,1,1.0,
 vikkalen,france,1,1.0,
 vikrama,united states,2,2.0,
@@ -13391,6 +13350,7 @@ vino83th,australia,1,1.0,
 vinu2003,australia,2,1.0,1.0
 vinzZappavigna,italy,1,1.0,
 vipin14119,india,1,1.0,
+vipulchhabra99,pakistan,3,3.0,
 vipulnsward,india,4,1.0,3.0
 virajmavani,united states,1,,1.0
 vishal-sancheti,india,2,2.0,
@@ -13411,6 +13371,7 @@ vitorcunha1995,brazil,1,1.0,
 vitorleonel,brazil,1,1.0,
 vitormattos,brazil,2,2.0,
 vivaxy,china,1,1.0,
+vivekanand1101,india,1,1.0,
 vivekjuneja,germany,1,1.0,
 vivekk-ezdi,india,5,,5.0
 vivekkiran,pakistan,1,1.0,
@@ -13468,7 +13429,6 @@ vorpus,united states,3,3.0,
 vorujack,iran,1,1.0,
 votemike,united kingdom,2,2.0,
 vovanmozg,russia,1,1.0,
-vovikdrg,australia,1,1.0,
 vovkasm,russia,7,4.0,3.0
 voxpelli,sweden,1,,1.0
 voyula,turkey,6,5.0,1.0
@@ -13483,11 +13443,12 @@ vreality64,south korea,1,1.0,
 vrishank97,india,9,4.0,5.0
 vritant24,united states,1,1.0,
 vroger11,france,1,1.0,
+vrozkovec,czechia,1,1.0,
 vrtx,new zealand,2,,2.0
 vruusmann,estonia,1,,1.0
 vsajip,united kingdom,1,1.0,
 vsanasc,panama,1,1.0,
-vsavkin,canada,280,228.0,52.0
+vsavkin,canada,273,227.0,46.0
 vsfarooqkhan,india,2,2.0,
 vsiao,united states,1,,1.0
 vslinko,russia,4,4.0,
@@ -13520,7 +13481,7 @@ w1zeman1p,united states,1,1.0,
 w3cj,united states,1,1.0,
 w9jds,united states,4,1.0,3.0
 wGEric,united states,3,1.0,2.0
-wKoza,france,54,40.0,14.0
+wKoza,france,43,37.0,6.0
 wa-Nadoo,belarus,1,1.0,
 wabirached,canada,2,1.0,1.0
 wadahiro,japan,1,,1.0
@@ -13538,6 +13499,7 @@ waleedka,united states,1,,1.0
 walid-shalaby,united states,1,1.0,
 walinga,canada,1,,1.0
 wallygauze,united kingdom,6,3.0,3.0
+walterheck,netherlands,1,1.0,
 walyong,south korea,1,1.0,
 wamatt,united states,1,,1.0
 wang-boyu,singapore,1,,1.0
@@ -13555,7 +13517,7 @@ wangz10,united states,1,,1.0
 wanyaxing,china,1,1.0,
 wapmorgan,russia,1,1.0,
 waprin,united states,1,,1.0
-wardbell,united states,159,48.0,111.0
+wardbell,united states,157,47.0,110.0
 wardcapp,belgium,1,1.0,
 warpdesign,france,3,,3.0
 warrd,united kingdom,1,1.0,
@@ -13574,6 +13536,7 @@ wbsdty331,china,2,2.0,
 wcjohnson11,united states,2,2.0,
 wcwung,united states,1,,1.0
 wd39,norway,1,1.0,
+wdaher,united states,1,1.0,
 weaksauce,united states,1,,1.0
 wearp,united kingdom,1,1.0,
 web-dave,germany,3,3.0,
@@ -13598,7 +13561,6 @@ wehlutyk,france,2,,2.0
 wei-yuan,taiwan,2,2.0,
 weidankong,united states,2,,2.0
 weijian001,china,1,,1.0
-weijyewang,malaysia,1,1.0,
 weilinear,switzerland,11,8.0,3.0
 weima,canada,1,1.0,
 weixiyen,united states,3,3.0,
@@ -13613,7 +13575,7 @@ wenpkpk,china,2,2.0,
 weotch,united states,5,5.0,
 wernight,switzerland,1,,1.0
 wesbos,new zealand,1,1.0,
-wesleycho,united states,15,11.0,4.0
+wesleycho,united states,13,10.0,3.0
 wesleykendall,united states,1,1.0,
 wesleysmyth,united states,1,1.0,
 wesrobinson12,united states,1,1.0,
@@ -13634,7 +13596,6 @@ whitedogg13,taiwan,2,2.0,
 whitekid,south korea,1,1.0,
 whoan,paraguay,1,1.0,
 whoisnanli,united states,1,1.0,
-wholysz,poland,1,1.0,
 whoyawn,philippines,1,1.0,
 whs,thailand,3,,3.0
 whxaxes,china,1,1.0,
@@ -13658,7 +13619,6 @@ willfong,singapore,2,2.0,
 willfrey,united states,1,,1.0
 willhardy,germany,2,2.0,
 william-gr,brazil,6,1.0,5.0
-william-lohan,united states,1,1.0,
 william-schmitt,united states,1,1.0,
 williambout,united states,1,,1.0
 williamn,indonesia,1,,1.0
@@ -13685,7 +13645,7 @@ windvalley,china,1,1.0,
 windwiny,china,1,1.0,
 winfieldco,united states,1,,1.0
 winglian,united states,2,1.0,1.0
-winkerVSbecks,canada,3,2.0,1.0
+winkerVSbecks,canada,2,2.0,
 winkidney,china,1,,1.0
 winterbe,germany,2,1.0,1.0
 wiredmax,canada,1,1.0,
@@ -13705,7 +13665,6 @@ wm75,germany,8,3.0,5.0
 wmarques,france,1,1.0,
 wmcbain,united states,1,1.0,
 wndfly,china,2,2.0,
-wnodom,united states,1,,1.0
 wnqnguo,united states,2,2.0,
 wns3645,south korea,2,2.0,
 wodesuck,china,2,,2.0
@@ -13729,7 +13688,7 @@ woutdp,canada,1,1.0,
 wpjunior,brazil,1,1.0,
 wqj97,china,1,1.0,
 wraithan,united states,1,,1.0
-wrakky,united kingdom,2,,2.0
+wrakky,united kingdom,1,,1.0
 wreckage,united states,1,1.0,
 wroberts,germany,1,,1.0
 wroscoe,united states,1,,1.0
@@ -13795,6 +13754,7 @@ xiaobailong24,china,1,1.0,
 xiaohuilam,china,1,1.0,
 xiaomiba0904,china,1,,1.0
 xiekeyi98,china,2,1.0,1.0
+xiemaisi,united kingdom,2,2.0,
 xiewang,china,1,1.0,
 xinan-jiang,china,4,1.0,3.0
 xing-zheng,china,2,2.0,
@@ -13810,8 +13770,8 @@ xland,china,2,2.0,
 xlotlu,romania,1,,1.0
 xlozinguez,united states,1,1.0,
 xlq,united kingdom,2,2.0,
+xlttj,germany,1,,1.0
 xml,switzerland,1,1.0,
-xmtigra,ukraine,2,1.0,1.0
 xodus7,united states,3,,3.0
 xorg,switzerland,3,1.0,2.0
 xp44mm,china,2,2.0,
@@ -13876,7 +13836,6 @@ yangyanli,china,1,1.0,
 yanivbl6,israel,3,,3.0
 yannbertrand,france,1,1.0,
 yannbf,netherlands,1,,1.0
-yanneves,united kingdom,1,1.0,
 yanniks,germany,1,,1.0
 yannvgn,germany,1,,1.0
 yantene,japan,1,,1.0
@@ -13889,6 +13848,7 @@ yardstick17,germany,3,2.0,1.0
 yaroslavvb,united states,28,11.0,17.0
 yas375,united states,1,1.0,
 yasaricli,turkey,2,1.0,1.0
+yashmehrotra,india,1,1.0,
 yashrajbharti,india,1,1.0,
 yasinkocak,netherlands,4,4.0,
 yassipad,france,1,1.0,
@@ -13930,12 +13890,13 @@ yingted,united states,1,,1.0
 yingw787,united states,2,1.0,1.0
 yisibl,china,1,,1.0
 yitongding,united states,1,,1.0
-yjaaidi,france,2,2.0,
+yjaaidi,france,1,1.0,
 yjh0502,south korea,1,1.0,
 yjhjstz,china,2,2.0,
 yjose,morocco,1,1.0,
 yk5,united states,3,1.0,2.0
 ykguru,indonesia,1,1.0,
+ykrsm,philippines,1,1.0,
 ykzts,japan,1,1.0,
 yli192,united states,1,1.0,
 ylixir,france,1,1.0,
@@ -13955,6 +13916,7 @@ yoni,united states,1,,1.0
 yoniLavi,ireland,1,1.0,
 yonta,japan,1,1.0,
 yoongkang,australia,16,16.0,
+yorickvP,netherlands,1,1.0,
 yorodm,cuba,1,1.0,
 yoshuki,japan,1,,1.0
 youdz,united states,1,1.0,
@@ -13977,7 +13939,6 @@ yuanxiaosc,china,1,1.0,
 yuanyan,china,6,4.0,2.0
 yubaoquan,china,1,1.0,
 yudori,nigeria,1,,1.0
-yueming-Chen,australia,1,1.0,
 yueshuaijie,china,6,6.0,
 yueyoum,china,1,1.0,
 yufengg,united states,7,4.0,3.0
@@ -14023,13 +13984,13 @@ zackangelo,united states,1,1.0,
 zackkitzmiller,united states,1,,1.0
 zackschuster,united states,2,2.0,
 zackse,united states,1,1.0,
+zacps,new zealand,3,2.0,1.0
 zacstewart,united states,1,,1.0
 zafartahirov,philippines,5,1.0,4.0
 zahash,india,1,1.0,
 zaknesler,united states,2,,2.0
 zakton5,united states,12,6.0,6.0
 zalew,poland,1,1.0,
-zalog,romania,2,1.0,1.0
 zamotany,poland,1,1.0,
 zanarmstrong,united states,1,,1.0
 zanbaldwin,canada,1,,1.0
@@ -14052,6 +14013,7 @@ zbowling,united states,2,,2.0
 zdenekhynek,united kingdom,1,1.0,
 zdgriffith,united states,4,1.0,3.0
 zdog234,united states,1,1.0,
+zeddmaxx,india,1,1.0,
 zedr,italy,10,9.0,1.0
 zedtux,luxembourg,1,1.0,
 zeke,united states,1,,1.0
@@ -14103,6 +14065,7 @@ zhiyan,china,1,1.0,
 zhongjie-chen,china,2,2.0,
 zhongsp,china,1,,1.0
 zhongxingdou,china,6,4.0,2.0
+zhoufeng1989,new zealand,2,2.0,
 zhouzhongyuan,china,1,1.0,
 zhuangya,china,1,1.0,
 zhuscat,china,1,,1.0

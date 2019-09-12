@@ -3,7 +3,7 @@ import numpy as np
 import csv
 
 df = pd.read_csv("../../data/bases/all_projects.csv")
-df_accepted = df.loc[df["merged"] != False]
+# df_accepted = df.loc[df["merged"] != False]
 # df_rejected = df.loc[df["merged"] == False]
 
 # % accepted and rejected
@@ -17,7 +17,7 @@ df_accepted = df.loc[df["merged"] != False]
 
 # # Total de contribuidores
 # print("Total de pull requests: ", df["login"].count())
-# print("Total de contribuidores: ", df["login"].nunique())
+print("Total de contribuidores: ", df["login"].nunique())
 #
 # # Total de pull requests
 # print("Total de pull requests: ", df["login"].count())
@@ -26,7 +26,7 @@ df_accepted = df.loc[df["merged"] != False]
 # df.groupby("country").size().to_csv("total.csv")
 #
 # # Contribuicoes aceitas
-df_accepted.groupby("country").size().to_csv("accepted.csv")
+# df_accepted.groupby("country").size().to_csv("accepted.csv")
 #
 # # Pull requests rejected by country
 # df_rejected.groupby("country").size().to_csv("rejected.csv")
@@ -38,17 +38,20 @@ df_accepted.groupby("country").size().to_csv("accepted.csv")
 # contribuidores por pais
 # df.sort_values("login", inplace=True)
 # df_2 = df.drop_duplicates(subset="login", inplace=False)
-# df_2.groupby("country").size().to_csv("contripercountry.csv")
+# df_2.groupby("country").size().to_csv("../../data/contri_per_country.csv")
 
 
 # Contributos by country
-# df = pd.read_csv("total.csv")
-# df_2 = pd.read_csv("contripercountry.csv")
-# dict_1 = dict(zip(list(df["country"]), list(df["number"])))
-# dict_2 = dict(zip(list(df_2["country"]), list(df_2["number"])))
+# df = pd.read_csv("../../data/acceptance_by_country.csv")
+# df_2 = pd.read_csv("../../data/contri_per_country.csv")
 #
-# output_file = open(r"prbycontributor.csv", "a", encoding="utf8")
+# dict_1 = dict(zip(list(df["country"]), list(df["prs"])))
+# dict_2 = dict(zip(list(df_2["country"]), list(df_2["qtd"])))
+#
+# output_file = open(r"../../data/prbycontributor.csv", "a", encoding="utf8")
 # writer = csv.writer(output_file)
 #
 # for key in dict_1:
-#     writer.writerow([key, dict_1[key], dict_2[key], dict_1[key] / dict_2[key]])
+#     writer.writerow(
+#         [key, dict_1[key], dict_2[key], round(dict_1[key] / dict_2[key], 2)]
+#     )

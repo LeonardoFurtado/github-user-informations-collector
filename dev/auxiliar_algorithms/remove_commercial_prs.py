@@ -12,7 +12,6 @@ from common.email_utils import is_commercial
 projects = [
     "atom",
     "angular",
-    "angular-cli",
     "cpython",
     "d3",
     "django",
@@ -30,6 +29,7 @@ projects = [
     "swift",
     "vscode",
     "vue",
+    "zulip",
 ]
 
 for project in projects:

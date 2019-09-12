@@ -4,7 +4,7 @@ import os
 projects = [
     "atom",
     "angular",
-    "angular-cli",
+    "zulip",
     "cpython",
     "d3",
     "django",
@@ -23,9 +23,10 @@ projects = [
     "vscode",
     "vue",
 ]
+path = "../../data/bases/zips/orgs_pr_removed/all_projects.csv"
 for project in projects:
-    current_df = pd.read_csv("../../data/bases/all_projects.csv")
-    next_df = pd.read_csv("../../data/bases/" + project + ".csv")
+    current_df = pd.read_csv(path)
+    next_df = pd.read_csv("../../data/bases/zips/orgs_pr_removed/" + project + ".csv")
     frames = [current_df, next_df]
-    output = pd.concat(frames)
-    output.to_csv("../../data/bases/all_projects.csv", index=False)
+    output = pd.concat(frames, sort=False)
+    output.to_csv(path, index=False)
