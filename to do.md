@@ -1,2 +1,3 @@
 - Generate maps
 - Fix south korea issue
+- Refactor auxiliar algorithms
