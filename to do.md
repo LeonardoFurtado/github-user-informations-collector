@@ -1,1 +1,2 @@
-south korea fix
+- Generate maps
+- Fix south korea issue
